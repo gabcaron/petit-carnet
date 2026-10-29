@@ -1,0 +1,344 @@
+{
+  "dialogue": [
+    {
+      "who": "Léa",
+      "fr": "Qu'est-ce que tu aimes faire le week-end ?",
+      "en": "What do you like doing at the weekend?"
+    },
+    {
+      "who": "Sari",
+      "fr": "J'aime lire et cuisiner. Et toi ?",
+      "en": "I like reading and cooking. And you?"
+    },
+    {
+      "who": "Léa",
+      "fr": "Moi, j'adore le sport. Je joue au tennis le samedi.",
+      "en": "I love sport. I play tennis on Saturdays."
+    },
+    {
+      "who": "Sari",
+      "fr": "Je n'aime pas beaucoup le sport… mais j'aime danser !",
+      "en": "I don't like sport much… but I like dancing!"
+    },
+    {
+      "who": "Léa",
+      "fr": "Tu aimes la musique française ?",
+      "en": "Do you like French music?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Oui, j'adore ! Mais je ne parle pas encore bien français.",
+      "en": "Yes, I love it! But I don't speak French well yet."
+    }
+  ],
+  "words": [
+    {
+      "id": "aimer",
+      "fr": "aimer",
+      "en": "to like, to love",
+      "note": "With a person it means love; with things, like."
+    },
+    {
+      "id": "adorer",
+      "fr": "adorer",
+      "en": "to love, to adore"
+    },
+    {
+      "id": "detester",
+      "fr": "détester",
+      "en": "to hate"
+    },
+    {
+      "id": "preferer",
+      "fr": "préférer",
+      "en": "to prefer",
+      "note": "je préfère (the accent changes)."
+    },
+    {
+      "id": "sport",
+      "fr": "le sport",
+      "en": "sport",
+      "gender": "m"
+    },
+    {
+      "id": "musique",
+      "fr": "la musique",
+      "en": "music",
+      "gender": "f"
+    },
+    {
+      "id": "cinema",
+      "fr": "le cinéma",
+      "en": "cinema, movies",
+      "gender": "m"
+    },
+    {
+      "id": "lire",
+      "fr": "lire",
+      "en": "to read"
+    },
+    {
+      "id": "cuisiner",
+      "fr": "cuisiner",
+      "en": "to cook"
+    },
+    {
+      "id": "danser",
+      "fr": "danser",
+      "en": "to dance"
+    },
+    {
+      "id": "chanter",
+      "fr": "chanter",
+      "en": "to sing"
+    },
+    {
+      "id": "voyager",
+      "fr": "voyager",
+      "en": "to travel"
+    },
+    {
+      "id": "nager",
+      "fr": "nager",
+      "en": "to swim"
+    },
+    {
+      "id": "regarder-tele",
+      "fr": "regarder la télé",
+      "en": "to watch TV"
+    },
+    {
+      "id": "jouer-foot",
+      "fr": "jouer au foot",
+      "en": "to play football",
+      "note": "jouer à + sport: au foot, au tennis."
+    },
+    {
+      "id": "jouer-guitare",
+      "fr": "jouer de la guitare",
+      "en": "to play the guitar",
+      "note": "jouer de + instrument: du piano, de la guitare."
+    },
+    {
+      "id": "faire-velo",
+      "fr": "faire du vélo",
+      "en": "to ride a bike"
+    },
+    {
+      "id": "week-end",
+      "fr": "le week-end",
+      "en": "the weekend; at weekends",
+      "gender": "m"
+    },
+    {
+      "id": "beaucoup",
+      "fr": "beaucoup",
+      "en": "a lot",
+      "note": "« J'aime beaucoup » = I like it a lot."
+    },
+    {
+      "id": "un-peu",
+      "fr": "un peu",
+      "en": "a little"
+    }
+  ],
+  "grammar": {
+    "title": "ne… pas: saying no",
+    "intro": "Indonesian puts one word before the verb (tidak). French wraps the verb in two words: ne + verb + pas.",
+    "table": [
+      [
+        "Positive",
+        "Negative",
+        "English"
+      ],
+      [
+        "J'aime le sport.",
+        "Je n'aime pas le sport.",
+        "I don't like sport."
+      ],
+      [
+        "Je parle français.",
+        "Je ne parle pas français.",
+        "I don't speak French."
+      ],
+      [
+        "Elle danse.",
+        "Elle ne danse pas.",
+        "She doesn't dance."
+      ],
+      [
+        "Nous voyageons.",
+        "Nous ne voyageons pas.",
+        "We don't travel."
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "Je n'aime pas le café.",
+        "en": "I don't like coffee."
+      },
+      {
+        "fr": "Tu aimes danser ?",
+        "en": "Do you like dancing?"
+      },
+      {
+        "fr": "Il ne joue pas au tennis.",
+        "en": "He doesn't play tennis."
+      }
+    ],
+    "trap": "ne becomes n' before a vowel: « je n'aime pas ». When speaking, French people often drop the ne (« j'aime pas ») — you will hear it everywhere, but write the full form. After aimer, keep the article: « j'aime le sport », never « j'aime sport »."
+  },
+  "sounds": {
+    "title": "an or on? Two nasal sounds",
+    "explain": "Both sounds go through the nose. For « an » (also written en, em) open your mouth wide. For « on » round your lips into a small circle.",
+    "pairs": [
+      [
+        "vent",
+        "vont"
+      ],
+      [
+        "temps",
+        "ton"
+      ],
+      [
+        "lent",
+        "long"
+      ],
+      [
+        "blanc",
+        "blond"
+      ],
+      [
+        "sans",
+        "son"
+      ]
+    ],
+    "tip": "Pinch your nose while you say them: if the sound changes, you are doing it right!"
+  },
+  "practice": [
+    {
+      "type": "fill",
+      "prompt": "Make it negative.",
+      "sentence": "Je ne parle ___ espagnol.",
+      "answers": [
+        "pas"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Make it negative.",
+      "sentence": "Je ___ aime pas le fromage.",
+      "answers": [
+        "n'"
+      ],
+      "explain": "ne becomes n' before a vowel."
+    },
+    {
+      "type": "choice",
+      "prompt": "\"I don't like sport\" is…",
+      "options": [
+        "Je n'aime pas sport.",
+        "Je n'aime pas le sport.",
+        "Je ne pas aime le sport."
+      ],
+      "answer": "Je n'aime pas le sport."
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen and choose what you hear.",
+      "options": [
+        "blanc",
+        "blond"
+      ],
+      "answer": "blond",
+      "listen": "blond"
+    },
+    {
+      "type": "choice",
+      "prompt": "Which one is about an instrument?",
+      "options": [
+        "jouer au foot",
+        "jouer de la guitare"
+      ],
+      "answer": "jouer de la guitare",
+      "explain": "jouer de + instrument, jouer à + sport."
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Je",
+        "ne",
+        "danse",
+        "pas"
+      ],
+      "answer": "Je ne danse pas"
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with au or de la.",
+      "sentence": "Je joue ___ tennis.",
+      "answers": [
+        "au"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "In the dialogue, Sari likes…",
+      "options": [
+        "sport",
+        "reading and cooking",
+        "tennis"
+      ],
+      "answer": "reading and cooking"
+    },
+    {
+      "type": "fill",
+      "prompt": "Make it negative.",
+      "sentence": "Elle ___ voyage pas.",
+      "answers": [
+        "ne"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen and choose what you hear.",
+      "options": [
+        "temps",
+        "ton"
+      ],
+      "answer": "ton",
+      "listen": "ton"
+    },
+    {
+      "type": "order",
+      "prompt": "Make the question.",
+      "words": [
+        "Tu",
+        "aimes",
+        "la",
+        "musique"
+      ],
+      "answer": "Tu aimes la musique"
+    },
+    {
+      "type": "fill",
+      "prompt": "Translate: \"I love cooking.\"",
+      "sentence": "J'___ cuisiner.",
+      "answers": [
+        "adore",
+        "aime"
+      ]
+    }
+  ],
+  "task": {
+    "prompt": "Write 4 sentences about your tastes: two things you like or love, and two things you don't like.",
+    "example": "J'adore cuisiner et j'aime voyager. Je n'aime pas le sport. Je ne regarde pas la télé.",
+    "checklist": [
+      "I can say what I like and love",
+      "I can make a negative sentence with ne… pas",
+      "I can use jouer au / jouer de",
+      "I can hear the difference between « an » and « on »"
+    ]
+  }
+}

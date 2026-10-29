@@ -1,0 +1,364 @@
+{
+  "dialogue": [
+    {
+      "who": "Léa",
+      "fr": "Tu as quel âge, Sari ?",
+      "en": "How old are you, Sari?"
+    },
+    {
+      "who": "Sari",
+      "fr": "J'ai vingt-six ans. Et toi ?",
+      "en": "I'm twenty-six. And you?"
+    },
+    {
+      "who": "Léa",
+      "fr": "J'ai trente ans. Tu travailles ?",
+      "en": "I'm thirty. Do you work?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Oui, je suis infirmière. Et toi ?",
+      "en": "Yes, I'm a nurse. And you?"
+    },
+    {
+      "who": "Léa",
+      "fr": "Moi, je suis professeure. Tu habites où ?",
+      "en": "Me, I'm a teacher. Where do you live?"
+    },
+    {
+      "who": "Sari",
+      "fr": "J'habite à Paris, rue Victor-Hugo.",
+      "en": "I live in Paris, on Victor-Hugo Street."
+    }
+  ],
+  "words": [
+    {
+      "id": "age",
+      "fr": "l'âge",
+      "en": "age",
+      "gender": "m",
+      "note": "Ask: « Tu as quel âge ? »"
+    },
+    {
+      "id": "an",
+      "fr": "un an",
+      "en": "a year",
+      "gender": "m",
+      "note": "« J'ai vingt-six ans » = I am 26 (literally: I have 26 years)."
+    },
+    {
+      "id": "trente",
+      "fr": "trente",
+      "en": "30"
+    },
+    {
+      "id": "quarante",
+      "fr": "quarante",
+      "en": "40"
+    },
+    {
+      "id": "cinquante",
+      "fr": "cinquante",
+      "en": "50"
+    },
+    {
+      "id": "soixante",
+      "fr": "soixante",
+      "en": "60"
+    },
+    {
+      "id": "soixante-dix",
+      "fr": "soixante-dix",
+      "en": "70",
+      "note": "60 + 10. Then 71 = soixante et onze, 72 = soixante-douze…"
+    },
+    {
+      "id": "quatre-vingts",
+      "fr": "quatre-vingts",
+      "en": "80",
+      "note": "4 × 20! 81 = quatre-vingt-un."
+    },
+    {
+      "id": "quatre-vingt-dix",
+      "fr": "quatre-vingt-dix",
+      "en": "90",
+      "note": "4 × 20 + 10."
+    },
+    {
+      "id": "cent",
+      "fr": "cent",
+      "en": "100",
+      "note": "The t is silent."
+    },
+    {
+      "id": "travail",
+      "fr": "le travail",
+      "en": "work, job",
+      "gender": "m"
+    },
+    {
+      "id": "professeur",
+      "fr": "professeur / professeure",
+      "en": "teacher",
+      "note": "Man / woman (same sound)."
+    },
+    {
+      "id": "infirmier",
+      "fr": "infirmier / infirmière",
+      "en": "nurse",
+      "note": "Man / woman."
+    },
+    {
+      "id": "etudiant",
+      "fr": "étudiant / étudiante",
+      "en": "student",
+      "note": "Man / woman. In the feminine, you hear the t."
+    },
+    {
+      "id": "ingenieur",
+      "fr": "ingénieur / ingénieure",
+      "en": "engineer",
+      "note": "Man / woman (same sound)."
+    },
+    {
+      "id": "medecin",
+      "fr": "médecin",
+      "en": "doctor",
+      "note": "Same word for a man and a woman."
+    },
+    {
+      "id": "adresse",
+      "fr": "l'adresse",
+      "en": "address",
+      "gender": "f",
+      "note": "One d in French, two s."
+    },
+    {
+      "id": "numero",
+      "fr": "le numéro de téléphone",
+      "en": "phone number",
+      "gender": "m"
+    },
+    {
+      "id": "habiter",
+      "fr": "habiter",
+      "en": "to live (somewhere)",
+      "note": "j'habite, tu habites, il habite — the h is silent."
+    },
+    {
+      "id": "travailler",
+      "fr": "travailler",
+      "en": "to work",
+      "note": "je travaille, tu travailles, il travaille — all sound the same!"
+    }
+  ],
+  "grammar": {
+    "title": "avoir (to have) and your age",
+    "intro": "In Indonesian you say « umur saya 26 tahun ». In French you say « I have 26 years »: age always uses avoir.",
+    "table": [
+      [
+        "",
+        "avoir",
+        "English"
+      ],
+      [
+        "j'",
+        "ai",
+        "I have"
+      ],
+      [
+        "tu",
+        "as",
+        "you have (friend)"
+      ],
+      [
+        "il / elle",
+        "a",
+        "he / she has"
+      ],
+      [
+        "nous",
+        "avons",
+        "we have"
+      ],
+      [
+        "vous",
+        "avez",
+        "you have (polite or plural)"
+      ],
+      [
+        "ils / elles",
+        "ont",
+        "they have"
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "J'ai vingt-six ans.",
+        "en": "I'm 26."
+      },
+      {
+        "fr": "Tu as quel âge ?",
+        "en": "How old are you?"
+      },
+      {
+        "fr": "Ils ont un appartement à Lyon.",
+        "en": "They have a flat in Lyon."
+      }
+    ],
+    "trap": "Never « Je suis 26 ans »: age is avoir + ans. And like nationalities, jobs take no article: « Je suis infirmière », not « Je suis une infirmière »."
+  },
+  "sounds": {
+    "title": "ils sont or ils ont?",
+    "explain": "These two are easy to mix up. « ils sont » (they are) has an s sound. « ils ont » (they have) has a z sound, because the s of ils links to the vowel.",
+    "pairs": [
+      [
+        "ils sont",
+        "ils ont"
+      ],
+      [
+        "elles sont",
+        "elles ont"
+      ],
+      [
+        "ils s'aiment",
+        "ils aiment"
+      ],
+      [
+        "deux sœurs",
+        "deux heures"
+      ]
+    ],
+    "tip": "Listen for the buzzing z: « ils_ont », « vous_avez », « nous_avons »."
+  },
+  "practice": [
+    {
+      "type": "fill",
+      "prompt": "Complete with avoir.",
+      "sentence": "J'___ vingt-six ans.",
+      "answers": [
+        "ai"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "How do you say \"I am 30\"?",
+      "options": [
+        "Je suis trente ans.",
+        "J'ai trente ans.",
+        "J'ai trente."
+      ],
+      "answer": "J'ai trente ans.",
+      "explain": "Age = avoir + number + ans."
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with avoir.",
+      "sentence": "Tu ___ quel âge ?",
+      "answers": [
+        "as"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen and choose what you hear.",
+      "options": [
+        "quatorze",
+        "quarante",
+        "quatre",
+        "quatre-vingts"
+      ],
+      "answer": "quarante",
+      "listen": "quarante"
+    },
+    {
+      "type": "choice",
+      "prompt": "80 in French is…",
+      "options": [
+        "soixante-dix",
+        "quatre-vingts",
+        "cent"
+      ],
+      "answer": "quatre-vingts",
+      "explain": "4 × 20 = quatre-vingts."
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with avoir.",
+      "sentence": "Vous ___ une adresse e-mail ?",
+      "answers": [
+        "avez"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "J'habite",
+        "à",
+        "Lyon"
+      ],
+      "answer": "J'habite à Lyon"
+    },
+    {
+      "type": "choice",
+      "prompt": "A woman who is a nurse says:",
+      "options": [
+        "Je suis infirmier.",
+        "Je suis infirmière.",
+        "Je suis une infirmière."
+      ],
+      "answer": "Je suis infirmière.",
+      "explain": "Feminine form, and no article before a job."
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with avoir.",
+      "sentence": "Ils ___ vingt ans.",
+      "answers": [
+        "ont"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen and choose what you hear.",
+      "options": [
+        "ils sont",
+        "ils ont"
+      ],
+      "answer": "ils ont",
+      "listen": "ils ont",
+      "explain": "« ils ont » has a z sound."
+    },
+    {
+      "type": "fill",
+      "prompt": "travailler → je…",
+      "sentence": "Je ___ dans un hôpital.",
+      "answers": [
+        "travaille"
+      ],
+      "explain": "-er verbs: je travaille, tu travailles, il travaille."
+    },
+    {
+      "type": "order",
+      "prompt": "Make the question.",
+      "words": [
+        "Tu",
+        "as",
+        "quel",
+        "âge"
+      ],
+      "answer": "Tu as quel âge"
+    }
+  ],
+  "task": {
+    "prompt": "Introduce yourself like on a form, in full sentences: your name, age, job, city and email.",
+    "example": "Je m'appelle Sari. J'ai vingt-six ans. Je suis infirmière. J'habite à Paris. Mon e-mail, c'est sari@mail.com.",
+    "checklist": [
+      "I can say my age with avoir",
+      "I can say my job",
+      "I can say where I live",
+      "I can count by tens up to 100"
+    ]
+  }
+}

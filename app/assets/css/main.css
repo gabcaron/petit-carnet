@@ -1,0 +1,186 @@
+/*
+  Style guide (see /styleguide), built on "The Fundamentals", with a playful finish:
+  - one action colour (blue), used only for buttons, links, icons; sunny yellow for rewards only
+  - dark ink instead of pure black, warm cream background, soft pastel cards
+  - two font families: Fredoka (headings + French text, rounded) + Nunito (body)
+  - type scale H1 32 / H2 24 / H3 20 / body 17 / small 14
+  - generous white space on an 8px rhythm, 48px touch targets, chunky "pressable" buttons
+*/
+:root {
+  --c-primary: #3d5af1;
+  --c-primary-dark: #2a3fbf;
+  --c-primary-soft: #e8ecff;
+  --c-accent: #ffc53d;      /* rewards only */
+  --c-accent-dark: #d99a00;
+  --c-accent-soft: #fff4d6;
+
+  --c-ink: #2b2d42;         /* outlines and headings */
+  --c-text: #444;
+  --c-muted: #6b6f80;
+  --c-line: #e8e3da;
+  --c-bg: #fff8ef;
+  --c-surface: #fff;
+
+  --c-success: #1f8a5b;
+  --c-success-soft: #ddf5e8;
+  --c-error: #d13f3f;
+  --c-error-soft: #ffe5e3;
+  --c-m: #3d6fd6;           /* masculine nouns */
+  --c-f: #d6457a;           /* feminine nouns */
+
+  /* pastel backgrounds for unit cards */
+  --p1: #ffe7d6; --p2: #e2f0ff; --p3: #e6f7e9; --p4: #f3e8ff; --p5: #fff1c9; --p6: #ffe3ec;
+
+  --font-head: 'Fredoka', 'Nunito', system-ui, sans-serif;
+  --font-text: 'Nunito', system-ui, -apple-system, sans-serif;
+  --fs-h1: 2rem;
+  --fs-h2: 1.5rem;
+  --fs-h3: 1.25rem;
+  --fs-body: 1.0625rem;
+  --fs-small: 0.875rem;
+
+  --s1: 0.5rem;
+  --s2: 1rem;
+  --s3: 1.5rem;
+  --s4: 2rem;
+  --s5: 3rem;
+  --s6: 4.5rem;
+
+  --radius: 20px;
+  --tap: 48px;
+  --pop: 0 4px 0 var(--c-ink);   /* chunky offset shadow */
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--c-bg);
+  color: var(--c-text);
+  font: 400 var(--fs-body) / 1.6 var(--font-text);
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3 { font-family: var(--font-head); font-weight: 600; line-height: 1.2; margin: 0 0 var(--s2); color: var(--c-ink); }
+h1 { font-size: var(--fs-h1); }
+h2 { font-size: var(--fs-h2); }
+h3 { font-size: var(--fs-h3); }
+p { margin: 0 0 var(--s2); }
+a { color: var(--c-primary); }
+small, .small { font-size: var(--fs-small); }
+.muted { color: var(--c-muted); }
+.fr { font-family: var(--font-head); font-weight: 500; }
+
+:focus-visible { outline: 3px solid var(--c-primary); outline-offset: 3px; border-radius: 8px; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation: none !important; transition: none !important; }
+}
+
+/* ---------- Layout: 12-column grid, breakpoints L 1280 / M 980 / S 736 / XS 480 ---------- */
+.container { width: 100%; max-width: 1080px; margin: 0 auto; padding: 0 var(--s3); }
+.container--narrow { max-width: 680px; }
+.section { padding: var(--s5) 0; }
+
+.grid { display: grid; grid-template-columns: repeat(12, 1fr); gap: var(--s3); }
+.span-4 { grid-column: span 4; }
+.span-6 { grid-column: span 6; }
+.span-12 { grid-column: span 12; }
+@media (max-width: 980px) { .span-4 { grid-column: span 6; } }
+@media (max-width: 736px) {
+  .span-4, .span-6 { grid-column: span 12; }
+  .container { padding: 0 var(--s2); }
+  .section { padding: var(--s4) 0; }
+}
+
+.stack > * + * { margin-top: var(--s2); }
+.row { display: flex; gap: var(--s2); align-items: center; flex-wrap: wrap; }
+
+/* ---------- Components ---------- */
+.card {
+  background: var(--c-surface);
+  border: 2px solid var(--c-ink);
+  border-radius: var(--radius);
+  padding: var(--s3);
+  box-shadow: var(--pop);
+}
+
+/* Buttons sink into their shadow when pressed: immediate tap feedback. */
+.btn {
+  display: inline-flex; align-items: center; justify-content: center; gap: var(--s1);
+  min-height: var(--tap); padding: 0 var(--s3);
+  border: 2px solid var(--c-ink); border-radius: 16px;
+  font: 600 var(--fs-body) / 1 var(--font-head); letter-spacing: 0.01em;
+  text-decoration: none; cursor: pointer;
+  box-shadow: var(--pop);
+  transition: transform 0.08s ease, box-shadow 0.08s ease, background 0.15s ease;
+  -webkit-tap-highlight-color: transparent;
+}
+.btn:hover:not(:disabled) { transform: translateY(-1px); box-shadow: 0 5px 0 var(--c-ink); }
+.btn:active:not(:disabled) { transform: translateY(4px); box-shadow: 0 0 0 var(--c-ink); }
+.btn:disabled { opacity: 0.45; cursor: not-allowed; }
+.btn--primary { background: var(--c-primary); color: #fff; }
+.btn--ghost { background: var(--c-surface); color: var(--c-ink); }
+.btn--block { width: 100%; }
+
+.icon-btn {
+  display: inline-grid; place-items: center;
+  width: 48px; height: 48px; flex: none;
+  border: 2px solid var(--c-ink); border-radius: 50%;
+  background: var(--c-primary-soft); color: var(--c-primary); cursor: pointer;
+  box-shadow: 0 3px 0 var(--c-ink);
+  transition: transform 0.08s ease, box-shadow 0.08s ease;
+}
+.icon-btn:active { transform: translateY(3px); box-shadow: none; }
+
+.tag { display: inline-block; padding: 3px 12px; border-radius: 999px; font: 600 var(--fs-small) / 1.4 var(--font-head); background: var(--c-line); color: var(--c-muted); }
+.tag--m { background: #e3ecff; color: var(--c-m); }
+.tag--f { background: #ffe3ee; color: var(--c-f); }
+
+.progress { height: 12px; background: #fff; border: 2px solid var(--c-ink); border-radius: 999px; overflow: hidden; }
+.progress > span { display: block; height: 100%; background: var(--c-primary); border-radius: inherit; transition: width 0.4s cubic-bezier(.34, 1.56, .64, 1); }
+
+.feedback { border: 2px solid currentColor; border-radius: var(--radius); padding: var(--s2) var(--s3); animation: pop-in 0.25s ease; }
+.feedback strong { font-family: var(--font-head); font-size: 1.125rem; }
+.feedback--right { background: var(--c-success-soft); color: var(--c-success); }
+.feedback--wrong { background: var(--c-error-soft); color: var(--c-error); animation: shake 0.35s ease; }
+.feedback p { color: var(--c-text); margin: var(--s1) 0 0; }
+
+.input {
+  width: 100%; min-height: var(--tap); padding: 10px var(--s2);
+  border: 2px solid var(--c-ink); border-radius: 14px; background: var(--c-surface);
+  font: 400 var(--fs-body) / 1.4 var(--font-text); color: var(--c-text);
+}
+.input:focus { outline: none; border-color: var(--c-primary); box-shadow: 0 0 0 4px var(--c-primary-soft); }
+
+table.simple { width: 100%; border-collapse: collapse; font-size: var(--fs-body); }
+table.simple th, table.simple td { text-align: left; padding: 10px 12px; border-bottom: 2px dashed var(--c-line); }
+table.simple tr:last-child td { border-bottom: 0; }
+table.simple th { font: 600 var(--fs-small) / 1.4 var(--font-head); color: var(--c-muted); }
+
+/* Answer buttons (exercises) and word chips */
+.choices { display: grid; gap: var(--s1); }
+.choice, .chip {
+  min-height: var(--tap); padding: 10px var(--s2);
+  border: 2px solid var(--c-ink); border-radius: 14px; background: var(--c-surface);
+  font: 500 var(--fs-body) / 1.3 var(--font-text); color: var(--c-text); text-align: left; cursor: pointer;
+  box-shadow: 0 3px 0 var(--c-ink);
+  transition: transform 0.08s ease, box-shadow 0.08s ease, background 0.15s ease;
+}
+.choice:active:not(:disabled), .chip:active:not(:disabled) { transform: translateY(3px); box-shadow: none; }
+.choice.is-picked { background: var(--c-primary-soft); border-color: var(--c-primary); box-shadow: 0 3px 0 var(--c-primary); }
+.choice.is-right { background: var(--c-success-soft); border-color: var(--c-success); color: var(--c-success); box-shadow: 0 3px 0 var(--c-success); }
+.choice.is-wrong { background: var(--c-error-soft); border-color: var(--c-error); color: var(--c-error); box-shadow: 0 3px 0 var(--c-error); }
+.choice:disabled { cursor: default; }
+.chip { min-height: 44px; padding: 8px 16px; font-family: var(--font-head); border-radius: 999px; }
+.chip:disabled { opacity: 0.35; cursor: default; box-shadow: none; }
+
+/* Rewards */
+.cheer { font: 600 2.25rem / 1.1 var(--font-head); color: var(--c-ink); display: inline-block; animation: bounce-in 0.6s cubic-bezier(.34, 1.56, .64, 1); }
+.cheer::after { content: ''; display: block; height: 10px; margin-top: -8px; background: var(--c-accent); border-radius: 999px; opacity: 0.8; }
+
+@keyframes pop-in { from { transform: scale(0.96); opacity: 0; } to { transform: none; opacity: 1; } }
+@keyframes shake { 25% { transform: translateX(-6px); } 50% { transform: translateX(6px); } 75% { transform: translateX(-3px); } }
+@keyframes bounce-in { 0% { transform: scale(0.3) rotate(-6deg); opacity: 0; } 70% { transform: scale(1.08) rotate(2deg); opacity: 1; } 100% { transform: none; } }

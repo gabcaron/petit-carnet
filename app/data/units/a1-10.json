@@ -1,0 +1,347 @@
+{
+  "dialogue": [
+    {
+      "who": "Léa",
+      "fr": "Tu as passé un bon week-end ?",
+      "en": "Did you have a good weekend?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Oui ! Samedi, j'ai visité le musée d'Orsay avec Tom.",
+      "en": "Yes! On Saturday I visited the Musée d'Orsay with Tom."
+    },
+    {
+      "who": "Léa",
+      "fr": "C'est super ! Et dimanche ?",
+      "en": "That's great! And on Sunday?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Dimanche, j'ai fait la cuisine : j'ai préparé un nasi goreng !",
+      "en": "On Sunday I cooked: I made nasi goreng!"
+    },
+    {
+      "who": "Léa",
+      "fr": "Miam ! Tu es allée au marché ?",
+      "en": "Yum! Did you go to the market?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Oui, je suis allée au marché le matin, et l'après-midi, on a regardé un film.",
+      "en": "Yes, I went to the market in the morning, and in the afternoon we watched a film."
+    }
+  ],
+  "words": [
+    {
+      "id": "hier",
+      "fr": "hier",
+      "en": "yesterday"
+    },
+    {
+      "id": "hier-soir",
+      "fr": "hier soir",
+      "en": "last night, yesterday evening"
+    },
+    {
+      "id": "semaine-derniere",
+      "fr": "la semaine dernière",
+      "en": "last week"
+    },
+    {
+      "id": "week-end-dernier",
+      "fr": "le week-end dernier",
+      "en": "last weekend"
+    },
+    {
+      "id": "ce-matin",
+      "fr": "ce matin",
+      "en": "this morning"
+    },
+    {
+      "id": "mange",
+      "fr": "manger → mangé",
+      "en": "to eat → eaten",
+      "note": "All -er verbs: -é. « j'ai mangé » = I ate / I have eaten."
+    },
+    {
+      "id": "bu",
+      "fr": "boire → bu",
+      "en": "to drink → drunk"
+    },
+    {
+      "id": "fait",
+      "fr": "faire → fait",
+      "en": "to do, to make → done, made"
+    },
+    {
+      "id": "vu",
+      "fr": "voir → vu",
+      "en": "to see → seen"
+    },
+    {
+      "id": "pris",
+      "fr": "prendre → pris",
+      "en": "to take → taken"
+    },
+    {
+      "id": "lu",
+      "fr": "lire → lu",
+      "en": "to read → read"
+    },
+    {
+      "id": "ecrit",
+      "fr": "écrire → écrit",
+      "en": "to write → written"
+    },
+    {
+      "id": "dormi",
+      "fr": "dormir → dormi",
+      "en": "to sleep → slept"
+    },
+    {
+      "id": "fini",
+      "fr": "finir → fini",
+      "en": "to finish → finished"
+    },
+    {
+      "id": "alle",
+      "fr": "je suis allé / allée",
+      "en": "I went",
+      "note": "With être. A woman writes « allée » (same sound)."
+    },
+    {
+      "id": "parti",
+      "fr": "je suis parti / partie",
+      "en": "I left",
+      "note": "With être."
+    },
+    {
+      "id": "rentre",
+      "fr": "je suis rentré / rentrée",
+      "en": "I came back home",
+      "note": "With être."
+    },
+    {
+      "id": "reste",
+      "fr": "je suis resté / restée",
+      "en": "I stayed",
+      "note": "With être."
+    },
+    {
+      "id": "d-abord",
+      "fr": "d'abord",
+      "en": "first"
+    },
+    {
+      "id": "ensuite",
+      "fr": "ensuite",
+      "en": "then, next"
+    }
+  ],
+  "grammar": {
+    "title": "The past: avoir + past participle",
+    "intro": "Indonesian adds « sudah » or « kemarin » and keeps the verb the same. French changes the verb: avoir + past participle. Good news: all -er verbs end in -é (manger → mangé).",
+    "table": [
+      [
+        "",
+        "avoir + participle",
+        "English"
+      ],
+      [
+        "j'",
+        "ai mangé",
+        "I ate"
+      ],
+      [
+        "tu",
+        "as vu",
+        "you saw"
+      ],
+      [
+        "il / elle",
+        "a fait",
+        "he / she did"
+      ],
+      [
+        "nous",
+        "avons pris",
+        "we took"
+      ],
+      [
+        "vous",
+        "avez bu",
+        "you drank"
+      ],
+      [
+        "ils / elles",
+        "ont dormi",
+        "they slept"
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "Hier, j'ai mangé au restaurant.",
+        "en": "Yesterday I ate at a restaurant."
+      },
+      {
+        "fr": "Elle est partie ce matin.",
+        "en": "She left this morning."
+      },
+      {
+        "fr": "Je n'ai pas vu le film.",
+        "en": "I didn't see the film."
+      }
+    ],
+    "trap": "A few movement verbs use être instead of avoir: aller, partir, rentrer, rester, arriver, venir. With être, the participle agrees: « Sari est allée au marché ». In the negative, wrap avoir or être: « je n'ai pas mangé »."
+  },
+  "sounds": {
+    "title": "Present or past?",
+    "explain": "The present and the past can sound very close. Listen for the little « ai / as / a » before the verb and the « é » at the end: « je mange » (I eat) / « j'ai mangé » (I ate).",
+    "pairs": [
+      [
+        "je mange",
+        "j'ai mangé"
+      ],
+      [
+        "je parle",
+        "j'ai parlé"
+      ],
+      [
+        "tu regardes",
+        "tu as regardé"
+      ],
+      [
+        "il travaille",
+        "il a travaillé"
+      ]
+    ],
+    "tip": "The final « é » is short and smiling, like in « café »."
+  },
+  "practice": [
+    {
+      "type": "fill",
+      "prompt": "Complete with avoir.",
+      "sentence": "Hier, j'___ travaillé.",
+      "answers": [
+        "ai"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Past participle of « manger ».",
+      "sentence": "Nous avons ___ une pizza.",
+      "answers": [
+        "mangé"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "\"I saw\" is…",
+      "options": [
+        "j'ai vu",
+        "j'ai voir",
+        "je suis vu"
+      ],
+      "answer": "j'ai vu"
+    },
+    {
+      "type": "choice",
+      "prompt": "Which verb uses être in the past?",
+      "options": [
+        "manger",
+        "aller",
+        "regarder"
+      ],
+      "answer": "aller"
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete (Sari is a woman).",
+      "sentence": "Sari est allé___ au marché.",
+      "answers": [
+        "e"
+      ],
+      "explain": "With être, add -e for a woman."
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen and choose what you hear.",
+      "options": [
+        "je mange",
+        "j'ai mangé"
+      ],
+      "answer": "j'ai mangé",
+      "listen": "j'ai mangé"
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Je",
+        "n'ai",
+        "pas",
+        "dormi"
+      ],
+      "answer": "Je n'ai pas dormi"
+    },
+    {
+      "type": "fill",
+      "prompt": "Past participle of « faire ».",
+      "sentence": "Tu as ___ la cuisine ?",
+      "answers": [
+        "fait"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "« la semaine dernière » means…",
+      "options": [
+        "next week",
+        "last week",
+        "this week"
+      ],
+      "answer": "last week"
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Hier",
+        "soir,",
+        "j'ai",
+        "regardé",
+        "un",
+        "film"
+      ],
+      "answer": "Hier soir, j'ai regardé un film"
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with avoir.",
+      "sentence": "Ils ___ pris le bus.",
+      "answers": [
+        "ont"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "In the dialogue, what did Sari cook?",
+      "options": [
+        "croissants",
+        "nasi goreng",
+        "a pizza"
+      ],
+      "answer": "nasi goreng"
+    }
+  ],
+  "task": {
+    "prompt": "Write 5 sentences about what you did last weekend: where you went, what you ate, what you saw.",
+    "example": "Samedi, je suis allée au marché. J'ai acheté des fruits. Le soir, j'ai mangé avec des amis. Dimanche, j'ai dormi et j'ai regardé un film.",
+    "checklist": [
+      "I can talk about the past with avoir",
+      "I know the past forms of faire, voir, boire, prendre",
+      "I can use être with aller and partir",
+      "I can say « hier » and « la semaine dernière »"
+    ]
+  }
+}

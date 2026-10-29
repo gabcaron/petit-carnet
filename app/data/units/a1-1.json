@@ -1,0 +1,348 @@
+{
+  "dialogue": [
+    {
+      "who": "Léa",
+      "fr": "Bonjour ! Je m'appelle Léa. Et toi ?",
+      "en": "Hello! My name is Léa. And you?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Bonjour, Léa ! Je m'appelle Sari.",
+      "en": "Hello, Léa! My name is Sari."
+    },
+    {
+      "who": "Léa",
+      "fr": "Enchantée ! Tu es française ?",
+      "en": "Nice to meet you! Are you French?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Non, je suis indonésienne. Et toi ?",
+      "en": "No, I'm Indonesian. And you?"
+    },
+    {
+      "who": "Léa",
+      "fr": "Moi, je suis française. Ça va ?",
+      "en": "Me, I'm French. How are you?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Ça va bien, merci !",
+      "en": "I'm fine, thanks!"
+    }
+  ],
+  "words": [
+    {
+      "id": "bonjour",
+      "fr": "bonjour",
+      "en": "hello, good morning"
+    },
+    {
+      "id": "bonsoir",
+      "fr": "bonsoir",
+      "en": "good evening"
+    },
+    {
+      "id": "salut",
+      "fr": "salut",
+      "en": "hi / bye (with friends)"
+    },
+    {
+      "id": "au-revoir",
+      "fr": "au revoir",
+      "en": "goodbye"
+    },
+    {
+      "id": "merci",
+      "fr": "merci",
+      "en": "thank you"
+    },
+    {
+      "id": "stp",
+      "fr": "s'il te plaît",
+      "en": "please (with friends)"
+    },
+    {
+      "id": "oui",
+      "fr": "oui",
+      "en": "yes"
+    },
+    {
+      "id": "non",
+      "fr": "non",
+      "en": "no"
+    },
+    {
+      "id": "je-m-appelle",
+      "fr": "je m'appelle…",
+      "en": "my name is…"
+    },
+    {
+      "id": "enchante",
+      "fr": "enchanté / enchantée",
+      "en": "nice to meet you",
+      "note": "A woman writes « enchantée » (same sound)."
+    },
+    {
+      "id": "ca-va-q",
+      "fr": "ça va ?",
+      "en": "how are you?"
+    },
+    {
+      "id": "ca-va-bien",
+      "fr": "ça va bien",
+      "en": "I'm fine"
+    },
+    {
+      "id": "et-toi",
+      "fr": "et toi ?",
+      "en": "and you?"
+    },
+    {
+      "id": "a-bientot",
+      "fr": "à bientôt",
+      "en": "see you soon"
+    },
+    {
+      "id": "excusez-moi",
+      "fr": "excusez-moi",
+      "en": "excuse me (polite)"
+    },
+    {
+      "id": "france",
+      "fr": "la France",
+      "en": "France",
+      "gender": "f"
+    },
+    {
+      "id": "indonesie",
+      "fr": "l'Indonésie",
+      "en": "Indonesia",
+      "gender": "f"
+    },
+    {
+      "id": "francais",
+      "fr": "français / française",
+      "en": "French",
+      "note": "Man / woman. In the feminine, the s is pronounced: \"fran-sez\"."
+    },
+    {
+      "id": "indonesien",
+      "fr": "indonésien / indonésienne",
+      "en": "Indonesian",
+      "note": "Man / woman."
+    },
+    {
+      "id": "anglais",
+      "fr": "anglais / anglaise",
+      "en": "English",
+      "note": "Man / woman."
+    }
+  ],
+  "grammar": {
+    "title": "être (to be) + nationality",
+    "intro": "In Indonesian you say « Saya orang Indonesia » with no verb. French always needs the verb être, and the nationality changes for a woman.",
+    "table": [
+      [
+        "",
+        "être",
+        "English"
+      ],
+      [
+        "je",
+        "suis",
+        "I am"
+      ],
+      [
+        "tu",
+        "es",
+        "you are (friend)"
+      ],
+      [
+        "il / elle",
+        "est",
+        "he / she is"
+      ],
+      [
+        "nous",
+        "sommes",
+        "we are"
+      ],
+      [
+        "vous",
+        "êtes",
+        "you are (polite or plural)"
+      ],
+      [
+        "ils / elles",
+        "sont",
+        "they are"
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "Je suis indonésienne.",
+        "en": "I'm Indonesian (woman)."
+      },
+      {
+        "fr": "Il est français. Elle est française.",
+        "en": "He is French. She is French."
+      },
+      {
+        "fr": "Tu es anglaise ?",
+        "en": "Are you English? (to a woman)"
+      }
+    ],
+    "trap": "No article before a nationality: « Je suis indonésienne », never « Je suis une indonésienne ». And no capital letter: « française », but « la France »."
+  },
+  "sounds": {
+    "title": "Question or statement?",
+    "explain": "When speaking, French often makes a question just by raising the voice at the end. Same words, different melody.",
+    "pairs": [
+      [
+        "Ça va.",
+        "Ça va ?"
+      ],
+      [
+        "Tu es française.",
+        "Tu es française ?"
+      ],
+      [
+        "Il est anglais.",
+        "Il est anglais ?"
+      ],
+      [
+        "Elle s'appelle Léa.",
+        "Elle s'appelle Léa ?"
+      ]
+    ],
+    "tip": "Read each line of the dialogue twice: once as a statement (voice goes down), once as a question (voice goes up)."
+  },
+  "practice": [
+    {
+      "type": "choice",
+      "prompt": "How do you say \"hello\" in the evening?",
+      "options": [
+        "Bonjour",
+        "Bonsoir",
+        "Salut",
+        "Au revoir"
+      ],
+      "answer": "Bonsoir"
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with être.",
+      "sentence": "Je ___ indonésienne.",
+      "answers": [
+        "suis"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with être.",
+      "sentence": "Tu ___ française ?",
+      "answers": [
+        "es"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "A woman says:",
+      "options": [
+        "Je suis français.",
+        "Je suis française."
+      ],
+      "answer": "Je suis française.",
+      "explain": "For a woman, add -e: français → française."
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen and choose the meaning.",
+      "listen": "Enchantée",
+      "options": [
+        "Goodbye",
+        "Nice to meet you",
+        "Excuse me",
+        "Thank you"
+      ],
+      "answer": "Nice to meet you"
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Je",
+        "m'appelle",
+        "Sari"
+      ],
+      "answer": "Je m'appelle Sari"
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with être.",
+      "sentence": "Il ___ anglais.",
+      "answers": [
+        "est"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Your friend asks « Ça va ? ». You answer:",
+      "options": [
+        "Ça va bien, merci !",
+        "Je m'appelle Léa.",
+        "Au revoir !"
+      ],
+      "answer": "Ça va bien, merci !"
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Non,",
+        "je",
+        "suis",
+        "indonésienne"
+      ],
+      "answer": "Non, je suis indonésienne"
+    },
+    {
+      "type": "fill",
+      "prompt": "Finish the word (she is Indonesian).",
+      "sentence": "Elle est indonésien___.",
+      "answers": [
+        "ne"
+      ],
+      "explain": "indonésien → indonésienne: the n is doubled before the e."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which one is informal (for friends)?",
+      "options": [
+        "Salut !",
+        "Excusez-moi",
+        "Bonsoir, madame"
+      ],
+      "answer": "Salut !"
+    },
+    {
+      "type": "fill",
+      "prompt": "Translate: \"My name is Sari.\"",
+      "sentence": "___ Sari.",
+      "answers": [
+        "Je m'appelle"
+      ]
+    }
+  ],
+  "task": {
+    "prompt": "Write a short message (3–4 sentences) to introduce yourself to a French person: say hello, your name, your nationality, and ask how they are.",
+    "example": "Bonjour ! Je m'appelle Sari. Je suis indonésienne. Et toi, ça va ?",
+    "checklist": [
+      "I can say hello and goodbye",
+      "I can say my name",
+      "I can say my nationality, with the right ending",
+      "I can ask « Ça va ? » and answer"
+    ]
+  }
+}

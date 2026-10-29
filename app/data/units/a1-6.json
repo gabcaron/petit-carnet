@@ -1,0 +1,360 @@
+{
+  "dialogue": [
+    {
+      "who": "Le serveur",
+      "fr": "Bonjour madame, vous désirez ?",
+      "en": "Hello madam, what would you like?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Bonjour ! Je voudrais un café et un croissant, s'il vous plaît.",
+      "en": "Hello! I'd like a coffee and a croissant, please."
+    },
+    {
+      "who": "Le serveur",
+      "fr": "Un café, un croissant. Et avec ça ?",
+      "en": "A coffee, a croissant. Anything else?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Une bouteille d'eau, aussi. C'est combien ?",
+      "en": "A bottle of water too. How much is it?"
+    },
+    {
+      "who": "Le serveur",
+      "fr": "Ça fait six euros cinquante.",
+      "en": "That's six euros fifty."
+    },
+    {
+      "who": "Sari",
+      "fr": "Voilà. Merci, bonne journée !",
+      "en": "Here you are. Thanks, have a nice day!"
+    }
+  ],
+  "words": [
+    {
+      "id": "je-voudrais",
+      "fr": "je voudrais",
+      "en": "I'd like",
+      "note": "The polite way to ask for something."
+    },
+    {
+      "id": "svp",
+      "fr": "s'il vous plaît",
+      "en": "please (polite)"
+    },
+    {
+      "id": "combien",
+      "fr": "C'est combien ?",
+      "en": "How much is it?"
+    },
+    {
+      "id": "addition",
+      "fr": "l'addition",
+      "en": "the bill",
+      "gender": "f"
+    },
+    {
+      "id": "euro",
+      "fr": "un euro",
+      "en": "a euro",
+      "gender": "m",
+      "note": "6,50 € = six euros cinquante."
+    },
+    {
+      "id": "cafe",
+      "fr": "le café",
+      "en": "coffee; café",
+      "gender": "m"
+    },
+    {
+      "id": "the",
+      "fr": "le thé",
+      "en": "tea",
+      "gender": "m"
+    },
+    {
+      "id": "eau",
+      "fr": "l'eau",
+      "en": "water",
+      "gender": "f",
+      "note": "Sounds like \"o\"."
+    },
+    {
+      "id": "pain",
+      "fr": "le pain",
+      "en": "bread",
+      "gender": "m"
+    },
+    {
+      "id": "croissant",
+      "fr": "le croissant",
+      "en": "croissant",
+      "gender": "m",
+      "note": "The t is silent."
+    },
+    {
+      "id": "fromage",
+      "fr": "le fromage",
+      "en": "cheese",
+      "gender": "m"
+    },
+    {
+      "id": "viande",
+      "fr": "la viande",
+      "en": "meat",
+      "gender": "f"
+    },
+    {
+      "id": "poulet",
+      "fr": "le poulet",
+      "en": "chicken",
+      "gender": "m"
+    },
+    {
+      "id": "poisson",
+      "fr": "le poisson",
+      "en": "fish",
+      "gender": "m",
+      "note": "ss = s sound. Careful: « poison » (one s, z sound) means poison!"
+    },
+    {
+      "id": "riz",
+      "fr": "le riz",
+      "en": "rice",
+      "gender": "m",
+      "note": "The z is silent: \"ree\"."
+    },
+    {
+      "id": "legumes",
+      "fr": "les légumes",
+      "en": "vegetables",
+      "gender": "m"
+    },
+    {
+      "id": "fruits",
+      "fr": "les fruits",
+      "en": "fruit",
+      "gender": "m"
+    },
+    {
+      "id": "pomme",
+      "fr": "la pomme",
+      "en": "apple",
+      "gender": "f"
+    },
+    {
+      "id": "kilo",
+      "fr": "un kilo de…",
+      "en": "a kilo of…",
+      "note": "un kilo de pommes"
+    },
+    {
+      "id": "bouteille",
+      "fr": "une bouteille de…",
+      "en": "a bottle of…",
+      "note": "une bouteille d'eau"
+    }
+  ],
+  "grammar": {
+    "title": "du, de la, des: some",
+    "intro": "When you talk about an amount you can't count — some bread, some water — French uses du, de la or des. English and Indonesian often use nothing at all.",
+    "table": [
+      [
+        "",
+        "Article",
+        "Example"
+      ],
+      [
+        "masculine",
+        "du",
+        "du pain, du fromage"
+      ],
+      [
+        "feminine",
+        "de la",
+        "de la viande"
+      ],
+      [
+        "before a vowel",
+        "de l'",
+        "de l'eau"
+      ],
+      [
+        "plural",
+        "des",
+        "des fruits, des légumes"
+      ],
+      [
+        "after a negative or a quantity",
+        "de / d'",
+        "pas de pain, un kilo de pommes"
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "Je voudrais du pain, s'il vous plaît.",
+        "en": "I'd like some bread, please."
+      },
+      {
+        "fr": "Je prends de la viande et des légumes.",
+        "en": "I'll have meat and vegetables."
+      },
+      {
+        "fr": "Je ne mange pas de poisson.",
+        "en": "I don't eat fish."
+      }
+    ],
+    "trap": "After a negative or a quantity, everything becomes de: « je ne mange pas de viande », « un kilo de pommes ». But after aimer, adorer, détester use le / la / les: « j'aime le fromage »."
+  },
+  "sounds": {
+    "title": "eu or é?",
+    "explain": "« deux » (two) and « des » (some) are different sounds. For « eu », round your lips as if to say “o”, then say “e”. For « é », smile.",
+    "pairs": [
+      [
+        "deux",
+        "des"
+      ],
+      [
+        "ceux",
+        "ces"
+      ],
+      [
+        "bleu",
+        "blé"
+      ],
+      [
+        "feu",
+        "fée"
+      ]
+    ],
+    "tip": "« deux euros »: lips round, then a z linking the two words."
+  },
+  "practice": [
+    {
+      "type": "fill",
+      "prompt": "Complete with du, de la or des.",
+      "sentence": "Je voudrais ___ pain.",
+      "answers": [
+        "du"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with du, de la or des.",
+      "sentence": "Elle mange ___ viande.",
+      "answers": [
+        "de la"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with du, de la or des.",
+      "sentence": "Tu achètes ___ fruits ?",
+      "answers": [
+        "des"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete.",
+      "sentence": "Un kilo ___ pommes, s'il vous plaît.",
+      "answers": [
+        "de"
+      ],
+      "explain": "After a quantity: de."
+    },
+    {
+      "type": "choice",
+      "prompt": "\"I don't eat meat\" is…",
+      "options": [
+        "Je ne mange pas de viande.",
+        "Je ne mange pas de la viande.",
+        "Je ne mange pas viande."
+      ],
+      "answer": "Je ne mange pas de viande.",
+      "explain": "After a negative: de."
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen and choose what you hear.",
+      "options": [
+        "deux",
+        "des"
+      ],
+      "answer": "deux",
+      "listen": "deux"
+    },
+    {
+      "type": "choice",
+      "prompt": "The polite way to order:",
+      "options": [
+        "Je veux un café.",
+        "Je voudrais un café.",
+        "Donne un café."
+      ],
+      "answer": "Je voudrais un café.",
+      "explain": "« je veux » sounds too direct with a waiter."
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Je",
+        "voudrais",
+        "une",
+        "bouteille",
+        "d'eau"
+      ],
+      "answer": "Je voudrais une bouteille d'eau"
+    },
+    {
+      "type": "choice",
+      "prompt": "« L'addition, s'il vous plaît ! » You are asking for…",
+      "options": [
+        "the menu",
+        "the bill",
+        "water"
+      ],
+      "answer": "the bill"
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete.",
+      "sentence": "J'aime ___ fromage.",
+      "answers": [
+        "le"
+      ],
+      "explain": "After aimer: le, la, les."
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen: how much is it?",
+      "options": [
+        "6,15 €",
+        "6,50 €",
+        "16,50 €"
+      ],
+      "answer": "6,50 €",
+      "listen": "Ça fait six euros cinquante."
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with de l'.",
+      "sentence": "Je voudrais ___ eau.",
+      "answers": [
+        "de l'"
+      ]
+    }
+  ],
+  "task": {
+    "prompt": "Write a short dialogue: you order something to eat and drink in a café, and ask for the price.",
+    "example": "Bonjour ! Je voudrais un thé et un croissant, s'il vous plaît. C'est combien ? Merci, bonne journée !",
+    "checklist": [
+      "I can order politely with « je voudrais »",
+      "I can ask for the price",
+      "I can use du, de la, des",
+      "I can use « pas de » after a negative"
+    ]
+  }
+}

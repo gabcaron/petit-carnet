@@ -1,0 +1,352 @@
+{
+  "dialogue": [
+    {
+      "who": "Sari",
+      "fr": "C'est qui, sur la photo ?",
+      "en": "Who's that in the photo?"
+    },
+    {
+      "who": "Léa",
+      "fr": "C'est ma famille ! Voici mon père et ma mère.",
+      "en": "It's my family! Here are my father and my mother."
+    },
+    {
+      "who": "Sari",
+      "fr": "Et le garçon, c'est ton frère ?",
+      "en": "And the boy, is that your brother?"
+    },
+    {
+      "who": "Léa",
+      "fr": "Oui, c'est mon frère, Tom. Il est grand et très drôle.",
+      "en": "Yes, that's my brother Tom. He's tall and very funny."
+    },
+    {
+      "who": "Sari",
+      "fr": "Tu as des sœurs ?",
+      "en": "Do you have sisters?"
+    },
+    {
+      "who": "Léa",
+      "fr": "Non, mais j'ai deux cousines. Elles sont adorables !",
+      "en": "No, but I have two cousins. They're adorable!"
+    }
+  ],
+  "words": [
+    {
+      "id": "famille",
+      "fr": "la famille",
+      "en": "family",
+      "gender": "f"
+    },
+    {
+      "id": "pere",
+      "fr": "le père",
+      "en": "father",
+      "gender": "m"
+    },
+    {
+      "id": "mere",
+      "fr": "la mère",
+      "en": "mother",
+      "gender": "f"
+    },
+    {
+      "id": "parents",
+      "fr": "les parents",
+      "en": "parents",
+      "gender": "m"
+    },
+    {
+      "id": "frere",
+      "fr": "le frère",
+      "en": "brother",
+      "gender": "m"
+    },
+    {
+      "id": "soeur",
+      "fr": "la sœur",
+      "en": "sister",
+      "gender": "f"
+    },
+    {
+      "id": "fils",
+      "fr": "le fils",
+      "en": "son",
+      "gender": "m",
+      "note": "The l is silent, the s is pronounced: \"fees\"."
+    },
+    {
+      "id": "fille",
+      "fr": "la fille",
+      "en": "daughter, girl",
+      "gender": "f"
+    },
+    {
+      "id": "mari",
+      "fr": "le mari",
+      "en": "husband",
+      "gender": "m"
+    },
+    {
+      "id": "femme",
+      "fr": "la femme",
+      "en": "wife, woman",
+      "gender": "f",
+      "note": "Pronounced \"fam\"."
+    },
+    {
+      "id": "enfant",
+      "fr": "l'enfant",
+      "en": "child",
+      "gender": "m"
+    },
+    {
+      "id": "cousin",
+      "fr": "cousin / cousine",
+      "en": "cousin",
+      "note": "Man / woman."
+    },
+    {
+      "id": "grand-pere",
+      "fr": "le grand-père",
+      "en": "grandfather",
+      "gender": "m"
+    },
+    {
+      "id": "grand-mere",
+      "fr": "la grand-mère",
+      "en": "grandmother",
+      "gender": "f"
+    },
+    {
+      "id": "grand",
+      "fr": "grand / grande",
+      "en": "tall, big",
+      "note": "Masculine / feminine. In « grande » you hear the d."
+    },
+    {
+      "id": "petit",
+      "fr": "petit / petite",
+      "en": "small, short",
+      "note": "In « petite » you hear the t."
+    },
+    {
+      "id": "jeune",
+      "fr": "jeune",
+      "en": "young",
+      "note": "Same for masculine and feminine."
+    },
+    {
+      "id": "drole",
+      "fr": "drôle",
+      "en": "funny",
+      "note": "Same for masculine and feminine."
+    },
+    {
+      "id": "gentil",
+      "fr": "gentil / gentille",
+      "en": "kind, nice"
+    },
+    {
+      "id": "beau",
+      "fr": "beau / belle",
+      "en": "beautiful, handsome",
+      "note": "Irregular: un beau garçon, une belle fille."
+    }
+  ],
+  "grammar": {
+    "title": "mon, ma, mes: possessives",
+    "intro": "In Indonesian, « ibu saya » works for everything. In French the possessive agrees with the thing you own, not with you: « mon père », « ma mère », « mes parents ».",
+    "table": [
+      [
+        "masculine",
+        "feminine",
+        "plural",
+        "English"
+      ],
+      [
+        "mon",
+        "ma",
+        "mes",
+        "my"
+      ],
+      [
+        "ton",
+        "ta",
+        "tes",
+        "your (friend)"
+      ],
+      [
+        "son",
+        "sa",
+        "ses",
+        "his / her"
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "Voici mon père et ma mère.",
+        "en": "Here are my father and my mother."
+      },
+      {
+        "fr": "Ce sont mes parents.",
+        "en": "These are my parents."
+      },
+      {
+        "fr": "Sa sœur est très gentille.",
+        "en": "His (or her) sister is very kind."
+      }
+    ],
+    "trap": "« son » and « sa » mean both his and her — it depends on the noun: « sa mère » = his mother OR her mother. Before a vowel, use mon / ton / son even for a feminine word: « mon amie »."
+  },
+  "sounds": {
+    "title": "le or les? Hearing the plural",
+    "explain": "The final s of a plural is silent: « frère » and « frères » sound the same. You hear the plural in the little word before: le (luh) → les (lay), mon → mes.",
+    "pairs": [
+      [
+        "le frère",
+        "les frères"
+      ],
+      [
+        "mon frère",
+        "mes frères"
+      ],
+      [
+        "ta sœur",
+        "tes sœurs"
+      ],
+      [
+        "la fille",
+        "les filles"
+      ]
+    ],
+    "tip": "Smile for « les » and « mes » (like \"ay\"), round your lips for « le »."
+  },
+  "practice": [
+    {
+      "type": "fill",
+      "prompt": "Complete with \"my\".",
+      "sentence": "___ mère s'appelle Ana.",
+      "answers": [
+        "ma"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with \"my\".",
+      "sentence": "___ frère a vingt ans.",
+      "answers": [
+        "mon"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with \"my\".",
+      "sentence": "___ parents habitent à Jakarta.",
+      "answers": [
+        "mes"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "« sa sœur » means…",
+      "options": [
+        "his sister",
+        "her sister",
+        "his or her sister"
+      ],
+      "answer": "his or her sister",
+      "explain": "sa agrees with sœur (feminine), not with the owner."
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen and choose what you hear.",
+      "options": [
+        "le frère",
+        "les frères"
+      ],
+      "answer": "les frères",
+      "listen": "les frères"
+    },
+    {
+      "type": "choice",
+      "prompt": "She is tall:",
+      "options": [
+        "Elle est grand.",
+        "Elle est grande."
+      ],
+      "answer": "Elle est grande.",
+      "explain": "Feminine adjective: add -e (and you hear the d)."
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Voici",
+        "ma",
+        "famille"
+      ],
+      "answer": "Voici ma famille"
+    },
+    {
+      "type": "choice",
+      "prompt": "« la femme » can mean…",
+      "options": [
+        "the wife",
+        "the woman",
+        "both"
+      ],
+      "answer": "both"
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with \"your\" (to a friend).",
+      "sentence": "___ sœur est drôle.",
+      "answers": [
+        "ta"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "\"My friend\" (a woman) is…",
+      "options": [
+        "ma amie",
+        "mon amie",
+        "mes amie"
+      ],
+      "answer": "mon amie",
+      "explain": "Before a vowel, ma becomes mon."
+    },
+    {
+      "type": "fill",
+      "prompt": "Make it feminine.",
+      "sentence": "Il est petit. Elle est ___.",
+      "answers": [
+        "petite"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "J'ai",
+        "deux",
+        "frères",
+        "et",
+        "une",
+        "sœur"
+      ],
+      "answer": "J'ai deux frères et une sœur"
+    }
+  ],
+  "task": {
+    "prompt": "Describe your family in 4–5 sentences: who they are, their names, their ages, and one adjective for each.",
+    "example": "Ma mère s'appelle Dewi. Elle a cinquante ans. Elle est très gentille. Mon frère est grand et drôle.",
+    "checklist": [
+      "I can name the people in my family",
+      "I can use mon, ma, mes",
+      "I can describe someone with two adjectives",
+      "I can make an adjective feminine"
+    ]
+  }
+}

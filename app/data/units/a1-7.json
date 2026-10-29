@@ -1,0 +1,353 @@
+{
+  "dialogue": [
+    {
+      "who": "Sari",
+      "fr": "Excusez-moi, il y a une pharmacie près d'ici ?",
+      "en": "Excuse me, is there a pharmacy near here?"
+    },
+    {
+      "who": "Un passant",
+      "fr": "Oui, allez tout droit, puis tournez à gauche.",
+      "en": "Yes, go straight on, then turn left."
+    },
+    {
+      "who": "Sari",
+      "fr": "C'est loin ?",
+      "en": "Is it far?"
+    },
+    {
+      "who": "Un passant",
+      "fr": "Non, c'est à cinq minutes à pied, à côté de la banque.",
+      "en": "No, it's five minutes on foot, next to the bank."
+    },
+    {
+      "who": "Sari",
+      "fr": "Et la gare, c'est où ?",
+      "en": "And where is the station?"
+    },
+    {
+      "who": "Un passant",
+      "fr": "La gare ? Prenez le bus numéro trois.",
+      "en": "The station? Take bus number three."
+    }
+  ],
+  "words": [
+    {
+      "id": "ville",
+      "fr": "la ville",
+      "en": "town, city",
+      "gender": "f"
+    },
+    {
+      "id": "rue",
+      "fr": "la rue",
+      "en": "street",
+      "gender": "f"
+    },
+    {
+      "id": "gare",
+      "fr": "la gare",
+      "en": "train station",
+      "gender": "f"
+    },
+    {
+      "id": "pharmacie",
+      "fr": "la pharmacie",
+      "en": "pharmacy",
+      "gender": "f"
+    },
+    {
+      "id": "banque",
+      "fr": "la banque",
+      "en": "bank",
+      "gender": "f"
+    },
+    {
+      "id": "supermarche",
+      "fr": "le supermarché",
+      "en": "supermarket",
+      "gender": "m"
+    },
+    {
+      "id": "boulangerie",
+      "fr": "la boulangerie",
+      "en": "bakery",
+      "gender": "f"
+    },
+    {
+      "id": "musee",
+      "fr": "le musée",
+      "en": "museum",
+      "gender": "m",
+      "note": "Masculine, even with -ée."
+    },
+    {
+      "id": "hopital",
+      "fr": "l'hôpital",
+      "en": "hospital",
+      "gender": "m"
+    },
+    {
+      "id": "parc",
+      "fr": "le parc",
+      "en": "park",
+      "gender": "m"
+    },
+    {
+      "id": "bus",
+      "fr": "le bus",
+      "en": "bus",
+      "gender": "m",
+      "note": "The s is pronounced."
+    },
+    {
+      "id": "metro",
+      "fr": "le métro",
+      "en": "underground, subway",
+      "gender": "m"
+    },
+    {
+      "id": "a-pied",
+      "fr": "à pied",
+      "en": "on foot"
+    },
+    {
+      "id": "tout-droit",
+      "fr": "tout droit",
+      "en": "straight on"
+    },
+    {
+      "id": "a-gauche",
+      "fr": "à gauche",
+      "en": "on the left; turn left"
+    },
+    {
+      "id": "a-droite",
+      "fr": "à droite",
+      "en": "on the right; turn right",
+      "note": "Careful: « tout droit » (straight on) ≠ « à droite » (right)."
+    },
+    {
+      "id": "a-cote-de",
+      "fr": "à côté de",
+      "en": "next to"
+    },
+    {
+      "id": "en-face-de",
+      "fr": "en face de",
+      "en": "opposite"
+    },
+    {
+      "id": "pres-de",
+      "fr": "près de",
+      "en": "near"
+    },
+    {
+      "id": "loin-de",
+      "fr": "loin de",
+      "en": "far from"
+    }
+  ],
+  "grammar": {
+    "title": "aller (to go) + à",
+    "intro": "aller is irregular and used everywhere. To say where you go, use à — and à changes when it meets le or les.",
+    "table": [
+      [
+        "",
+        "aller",
+        "English"
+      ],
+      [
+        "je",
+        "vais",
+        "I go"
+      ],
+      [
+        "tu",
+        "vas",
+        "you go"
+      ],
+      [
+        "il / elle",
+        "va",
+        "he / she goes"
+      ],
+      [
+        "nous",
+        "allons",
+        "we go"
+      ],
+      [
+        "vous",
+        "allez",
+        "you go"
+      ],
+      [
+        "ils / elles",
+        "vont",
+        "they go"
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "Je vais à la boulangerie.",
+        "en": "I'm going to the bakery."
+      },
+      {
+        "fr": "On va au musée ?",
+        "en": "Shall we go to the museum?"
+      },
+      {
+        "fr": "Tournez à droite, puis allez tout droit.",
+        "en": "Turn right, then go straight on."
+      }
+    ],
+    "trap": "à + le = au, à + les = aux: « je vais au parc », but « à la gare », « à l'hôpital ». Never « à le ». To give directions, use the vous form without vous: « Allez tout droit ! Tournez à gauche ! »"
+  },
+  "sounds": {
+    "title": "ch or j?",
+    "explain": "The French j is not the Indonesian j. It is a soft buzzing « zh », like the s in “pleasure”. « ch » is « sh », like in “shop”.",
+    "pairs": [
+      [
+        "chou",
+        "joue"
+      ],
+      [
+        "chant",
+        "gens"
+      ],
+      [
+        "bouche",
+        "bouge"
+      ],
+      [
+        "cache",
+        "cage"
+      ]
+    ],
+    "tip": "Say « sh », then add your voice without moving your mouth: that is the French j."
+  },
+  "practice": [
+    {
+      "type": "fill",
+      "prompt": "Complete with au, à la or à l'.",
+      "sentence": "Je vais ___ gare.",
+      "answers": [
+        "à la"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with au, à la or à l'.",
+      "sentence": "Tu vas ___ parc ?",
+      "answers": [
+        "au"
+      ],
+      "explain": "à + le = au."
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with au, à la or à l'.",
+      "sentence": "Elle va ___ hôpital.",
+      "answers": [
+        "à l'"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with aller.",
+      "sentence": "Nous ___ au cinéma.",
+      "answers": [
+        "allons"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "« à gauche » means…",
+      "options": [
+        "on the right",
+        "on the left",
+        "straight on"
+      ],
+      "answer": "on the left"
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen and choose what you hear.",
+      "options": [
+        "chou",
+        "joue"
+      ],
+      "answer": "joue",
+      "listen": "joue"
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Allez",
+        "tout",
+        "droit"
+      ],
+      "answer": "Allez tout droit"
+    },
+    {
+      "type": "choice",
+      "prompt": "How do you ask \"Is there a bank near here?\"",
+      "options": [
+        "Il y a une banque près d'ici ?",
+        "C'est une banque près ?",
+        "Où banque ?"
+      ],
+      "answer": "Il y a une banque près d'ici ?"
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with aller.",
+      "sentence": "Ils ___ à Paris.",
+      "answers": [
+        "vont"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "« en face de la gare » means…",
+      "options": [
+        "next to the station",
+        "opposite the station",
+        "far from the station"
+      ],
+      "answer": "opposite the station"
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Tournez",
+        "à",
+        "droite"
+      ],
+      "answer": "Tournez à droite"
+    },
+    {
+      "type": "choice",
+      "prompt": "In the dialogue, where is the pharmacy?",
+      "options": [
+        "next to the bank",
+        "opposite the station",
+        "in the park"
+      ],
+      "answer": "next to the bank"
+    }
+  ],
+  "task": {
+    "prompt": "Explain how to go from your home to a bakery or a café near you, in 3–4 instructions.",
+    "example": "Allez tout droit, puis tournez à gauche. La boulangerie est en face du parc. C'est à cinq minutes à pied.",
+    "checklist": [
+      "I can ask where a place is",
+      "I can give simple directions",
+      "I can use au / à la / à l'",
+      "I can conjugate aller"
+    ]
+  }
+}

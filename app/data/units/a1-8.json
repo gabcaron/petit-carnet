@@ -1,0 +1,336 @@
+{
+  "dialogue": [
+    {
+      "who": "Léa",
+      "fr": "Je peux te poser quelques questions ?",
+      "en": "Can I ask you a few questions?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Bien sûr !",
+      "en": "Of course!"
+    },
+    {
+      "who": "Léa",
+      "fr": "Pourquoi est-ce que tu apprends le français ?",
+      "en": "Why are you learning French?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Parce que mon copain est français !",
+      "en": "Because my boyfriend is French!"
+    },
+    {
+      "who": "Léa",
+      "fr": "Ah, c'est mignon ! Et tu apprends depuis quand ?",
+      "en": "Oh, that's cute! And since when have you been learning?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Depuis un mois. C'est difficile, mais j'adore !",
+      "en": "For a month. It's hard, but I love it!"
+    }
+  ],
+  "words": [
+    {
+      "id": "qui",
+      "fr": "qui ?",
+      "en": "who?"
+    },
+    {
+      "id": "quoi",
+      "fr": "quoi ? / que ?",
+      "en": "what?",
+      "note": "« quoi » at the end (Tu fais quoi ?), « que » at the start (Que fais-tu ?)."
+    },
+    {
+      "id": "ou",
+      "fr": "où ?",
+      "en": "where?",
+      "note": "With an accent. « ou » without accent means \"or\"."
+    },
+    {
+      "id": "quand",
+      "fr": "quand ?",
+      "en": "when?"
+    },
+    {
+      "id": "comment",
+      "fr": "comment ?",
+      "en": "how?"
+    },
+    {
+      "id": "pourquoi",
+      "fr": "pourquoi ?",
+      "en": "why?"
+    },
+    {
+      "id": "parce-que",
+      "fr": "parce que",
+      "en": "because"
+    },
+    {
+      "id": "quel",
+      "fr": "quel / quelle ?",
+      "en": "which? what?",
+      "note": "quel âge, quelle heure (same sound)."
+    },
+    {
+      "id": "est-ce-que",
+      "fr": "est-ce que…?",
+      "en": "turns a sentence into a question",
+      "note": "Like « apakah » in Indonesian."
+    },
+    {
+      "id": "qu-est-ce-que",
+      "fr": "qu'est-ce que…?",
+      "en": "what…?"
+    },
+    {
+      "id": "depuis",
+      "fr": "depuis",
+      "en": "since, for (time)",
+      "note": "« depuis un mois » = for a month (and still now)."
+    },
+    {
+      "id": "bien-sur",
+      "fr": "bien sûr",
+      "en": "of course"
+    },
+    {
+      "id": "d-accord",
+      "fr": "d'accord",
+      "en": "OK, agreed"
+    },
+    {
+      "id": "peut-etre",
+      "fr": "peut-être",
+      "en": "maybe"
+    },
+    {
+      "id": "question",
+      "fr": "une question",
+      "en": "a question",
+      "gender": "f"
+    },
+    {
+      "id": "reponse",
+      "fr": "une réponse",
+      "en": "an answer",
+      "gender": "f"
+    },
+    {
+      "id": "copain",
+      "fr": "copain / copine",
+      "en": "boyfriend / girlfriend; friend",
+      "note": "« mon copain » usually means my boyfriend."
+    },
+    {
+      "id": "je-ne-sais-pas",
+      "fr": "je ne sais pas",
+      "en": "I don't know"
+    },
+    {
+      "id": "je-ne-comprends-pas",
+      "fr": "je ne comprends pas",
+      "en": "I don't understand"
+    },
+    {
+      "id": "repeter",
+      "fr": "Vous pouvez répéter, s'il vous plaît ?",
+      "en": "Can you repeat, please?"
+    }
+  ],
+  "grammar": {
+    "title": "Three ways to ask a question",
+    "intro": "Indonesian uses « apakah » or just the voice. French has three ways to ask the same question, from relaxed to formal.",
+    "table": [
+      [
+        "Style",
+        "Question",
+        "When"
+      ],
+      [
+        "Voice only",
+        "Tu habites où ?",
+        "speaking, relaxed"
+      ],
+      [
+        "est-ce que",
+        "Où est-ce que tu habites ?",
+        "speaking and writing, neutral"
+      ],
+      [
+        "Inversion",
+        "Où habites-tu ?",
+        "writing, formal"
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "Est-ce que tu parles anglais ?",
+        "en": "Do you speak English?"
+      },
+      {
+        "fr": "Qu'est-ce que tu fais ce soir ?",
+        "en": "What are you doing tonight?"
+      },
+      {
+        "fr": "Quelle heure est-il ?",
+        "en": "What time is it?"
+      }
+    ],
+    "trap": "quel agrees with the noun: quel âge, quelle heure, quels films, quelles villes — all pronounced the same! « Qu'est-ce que » means what; « est-ce que » alone just makes a yes/no question."
+  },
+  "sounds": {
+    "title": "i or u?",
+    "explain": "« i » is a wide smile. « u » keeps the tongue in the same place but the lips round and push forward. Many learners say « i » when they mean « u »: « vie » (life) ≠ « vu » (seen).",
+    "pairs": [
+      [
+        "vie",
+        "vu"
+      ],
+      [
+        "si",
+        "su"
+      ],
+      [
+        "lit",
+        "lu"
+      ],
+      [
+        "dire",
+        "dur"
+      ]
+    ],
+    "tip": "Say « i » and, without moving your tongue, round your lips: you get « u »."
+  },
+  "practice": [
+    {
+      "type": "choice",
+      "prompt": "Make a yes/no question from « Tu aimes le café. »",
+      "options": [
+        "Est-ce que tu aimes le café ?",
+        "Qu'est-ce que tu aimes le café ?",
+        "Quoi tu aimes le café ?"
+      ],
+      "answer": "Est-ce que tu aimes le café ?"
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with a question word.",
+      "sentence": "Tu habites ___ ? — À Lyon.",
+      "answers": [
+        "où"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with a question word.",
+      "sentence": "Tu arrives ___ ? — Demain.",
+      "answers": [
+        "quand"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with a question word.",
+      "sentence": "___ tu apprends le français ? — Parce que j'aime la France.",
+      "answers": [
+        "pourquoi"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Complete: « ___ heure est-il ? »",
+      "options": [
+        "Quel",
+        "Quelle",
+        "Quels"
+      ],
+      "answer": "Quelle",
+      "explain": "heure is feminine."
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen and choose what you hear.",
+      "options": [
+        "vie",
+        "vu"
+      ],
+      "answer": "vu",
+      "listen": "vu"
+    },
+    {
+      "type": "order",
+      "prompt": "Make the question.",
+      "words": [
+        "Qu'est-ce",
+        "que",
+        "tu",
+        "fais"
+      ],
+      "answer": "Qu'est-ce que tu fais"
+    },
+    {
+      "type": "choice",
+      "prompt": "You didn't understand. You say:",
+      "options": [
+        "Je ne sais pas.",
+        "Vous pouvez répéter, s'il vous plaît ?",
+        "D'accord !"
+      ],
+      "answer": "Vous pouvez répéter, s'il vous plaît ?"
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with a question word.",
+      "sentence": "Tu t'appelles ___ ?",
+      "answers": [
+        "comment"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Which question is the most formal?",
+      "options": [
+        "Tu viens d'où ?",
+        "D'où est-ce que tu viens ?",
+        "D'où viens-tu ?"
+      ],
+      "answer": "D'où viens-tu ?"
+    },
+    {
+      "type": "order",
+      "prompt": "Make the question.",
+      "words": [
+        "Depuis",
+        "quand",
+        "tu",
+        "habites",
+        "ici"
+      ],
+      "answer": "Depuis quand tu habites ici"
+    },
+    {
+      "type": "choice",
+      "prompt": "In the dialogue, why is Sari learning French?",
+      "options": [
+        "for work",
+        "because her boyfriend is French",
+        "for a trip"
+      ],
+      "answer": "because her boyfriend is French"
+    }
+  ],
+  "task": {
+    "prompt": "Write 6 questions you could ask a new French friend, with at least 4 different question words.",
+    "example": "Comment tu t'appelles ? Tu as quel âge ? Où est-ce que tu habites ? Qu'est-ce que tu aimes faire ? Pourquoi tu apprends l'anglais ? Depuis quand tu habites ici ?",
+    "checklist": [
+      "I can ask a yes/no question with est-ce que",
+      "I can use five question words",
+      "I can say I don't understand",
+      "I can ask someone to repeat"
+    ]
+  }
+}

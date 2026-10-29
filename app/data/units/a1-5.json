@@ -1,0 +1,359 @@
+{
+  "dialogue": [
+    {
+      "who": "Léa",
+      "fr": "Tu te lèves à quelle heure le matin ?",
+      "en": "What time do you get up in the morning?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Je me lève à sept heures. Je prends un café et je pars au travail.",
+      "en": "I get up at seven. I have a coffee and leave for work."
+    },
+    {
+      "who": "Léa",
+      "fr": "Tu commences à quelle heure ?",
+      "en": "What time do you start?"
+    },
+    {
+      "who": "Sari",
+      "fr": "À huit heures et demie. Je finis à cinq heures.",
+      "en": "At half past eight. I finish at five."
+    },
+    {
+      "who": "Léa",
+      "fr": "Et le soir ?",
+      "en": "And in the evening?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Je dîne, je regarde une série et je me couche à onze heures.",
+      "en": "I have dinner, watch a series and go to bed at eleven."
+    }
+  ],
+  "words": [
+    {
+      "id": "quelle-heure",
+      "fr": "Quelle heure est-il ?",
+      "en": "What time is it?"
+    },
+    {
+      "id": "il-est-heure",
+      "fr": "Il est huit heures.",
+      "en": "It's eight o'clock."
+    },
+    {
+      "id": "et-demie",
+      "fr": "et demie",
+      "en": "half past",
+      "note": "huit heures et demie = 8:30"
+    },
+    {
+      "id": "et-quart",
+      "fr": "et quart",
+      "en": "quarter past",
+      "note": "huit heures et quart = 8:15"
+    },
+    {
+      "id": "moins-quart",
+      "fr": "moins le quart",
+      "en": "quarter to",
+      "note": "neuf heures moins le quart = 8:45"
+    },
+    {
+      "id": "midi",
+      "fr": "midi",
+      "en": "noon, 12 pm"
+    },
+    {
+      "id": "minuit",
+      "fr": "minuit",
+      "en": "midnight"
+    },
+    {
+      "id": "matin",
+      "fr": "le matin",
+      "en": "the morning; in the morning",
+      "gender": "m"
+    },
+    {
+      "id": "apres-midi",
+      "fr": "l'après-midi",
+      "en": "the afternoon",
+      "gender": "m"
+    },
+    {
+      "id": "soir",
+      "fr": "le soir",
+      "en": "the evening; in the evening",
+      "gender": "m"
+    },
+    {
+      "id": "se-reveiller",
+      "fr": "se réveiller",
+      "en": "to wake up",
+      "note": "je me réveille"
+    },
+    {
+      "id": "se-lever",
+      "fr": "se lever",
+      "en": "to get up",
+      "note": "je me lève"
+    },
+    {
+      "id": "se-doucher",
+      "fr": "se doucher",
+      "en": "to have a shower",
+      "note": "je me douche"
+    },
+    {
+      "id": "s-habiller",
+      "fr": "s'habiller",
+      "en": "to get dressed",
+      "note": "je m'habille"
+    },
+    {
+      "id": "se-coucher",
+      "fr": "se coucher",
+      "en": "to go to bed",
+      "note": "je me couche"
+    },
+    {
+      "id": "petit-dejeuner",
+      "fr": "le petit-déjeuner",
+      "en": "breakfast",
+      "gender": "m"
+    },
+    {
+      "id": "dejeuner",
+      "fr": "le déjeuner",
+      "en": "lunch",
+      "gender": "m"
+    },
+    {
+      "id": "diner",
+      "fr": "le dîner",
+      "en": "dinner",
+      "gender": "m"
+    },
+    {
+      "id": "jours",
+      "fr": "lundi, mardi, mercredi, jeudi, vendredi, samedi, dimanche",
+      "en": "Monday … Sunday",
+      "note": "No capital letters in French. « le lundi » = on Mondays."
+    },
+    {
+      "id": "tous-les-jours",
+      "fr": "tous les jours",
+      "en": "every day"
+    }
+  ],
+  "grammar": {
+    "title": "Daily routine: me, te, se",
+    "intro": "Many daily-routine verbs come with a small extra pronoun, like saying « I wash myself »: je me lève, tu te lèves…",
+    "table": [
+      [
+        "",
+        "se lever",
+        "English"
+      ],
+      [
+        "je",
+        "me lève",
+        "I get up"
+      ],
+      [
+        "tu",
+        "te lèves",
+        "you get up"
+      ],
+      [
+        "il / elle",
+        "se lève",
+        "he / she gets up"
+      ],
+      [
+        "nous",
+        "nous levons",
+        "we get up"
+      ],
+      [
+        "vous",
+        "vous levez",
+        "you get up"
+      ],
+      [
+        "ils / elles",
+        "se lèvent",
+        "they get up"
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "Je me réveille à sept heures.",
+        "en": "I wake up at seven."
+      },
+      {
+        "fr": "Tu te couches tard ?",
+        "en": "Do you go to bed late?"
+      },
+      {
+        "fr": "Elle s'habille vite.",
+        "en": "She gets dressed quickly."
+      }
+    ],
+    "trap": "me / te / se become m' / t' / s' before a vowel: « je m'habille ». For times, say « à sept heures » (at seven). The 24-hour clock is very common: 19 h = dix-neuf heures."
+  },
+  "sounds": {
+    "title": "The French r",
+    "explain": "The Indonesian r is rolled with the tongue. The French r is made in the back of the throat, like a soft gargle — the tip of your tongue stays down, behind your bottom teeth.",
+    "pairs": [
+      [
+        "rire",
+        "lire"
+      ],
+      [
+        "roue",
+        "loup"
+      ],
+      [
+        "riz",
+        "lit"
+      ],
+      [
+        "gare",
+        "gale"
+      ]
+    ],
+    "tip": "Start from a « k » or « g » sound and make it softer and longer: « g… gare »."
+  },
+  "practice": [
+    {
+      "type": "fill",
+      "prompt": "Complete.",
+      "sentence": "Je ___ lève à sept heures.",
+      "answers": [
+        "me"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete.",
+      "sentence": "Tu ___ couches à quelle heure ?",
+      "answers": [
+        "te"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "8:30 is…",
+      "options": [
+        "huit heures et quart",
+        "huit heures et demie",
+        "huit heures moins le quart"
+      ],
+      "answer": "huit heures et demie"
+    },
+    {
+      "type": "choice",
+      "prompt": "7:45 is…",
+      "options": [
+        "sept heures et quart",
+        "huit heures moins le quart",
+        "sept heures et demie"
+      ],
+      "answer": "huit heures moins le quart",
+      "explain": "7:45 = 8 minus a quarter."
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen and choose what you hear.",
+      "options": [
+        "midi",
+        "minuit"
+      ],
+      "answer": "midi",
+      "listen": "midi"
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete.",
+      "sentence": "Elle ___habille.",
+      "answers": [
+        "s'"
+      ],
+      "explain": "se becomes s' before a vowel."
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Je",
+        "me",
+        "couche",
+        "à",
+        "minuit"
+      ],
+      "answer": "Je me couche à minuit"
+    },
+    {
+      "type": "choice",
+      "prompt": "« le soir » means…",
+      "options": [
+        "the morning",
+        "the afternoon",
+        "the evening"
+      ],
+      "answer": "the evening"
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen and choose what you hear.",
+      "options": [
+        "rire",
+        "lire"
+      ],
+      "answer": "rire",
+      "listen": "rire"
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete.",
+      "sentence": "Je prends le petit-déjeuner le ___.",
+      "answers": [
+        "matin"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Which day comes after « mardi »?",
+      "options": [
+        "lundi",
+        "mercredi",
+        "jeudi"
+      ],
+      "answer": "mercredi"
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Il",
+        "est",
+        "dix",
+        "heures"
+      ],
+      "answer": "Il est dix heures"
+    }
+  ],
+  "task": {
+    "prompt": "Describe a normal day in 5 sentences, with times.",
+    "example": "Je me lève à sept heures. Je prends le petit-déjeuner à sept heures et demie. Je travaille de neuf heures à cinq heures. Le soir, je regarde une série. Je me couche à onze heures.",
+    "checklist": [
+      "I can tell the time",
+      "I can use me / te / se",
+      "I can say the days of the week",
+      "I can describe my morning and my evening"
+    ]
+  }
+}

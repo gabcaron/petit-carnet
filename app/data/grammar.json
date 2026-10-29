@@ -1,0 +1,140 @@
+[
+  {
+    "id": "pronouns",
+    "title": "Subject pronouns: je, tu, il, elle…",
+    "intro": "French always needs a subject before the verb. tu and vous work like « kamu » and « Anda »: tu for friends and family, vous for strangers, older people and at work — and for several people.",
+    "table": [
+      ["French", "English", "Note"],
+      ["je", "I", "j' before a vowel: j'aime"],
+      ["tu", "you (one friend)", "informal"],
+      ["il / elle", "he / she — or it", "things have a gender too: la table → elle"],
+      ["on", "we (spoken), people", "very common: « on va au cinéma ? »"],
+      ["nous", "we", "a bit more formal than on"],
+      ["vous", "you (polite, or several people)", "« vous êtes », « vous avez »"],
+      ["ils", "they (men, or mixed)", "even one man and ten women: ils"],
+      ["elles", "they (only women or feminine things)", ""]
+    ],
+    "examples": [
+      { "fr": "Tu es française ?", "en": "Are you French? (to a friend)" },
+      { "fr": "Vous êtes madame Martin ?", "en": "Are you Mrs Martin? (polite)" },
+      { "fr": "On va au cinéma ce soir ?", "en": "Shall we go to the cinema tonight?" }
+    ],
+    "trap": "Never drop the subject: « je mange », never just « mange » (that is an order). And on always takes the il / elle form of the verb: « on va », « on mange »."
+  },
+  {
+    "id": "er-verbs",
+    "title": "Present tense of -er verbs",
+    "intro": "Most French verbs end in -er (parler, habiter, aimer…) and all follow the same pattern: remove -er, add the ending.",
+    "table": [
+      ["", "parler", "English"],
+      ["je", "parle", "I speak"],
+      ["tu", "parles", "you speak"],
+      ["il / elle / on", "parle", "he / she speaks, we speak"],
+      ["nous", "parlons", "we speak"],
+      ["vous", "parlez", "you speak"],
+      ["ils / elles", "parlent", "they speak"]
+    ],
+    "examples": [
+      { "fr": "Je parle anglais et indonésien.", "en": "I speak English and Indonesian." },
+      { "fr": "Vous habitez où ?", "en": "Where do you live?" },
+      { "fr": "Ils travaillent à Paris.", "en": "They work in Paris." }
+    ],
+    "trap": "parle, parles and parlent sound exactly the same: those endings are silent. Only nous (-ons) and vous (-ez) sound different. Exception to the pattern: aller is irregular."
+  },
+  {
+    "id": "articles",
+    "title": "Articles: un, une, le, la, les",
+    "intro": "Every French noun is masculine or feminine — Indonesian has nothing like this. Learn each noun with its article, like a single word: « la table », « le livre ».",
+    "table": [
+      ["masculine", "feminine", "plural", "English"],
+      ["un", "une", "des", "a, some (one of many)"],
+      ["le", "la", "les", "the (a specific one, or things in general)"],
+      ["l'", "l'", "les", "the, before a vowel or a silent h"]
+    ],
+    "examples": [
+      { "fr": "un livre, une pomme, des amis", "en": "a book, an apple, (some) friends" },
+      { "fr": "C'est le livre de Léa.", "en": "It's Léa's book." },
+      { "fr": "J'aime les chats.", "en": "I like cats." }
+    ],
+    "trap": "There is no perfect rule for gender, but endings help: -tion, -té, -ette, -ure are usually feminine; -ment, -age, -eau are usually masculine. Talking about things in general uses le / la / les: « j'aime le café »."
+  },
+  {
+    "id": "adjectives",
+    "title": "Adjectives: masculine, feminine, plural",
+    "intro": "Adjectives agree with the noun they describe. Most of them come after the noun: « une voiture rouge », « des amis drôles ».",
+    "table": [
+      ["masculine", "feminine", "Rule"],
+      ["petit", "petite", "add -e (you hear the t)"],
+      ["jeune", "jeune", "already ends in -e: no change"],
+      ["heureux", "heureuse", "-eux → -euse"],
+      ["italien", "italienne", "-ien → -ienne"],
+      ["sportif", "sportive", "-if → -ive"],
+      ["beau", "belle", "irregular"],
+      ["petits", "petites", "plural: add -s (silent)"]
+    ],
+    "examples": [
+      { "fr": "Mon frère est grand. Ma sœur est grande.", "en": "My brother is tall. My sister is tall." },
+      { "fr": "C'est une fille sportive.", "en": "She's a sporty girl." },
+      { "fr": "Ils sont très gentils.", "en": "They are very kind." }
+    ],
+    "trap": "A few short, common adjectives go before the noun: beau, joli, grand, petit, bon, jeune, vieux — « un petit chat », « une belle maison »."
+  },
+  {
+    "id": "big-four",
+    "title": "The 4 key irregular verbs: être, avoir, aller, faire",
+    "intro": "These four verbs are everywhere. They also build other tenses: aller + verb for the future, avoir or être + participle for the past.",
+    "table": [
+      ["", "être (be)", "avoir (have)", "aller (go)", "faire (do)"],
+      ["je / j'", "suis", "ai", "vais", "fais"],
+      ["tu", "es", "as", "vas", "fais"],
+      ["il / elle / on", "est", "a", "va", "fait"],
+      ["nous", "sommes", "avons", "allons", "faisons"],
+      ["vous", "êtes", "avez", "allez", "faites"],
+      ["ils / elles", "sont", "ont", "vont", "font"]
+    ],
+    "examples": [
+      { "fr": "Je suis fatiguée.", "en": "I'm tired. (woman)" },
+      { "fr": "Il fait beau aujourd'hui.", "en": "The weather is nice today." },
+      { "fr": "Nous allons à la mer.", "en": "We're going to the seaside." }
+    ],
+    "trap": "Watch the vous forms: « vous êtes », « vous faites » — never « vous faisez ». And age uses avoir, not être: « j'ai vingt ans »."
+  },
+  {
+    "id": "irregular-verbs",
+    "title": "More everyday verbs: prendre, vouloir, pouvoir, venir",
+    "intro": "Four more irregular verbs you will use every day. vouloir and pouvoir are often followed by a second verb.",
+    "table": [
+      ["", "prendre (take)", "vouloir (want)", "pouvoir (can)", "venir (come)"],
+      ["je", "prends", "veux", "peux", "viens"],
+      ["tu", "prends", "veux", "peux", "viens"],
+      ["il / elle / on", "prend", "veut", "peut", "vient"],
+      ["nous", "prenons", "voulons", "pouvons", "venons"],
+      ["vous", "prenez", "voulez", "pouvez", "venez"],
+      ["ils / elles", "prennent", "veulent", "peuvent", "viennent"]
+    ],
+    "examples": [
+      { "fr": "Je prends le bus.", "en": "I take the bus." },
+      { "fr": "Tu veux un café ?", "en": "Do you want a coffee?" },
+      { "fr": "Elle vient de Bali.", "en": "She comes from Bali." }
+    ],
+    "trap": "After vouloir, pouvoir and devoir, the second verb stays in the infinitive: « je veux partir », « je peux venir ». « Je voudrais » is the polite form of « je veux »."
+  },
+  {
+    "id": "places",
+    "title": "à, en, au: cities and countries",
+    "intro": "To say where you live or where you go, the little word before the place changes. Same word for « in » and « to ».",
+    "table": [
+      ["", "Example", "English"],
+      ["à + city", "à Paris, à Jakarta", "in / to Paris"],
+      ["en + feminine country", "en France, en Indonésie", "in / to France"],
+      ["au + masculine country", "au Japon, au Canada", "in / to Japan"],
+      ["aux + plural country", "aux États-Unis, aux Philippines", "in / to the USA"]
+    ],
+    "examples": [
+      { "fr": "J'habite à Paris.", "en": "I live in Paris." },
+      { "fr": "Je suis née en Indonésie.", "en": "I was born in Indonesia. (woman)" },
+      { "fr": "Il va au Japon en juillet.", "en": "He's going to Japan in July." }
+    ],
+    "trap": "Most countries ending in -e are feminine (la France → en France), but not all: « au Mexique », « au Cambodge ». To say where you come from: « de Paris », « d'Indonésie », « du Japon »."
+  }
+]

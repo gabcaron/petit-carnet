@@ -1,0 +1,375 @@
+{
+  "dialogue": [
+    {
+      "who": "Léa",
+      "fr": "Bonjour !",
+      "en": "Hello!"
+    },
+    {
+      "who": "Sari",
+      "fr": "Bonjour ! Ça va ?",
+      "en": "Hello! How are you?"
+    },
+    {
+      "who": "Léa",
+      "fr": "Ça va bien, merci. Un, deux, trois… on commence !",
+      "en": "I'm fine, thanks. One, two, three… let's start!"
+    }
+  ],
+  "words": [
+    {
+      "id": "zero",
+      "fr": "zéro",
+      "en": "0"
+    },
+    {
+      "id": "un",
+      "fr": "un",
+      "en": "1",
+      "note": "A nasal sound: air goes through the nose."
+    },
+    {
+      "id": "deux",
+      "fr": "deux",
+      "en": "2",
+      "note": "The x is silent. Round your lips as for \"o\" and say \"e\"."
+    },
+    {
+      "id": "trois",
+      "fr": "trois",
+      "en": "3",
+      "note": "\"oi\" sounds like \"wa\": trwa."
+    },
+    {
+      "id": "quatre",
+      "fr": "quatre",
+      "en": "4",
+      "note": "\"qu\" sounds like \"k\"."
+    },
+    {
+      "id": "cinq",
+      "fr": "cinq",
+      "en": "5",
+      "note": "The q is pronounced: \"sank\"."
+    },
+    {
+      "id": "six",
+      "fr": "six",
+      "en": "6",
+      "note": "Sounds like \"sees\"."
+    },
+    {
+      "id": "sept",
+      "fr": "sept",
+      "en": "7",
+      "note": "The p is silent: \"set\"."
+    },
+    {
+      "id": "huit",
+      "fr": "huit",
+      "en": "8",
+      "note": "The h is always silent in French."
+    },
+    {
+      "id": "neuf",
+      "fr": "neuf",
+      "en": "9"
+    },
+    {
+      "id": "dix",
+      "fr": "dix",
+      "en": "10",
+      "note": "Sounds like \"dees\"."
+    },
+    {
+      "id": "onze",
+      "fr": "onze",
+      "en": "11"
+    },
+    {
+      "id": "douze",
+      "fr": "douze",
+      "en": "12"
+    },
+    {
+      "id": "treize",
+      "fr": "treize",
+      "en": "13"
+    },
+    {
+      "id": "quatorze",
+      "fr": "quatorze",
+      "en": "14"
+    },
+    {
+      "id": "quinze",
+      "fr": "quinze",
+      "en": "15"
+    },
+    {
+      "id": "seize",
+      "fr": "seize",
+      "en": "16"
+    },
+    {
+      "id": "dix-sept",
+      "fr": "dix-sept",
+      "en": "17",
+      "note": "10 + 7. The x sounds like \"s\" here: \"dee-set\"."
+    },
+    {
+      "id": "dix-huit",
+      "fr": "dix-huit",
+      "en": "18",
+      "note": "The x sounds like \"z\": \"dee-zweet\"."
+    },
+    {
+      "id": "dix-neuf",
+      "fr": "dix-neuf",
+      "en": "19",
+      "note": "The x sounds like \"z\": \"deez-nuhf\"."
+    },
+    {
+      "id": "vingt",
+      "fr": "vingt",
+      "en": "20",
+      "note": "The g and t are silent: \"van\" (nasal)."
+    }
+  ],
+  "grammar": {
+    "title": "How French is written vs. how it sounds",
+    "intro": "Indonesian is read exactly as it is written. French is not — but it follows rules. Learn these first and you can read almost any word.",
+    "table": [
+      [
+        "Spelling",
+        "Sound",
+        "Example"
+      ],
+      [
+        "final e, s, t, d, x",
+        "usually silent",
+        "petit, grand, deux"
+      ],
+      [
+        "h",
+        "always silent",
+        "huit, hôtel"
+      ],
+      [
+        "é",
+        "like \"ay\", short",
+        "café, zéro"
+      ],
+      [
+        "è, ê",
+        "like \"e\" in \"bed\"",
+        "très, fête"
+      ],
+      [
+        "ou",
+        "like \"u\" in \"buku\"",
+        "vous, douze"
+      ],
+      [
+        "u",
+        "new sound: \"ee\" with rounded lips",
+        "tu, rue"
+      ],
+      [
+        "oi",
+        "\"wa\"",
+        "trois, moi"
+      ],
+      [
+        "ch",
+        "\"sh\"",
+        "chat"
+      ],
+      [
+        "ç",
+        "\"s\"",
+        "français"
+      ],
+      [
+        "qu",
+        "\"k\"",
+        "quatre, quinze"
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "Paris",
+        "en": "The s is silent: \"Pa-ree\"."
+      },
+      {
+        "fr": "petit",
+        "en": "The t is silent: \"puh-tee\"."
+      },
+      {
+        "fr": "français",
+        "en": "ç = s, and the final s is silent: \"fran-say\"."
+      }
+    ],
+    "trap": "Final consonants are usually silent — except C, R, F and L, which are often pronounced: avec, bonjour, neuf, il. Think of the English word \"CaReFuL\"."
+  },
+  "sounds": {
+    "title": "u or ou?",
+    "explain": "The Indonesian \"u\" (as in buku) is the French \"ou\". The French \"u\" is a new sound: say \"ee\", then round your lips like a kiss without moving your tongue.",
+    "pairs": [
+      [
+        "tu",
+        "tout"
+      ],
+      [
+        "rue",
+        "roue"
+      ],
+      [
+        "vu",
+        "vous"
+      ],
+      [
+        "dessus",
+        "dessous"
+      ],
+      [
+        "pu",
+        "pou"
+      ]
+    ],
+    "tip": "Look in a mirror: for \"u\" your lips are rounded and pushed forward, your tongue stays behind your bottom teeth."
+  },
+  "practice": [
+    {
+      "type": "choice",
+      "prompt": "Which number is « sept »?",
+      "options": [
+        "6",
+        "7",
+        "17",
+        "70"
+      ],
+      "answer": "7"
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen and choose the word you hear.",
+      "listen": "quinze",
+      "options": [
+        "quatre",
+        "quinze",
+        "quatorze",
+        "cinq"
+      ],
+      "answer": "quinze"
+    },
+    {
+      "type": "choice",
+      "prompt": "Which letter is silent in « huit »?",
+      "options": [
+        "h",
+        "u",
+        "i",
+        "t"
+      ],
+      "answer": "h",
+      "explain": "The h is always silent. Here the t is pronounced."
+    },
+    {
+      "type": "fill",
+      "prompt": "Write the number in letters.",
+      "sentence": "12 = ___",
+      "answers": [
+        "douze"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Write the number in letters.",
+      "sentence": "3 = ___",
+      "answers": [
+        "trois"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "How do you say « ç » in « français »?",
+      "options": [
+        "like \"s\"",
+        "like \"k\"",
+        "like \"sh\""
+      ],
+      "answer": "like \"s\""
+    },
+    {
+      "type": "choice",
+      "prompt": "Which word has the French \"u\" sound (not \"ou\")?",
+      "options": [
+        "tout",
+        "tu",
+        "vous",
+        "roue"
+      ],
+      "answer": "tu"
+    },
+    {
+      "type": "fill",
+      "prompt": "Write the result in letters.",
+      "sentence": "10 + 10 = ___",
+      "answers": [
+        "vingt"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen and choose the word you hear.",
+      "listen": "seize",
+      "options": [
+        "six",
+        "seize",
+        "sept",
+        "dix-sept"
+      ],
+      "answer": "seize"
+    },
+    {
+      "type": "order",
+      "prompt": "Put the numbers in order, from smallest to biggest.",
+      "words": [
+        "trois",
+        "un",
+        "deux"
+      ],
+      "answer": "un deux trois"
+    },
+    {
+      "type": "fill",
+      "prompt": "Write the number in letters.",
+      "sentence": "18 = ___",
+      "answers": [
+        "dix-huit"
+      ],
+      "explain": "Numbers 17, 18, 19 are written with a hyphen: dix-sept, dix-huit, dix-neuf."
+    },
+    {
+      "type": "choice",
+      "prompt": "In « Paris », which letter do you NOT hear?",
+      "options": [
+        "P",
+        "a",
+        "r",
+        "s"
+      ],
+      "answer": "s"
+    }
+  ],
+  "task": {
+    "prompt": "Count from 0 to 20 out loud without looking. Then write in letters: 7, 13, 16 and 20.",
+    "example": "sept, treize, seize, vingt",
+    "checklist": [
+      "I can count from 0 to 20",
+      "I can read h, ç, ou and u correctly",
+      "I know final letters are often silent"
+    ]
+  }
+}

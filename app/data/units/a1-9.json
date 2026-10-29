@@ -1,0 +1,360 @@
+{
+  "dialogue": [
+    {
+      "who": "Léa",
+      "fr": "Qu'est-ce que tu vas faire ce week-end ?",
+      "en": "What are you going to do this weekend?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Je vais aller à la mer avec des amis.",
+      "en": "I'm going to go to the seaside with friends."
+    },
+    {
+      "who": "Léa",
+      "fr": "Super ! Il va faire beau ?",
+      "en": "Great! Is the weather going to be nice?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Oui, il va faire beau et chaud.",
+      "en": "Yes, it's going to be nice and warm."
+    },
+    {
+      "who": "Léa",
+      "fr": "Et cet été, tu vas rentrer en Indonésie ?",
+      "en": "And this summer, are you going back to Indonesia?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Je veux bien, mais je dois travailler en juillet. Je vais partir en août.",
+      "en": "I'd like to, but I have to work in July. I'm going to leave in August."
+    }
+  ],
+  "words": [
+    {
+      "id": "ce-week-end",
+      "fr": "ce week-end",
+      "en": "this weekend"
+    },
+    {
+      "id": "demain",
+      "fr": "demain",
+      "en": "tomorrow"
+    },
+    {
+      "id": "semaine-prochaine",
+      "fr": "la semaine prochaine",
+      "en": "next week"
+    },
+    {
+      "id": "vacances",
+      "fr": "les vacances",
+      "en": "holidays",
+      "gender": "f",
+      "note": "Always plural."
+    },
+    {
+      "id": "mer",
+      "fr": "la mer",
+      "en": "the sea, the seaside",
+      "gender": "f"
+    },
+    {
+      "id": "montagne",
+      "fr": "la montagne",
+      "en": "the mountains",
+      "gender": "f"
+    },
+    {
+      "id": "partir",
+      "fr": "partir",
+      "en": "to leave, to go away",
+      "note": "je pars"
+    },
+    {
+      "id": "rentrer",
+      "fr": "rentrer",
+      "en": "to go back (home)"
+    },
+    {
+      "id": "il-fait-beau",
+      "fr": "il fait beau",
+      "en": "the weather is nice"
+    },
+    {
+      "id": "il-fait-chaud",
+      "fr": "il fait chaud",
+      "en": "it's hot"
+    },
+    {
+      "id": "il-fait-froid",
+      "fr": "il fait froid",
+      "en": "it's cold"
+    },
+    {
+      "id": "il-pleut",
+      "fr": "il pleut",
+      "en": "it's raining",
+      "note": "pleuvoir: « il va pleuvoir » = it is going to rain."
+    },
+    {
+      "id": "printemps",
+      "fr": "le printemps",
+      "en": "spring",
+      "gender": "m",
+      "note": "« au printemps » = in spring"
+    },
+    {
+      "id": "ete",
+      "fr": "l'été",
+      "en": "summer",
+      "gender": "m",
+      "note": "« en été » = in summer"
+    },
+    {
+      "id": "automne",
+      "fr": "l'automne",
+      "en": "autumn",
+      "gender": "m",
+      "note": "The m is silent: \"o-tonn\"."
+    },
+    {
+      "id": "hiver",
+      "fr": "l'hiver",
+      "en": "winter",
+      "gender": "m"
+    },
+    {
+      "id": "mois",
+      "fr": "janvier, février, mars, avril, mai, juin, juillet, août, septembre, octobre, novembre, décembre",
+      "en": "January … December",
+      "note": "No capital letters. « en août » = in August."
+    },
+    {
+      "id": "vouloir",
+      "fr": "vouloir",
+      "en": "to want",
+      "note": "je veux, tu veux, il veut"
+    },
+    {
+      "id": "pouvoir",
+      "fr": "pouvoir",
+      "en": "can, to be able to",
+      "note": "je peux, tu peux, il peut"
+    },
+    {
+      "id": "devoir",
+      "fr": "devoir",
+      "en": "must, to have to",
+      "note": "je dois, tu dois, il doit"
+    }
+  ],
+  "grammar": {
+    "title": "aller + verb: the near future",
+    "intro": "Indonesian puts « akan » before the verb. French does the same with aller: aller + a verb in the infinitive = what is going to happen.",
+    "table": [
+      [
+        "",
+        "aller + infinitive",
+        "English"
+      ],
+      [
+        "je",
+        "vais partir",
+        "I'm going to leave"
+      ],
+      [
+        "tu",
+        "vas travailler",
+        "you're going to work"
+      ],
+      [
+        "il / elle",
+        "va faire beau",
+        "it's going to be nice"
+      ],
+      [
+        "nous",
+        "allons voyager",
+        "we're going to travel"
+      ],
+      [
+        "vous",
+        "allez rentrer",
+        "you're going to go back"
+      ],
+      [
+        "ils / elles",
+        "vont nager",
+        "they're going to swim"
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "Je vais partir en août.",
+        "en": "I'm going to leave in August."
+      },
+      {
+        "fr": "Il va faire froid demain.",
+        "en": "It's going to be cold tomorrow."
+      },
+      {
+        "fr": "Je ne peux pas venir, je dois travailler.",
+        "en": "I can't come, I have to work."
+      }
+    ],
+    "trap": "The second verb never changes: « je vais partir », never « je vais pars ». Same after vouloir, pouvoir and devoir: « je veux partir », « je dois travailler ». In the negative, wrap aller: « je ne vais pas partir »."
+  },
+  "sounds": {
+    "title": "in or an?",
+    "explain": "Two more nasal sounds. « in » (also written ain, ein) is said with a smile, mouth half open. « an » (en) is said with the mouth wide open, further back.",
+    "pairs": [
+      [
+        "vin",
+        "vent"
+      ],
+      [
+        "main",
+        "ment"
+      ],
+      [
+        "bain",
+        "banc"
+      ],
+      [
+        "plein",
+        "plan"
+      ]
+    ],
+    "tip": "« un vin blanc » (a white wine) has both: smile for « vin », open for « blanc »."
+  },
+  "practice": [
+    {
+      "type": "fill",
+      "prompt": "Complete with aller.",
+      "sentence": "Je ___ voyager en juillet.",
+      "answers": [
+        "vais"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with aller.",
+      "sentence": "Il ___ pleuvoir demain.",
+      "answers": [
+        "va"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence is correct?",
+      "options": [
+        "Je vais pars demain.",
+        "Je vais partir demain.",
+        "Je partir demain."
+      ],
+      "answer": "Je vais partir demain.",
+      "explain": "After aller, the verb stays in the infinitive."
+    },
+    {
+      "type": "choice",
+      "prompt": "« il fait froid » means…",
+      "options": [
+        "it's hot",
+        "it's cold",
+        "it's raining"
+      ],
+      "answer": "it's cold"
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen and choose what you hear.",
+      "options": [
+        "vin",
+        "vent"
+      ],
+      "answer": "vin",
+      "listen": "vin"
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Nous",
+        "allons",
+        "aller",
+        "à",
+        "la",
+        "mer"
+      ],
+      "answer": "Nous allons aller à la mer"
+    },
+    {
+      "type": "choice",
+      "prompt": "Which season comes after summer (« l'été »)?",
+      "options": [
+        "le printemps",
+        "l'automne",
+        "l'hiver"
+      ],
+      "answer": "l'automne"
+    },
+    {
+      "type": "fill",
+      "prompt": "Make it negative.",
+      "sentence": "Je ne vais ___ travailler demain.",
+      "answers": [
+        "pas"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "« Je dois travailler » means…",
+      "options": [
+        "I want to work",
+        "I can work",
+        "I have to work"
+      ],
+      "answer": "I have to work"
+    },
+    {
+      "type": "order",
+      "prompt": "Make the question.",
+      "words": [
+        "Tu",
+        "veux",
+        "venir"
+      ],
+      "answer": "Tu veux venir"
+    },
+    {
+      "type": "fill",
+      "prompt": "Translate: \"next week\".",
+      "sentence": "la semaine ___",
+      "answers": [
+        "prochaine"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "In the dialogue, when is Sari going to leave?",
+      "options": [
+        "in July",
+        "in August",
+        "this weekend"
+      ],
+      "answer": "in August"
+    }
+  ],
+  "task": {
+    "prompt": "Write 4–5 sentences about your plans for next weekend and your next holidays, with the weather.",
+    "example": "Ce week-end, je vais aller au parc avec des amis. Il va faire beau. En décembre, je vais rentrer en Indonésie. Je veux voir ma famille !",
+    "checklist": [
+      "I can talk about the future with aller + verb",
+      "I can say what the weather is like",
+      "I can say the seasons and the months",
+      "I can use vouloir, pouvoir, devoir"
+    ]
+  }
+}
