@@ -1,0 +1,363 @@
+{
+  "dialogue": [
+    {
+      "who": "Léa",
+      "fr": "Alors, ton voyage à Lyon, c'était comment ?",
+      "en": "So, how was your trip to Lyon?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Génial ! Nous sommes partis vendredi soir en train.",
+      "en": "Great! We left on Friday evening by train."
+    },
+    {
+      "who": "Léa",
+      "fr": "Vous êtes arrivés tard ?",
+      "en": "Did you arrive late?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Oui, vers minuit. Samedi, on s'est promenés dans la vieille ville.",
+      "en": "Yes, around midnight. On Saturday, we walked around the old town."
+    },
+    {
+      "who": "Léa",
+      "fr": "Et dimanche ?",
+      "en": "And on Sunday?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Dimanche, je suis montée sur la colline de Fourvière. Nous sommes rentrés le soir, très fatigués !",
+      "en": "On Sunday, I went up Fourvière hill. We came back in the evening, very tired!"
+    }
+  ],
+  "words": [
+    {
+      "id": "souvenir",
+      "fr": "un souvenir",
+      "en": "a memory; a souvenir",
+      "gender": "m"
+    },
+    {
+      "id": "voyage",
+      "fr": "un voyage",
+      "en": "a trip, a journey",
+      "gender": "m"
+    },
+    {
+      "id": "arriver",
+      "fr": "arriver → arrivé",
+      "en": "to arrive → arrived",
+      "note": "With être: je suis arrivé(e)."
+    },
+    {
+      "id": "venir",
+      "fr": "venir → venu",
+      "en": "to come → came",
+      "note": "With être: elle est venue."
+    },
+    {
+      "id": "sortir",
+      "fr": "sortir → sorti",
+      "en": "to go out → went out",
+      "note": "With être: nous sommes sortis."
+    },
+    {
+      "id": "entrer",
+      "fr": "entrer → entré",
+      "en": "to go in → went in",
+      "note": "With être."
+    },
+    {
+      "id": "monter",
+      "fr": "monter → monté",
+      "en": "to go up → went up",
+      "note": "With être."
+    },
+    {
+      "id": "descendre",
+      "fr": "descendre → descendu",
+      "en": "to go down → went down",
+      "note": "With être."
+    },
+    {
+      "id": "tomber",
+      "fr": "tomber → tombé",
+      "en": "to fall → fell",
+      "note": "With être: je suis tombée."
+    },
+    {
+      "id": "naitre",
+      "fr": "naître → né",
+      "en": "to be born → born",
+      "note": "With être: je suis née en 2000."
+    },
+    {
+      "id": "mourir",
+      "fr": "mourir → mort",
+      "en": "to die → died",
+      "note": "With être."
+    },
+    {
+      "id": "se-promener",
+      "fr": "se promener",
+      "en": "to go for a walk",
+      "note": "Past: je me suis promené(e)."
+    },
+    {
+      "id": "s-amuser",
+      "fr": "s'amuser",
+      "en": "to have fun",
+      "note": "Past: on s'est bien amusés."
+    },
+    {
+      "id": "la-veille",
+      "fr": "la veille",
+      "en": "the day before",
+      "gender": "f"
+    },
+    {
+      "id": "le-lendemain",
+      "fr": "le lendemain",
+      "en": "the next day",
+      "gender": "m"
+    },
+    {
+      "id": "il-y-a-temps",
+      "fr": "il y a (+ time)",
+      "en": "ago",
+      "note": "« il y a deux ans » = two years ago."
+    },
+    {
+      "id": "pendant",
+      "fr": "pendant",
+      "en": "during, for (a time)",
+      "note": "« pendant trois jours » = for three days."
+    },
+    {
+      "id": "vers",
+      "fr": "vers",
+      "en": "around (a time), towards",
+      "note": "« vers minuit » = around midnight."
+    },
+    {
+      "id": "apres",
+      "fr": "après",
+      "en": "after, afterwards"
+    },
+    {
+      "id": "fatigue",
+      "fr": "fatigué / fatiguée",
+      "en": "tired",
+      "note": "Man / woman (same sound)."
+    }
+  ],
+  "grammar": {
+    "title": "Past tense with être",
+    "intro": "In A1 you saw that a few verbs use être in the past. At A2 you learn the whole list: movement verbs (aller, venir, partir, arriver, monter, descendre…) and all reflexive verbs (se lever, se promener…). With être, the participle agrees like an adjective.",
+    "table": [
+      [
+        "",
+        "partir (past)",
+        "English"
+      ],
+      [
+        "je",
+        "suis parti(e)",
+        "I left"
+      ],
+      [
+        "tu",
+        "es parti(e)",
+        "you left"
+      ],
+      [
+        "il / elle",
+        "est parti / partie",
+        "he / she left"
+      ],
+      [
+        "nous",
+        "sommes partis / parties",
+        "we left"
+      ],
+      [
+        "vous",
+        "êtes parti(e)(s)",
+        "you left"
+      ],
+      [
+        "ils / elles",
+        "sont partis / parties",
+        "they left"
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "Elle est arrivée à Paris en 2024.",
+        "en": "She arrived in Paris in 2024."
+      },
+      {
+        "fr": "Nous sommes sortis vers minuit.",
+        "en": "We went out around midnight."
+      },
+      {
+        "fr": "Je me suis levée tôt ce matin.",
+        "en": "I got up early this morning. (woman)"
+      }
+    ],
+    "trap": "Add -e for a woman and -s for a plural: « elle est partie », « ils sont partis », « elles sont parties ». A mixed group takes -s only. Reflexive verbs work the same: « je me suis promenée ». Never « j'ai allé »."
+  },
+  "sounds": {
+    "title": "s or z?",
+    "explain": "One s between two vowels sounds like z. Two s (ss) sound like s. It changes the meaning: « poisson » is fish, « poison » is poison!",
+    "pairs": [
+      [
+        "poisson",
+        "poison"
+      ],
+      [
+        "dessert",
+        "désert"
+      ],
+      [
+        "coussin",
+        "cousin"
+      ],
+      [
+        "basse",
+        "base"
+      ]
+    ],
+    "tip": "Put your hand on your throat: for z you feel it buzz, for s you don't."
+  },
+  "practice": [
+    {
+      "type": "fill",
+      "prompt": "Complete with être.",
+      "sentence": "Nous ___ partis vendredi.",
+      "answers": [
+        "sommes"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "\"She arrived\" is…",
+      "options": [
+        "elle a arrivé",
+        "elle est arrivé",
+        "elle est arrivée"
+      ],
+      "answer": "elle est arrivée",
+      "explain": "arriver uses être, and the participle agrees: -e for a woman."
+    },
+    {
+      "type": "fill",
+      "prompt": "Past participle of « venir ».",
+      "sentence": "Ils sont ___ en voiture.",
+      "answers": [
+        "venus"
+      ],
+      "explain": "venir → venu, + s for a plural."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which verb uses avoir in the past?",
+      "options": [
+        "partir",
+        "manger",
+        "tomber"
+      ],
+      "answer": "manger"
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen and choose what you hear.",
+      "options": [
+        "poisson",
+        "poison"
+      ],
+      "answer": "poison",
+      "listen": "poison"
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete (Sari is talking).",
+      "sentence": "Je me suis promené___ au parc.",
+      "answers": [
+        "e"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Elle",
+        "est",
+        "née",
+        "en",
+        "Indonésie"
+      ],
+      "answer": "Elle est née en Indonésie"
+    },
+    {
+      "type": "choice",
+      "prompt": "« il y a deux ans » means…",
+      "options": [
+        "in two years",
+        "two years ago",
+        "for two years"
+      ],
+      "answer": "two years ago"
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with être.",
+      "sentence": "Tu ___ sortie hier soir ?",
+      "answers": [
+        "es"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence is correct?",
+      "options": [
+        "J'ai allé au cinéma.",
+        "Je suis allé au cinéma.",
+        "Je suis aller au cinéma."
+      ],
+      "answer": "Je suis allé au cinéma."
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "On",
+        "s'est",
+        "bien",
+        "amusés"
+      ],
+      "answer": "On s'est bien amusés"
+    },
+    {
+      "type": "choice",
+      "prompt": "In the dialogue, how did they travel to Lyon?",
+      "options": [
+        "by car",
+        "by train",
+        "by plane"
+      ],
+      "answer": "by train"
+    }
+  ],
+  "task": {
+    "prompt": "Tell the story of a trip or a special day (6 sentences): when you left, how you travelled, what you did, when you came back.",
+    "example": "L'année dernière, je suis allée à Bali avec ma famille. Nous sommes partis en avion. Le premier jour, on s'est promenés sur la plage. Le lendemain, nous sommes montés sur un volcan. Je suis tombée, mais ça va ! Nous sommes rentrés après une semaine.",
+    "checklist": [
+      "I know which verbs use être in the past",
+      "I can make the participle agree",
+      "I can use reflexive verbs in the past",
+      "I can use « il y a », « pendant », « le lendemain »"
+    ]
+  }
+}

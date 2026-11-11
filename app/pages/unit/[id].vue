@@ -1,6 +1,10 @@
 <script setup lang="ts">
 import { units, STEPS } from '~/data/course'
 
+// true  = every step is clickable at any time (handy to check units quickly)
+// false = steps unlock one by one, as she progresses
+const FREE_NAVIGATION = true
+
 const route = useRoute()
 const unit = units.find(u => u.id === route.params.id)
 if (!unit?.content) throw createError({ statusCode: 404, statusMessage: 'This unit does not exist yet', fatal: true })
@@ -15,7 +19,8 @@ const finished = ref(false)
 const nextUnit = units.slice(units.indexOf(unit) + 1).find(u => u.content)
 
 function onDone() {
-  if (step.value === 1) addCards(content.words.map(w => w.id))
+  // Steps can be done in any order: make sure the words reach the deck even if "Words" was skipped.
+  if (step.value === 1 || step.value === STEPS.length - 1) addCards(content.words.map(w => w.id))
   completeStep(unit!.id, step.value)
   if (step.value < STEPS.length - 1) step.value++
   else finished.value = true
@@ -39,7 +44,7 @@ function goTo(i: number) {
         <button
           v-for="(name, i) in STEPS" :key="name" type="button" class="step"
           :class="{ 'step--current': i === step && !finished, 'step--done': i < doneCount }"
-          :disabled="i > doneCount" :aria-current="i === step && !finished ? 'step' : undefined"
+          :disabled="!FREE_NAVIGATION && i > doneCount" :aria-current="i === step && !finished ? 'step' : undefined"
           @click="goTo(i)"
         >
           <span class="step__dot">{{ i < doneCount ? '✓' : i + 1 }}</span>
@@ -74,9 +79,9 @@ function goTo(i: number) {
 h1 { margin-bottom: var(--s3); }
 .steps { display: grid; grid-template-columns: repeat(6, 1fr); gap: var(--s1); margin-bottom: var(--s4); }
 .step { display: flex; flex-direction: column; align-items: center; gap: 4px; min-height: 56px; padding: 4px; border: 0; background: none; font: inherit; color: var(--c-muted); cursor: pointer; }
-.step:disabled { cursor: not-allowed; opacity: 0.5; }
 .step__dot { display: grid; place-items: center; width: 32px; height: 32px; border-radius: 50%; border: 1.5px solid var(--c-line); background: var(--c-surface); font-size: var(--fs-small); font-weight: 600; }
 .step__name { font-size: 12px; text-align: center; line-height: 1.2; }
+.step:disabled { cursor: not-allowed; opacity: 0.5; }
 .step--done .step__dot { background: var(--c-success-soft); border-color: var(--c-success); color: var(--c-success); }
 .step--current { color: var(--c-primary); }
 .step--current .step__dot { background: var(--c-primary); border-color: var(--c-primary); color: #fff; }

@@ -1,0 +1,349 @@
+{
+  "dialogue": [
+    {
+      "who": "Léa",
+      "fr": "Alors, qu'est-ce que tu penses de Paris, après un an ?",
+      "en": "So, what do you think of Paris after a year?"
+    },
+    {
+      "who": "Sari",
+      "fr": "À mon avis, c'est une ville magnifique, mais la vie est chère.",
+      "en": "In my opinion it's a beautiful city, but life is expensive."
+    },
+    {
+      "who": "Léa",
+      "fr": "Tu préfères Paris ou Jakarta ?",
+      "en": "Do you prefer Paris or Jakarta?"
+    },
+    {
+      "who": "Sari",
+      "fr": "C'est difficile ! D'abord, Jakarta, c'est chez moi. Ensuite, il fait chaud toute l'année…",
+      "en": "It's hard! First, Jakarta is home. Then, it's hot all year round…"
+    },
+    {
+      "who": "Léa",
+      "fr": "Mais ?",
+      "en": "But?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Mais ici, je me sens libre, parce que je peux tout faire à pied. Donc, finalement, je reste !",
+      "en": "But here I feel free, because I can do everything on foot. So, in the end, I'm staying!"
+    }
+  ],
+  "words": [
+    {
+      "id": "avis",
+      "fr": "l'avis",
+      "en": "opinion",
+      "gender": "m",
+      "note": "« À mon avis » = in my opinion."
+    },
+    {
+      "id": "je-pense-que",
+      "fr": "je pense que",
+      "en": "I think that"
+    },
+    {
+      "id": "je-trouve-que",
+      "fr": "je trouve que",
+      "en": "I find that, I think that"
+    },
+    {
+      "id": "je-crois-que",
+      "fr": "je crois que",
+      "en": "I believe that"
+    },
+    {
+      "id": "d-accord-avec",
+      "fr": "être d'accord avec",
+      "en": "to agree with",
+      "note": "Je ne suis pas d'accord avec toi."
+    },
+    {
+      "id": "parce-que-a2",
+      "fr": "parce que / car",
+      "en": "because",
+      "note": "car is more written."
+    },
+    {
+      "id": "a-cause-de",
+      "fr": "à cause de",
+      "en": "because of (negative)",
+      "note": "« à cause de la pluie »"
+    },
+    {
+      "id": "grace-a",
+      "fr": "grâce à",
+      "en": "thanks to (positive)",
+      "note": "« grâce à toi »"
+    },
+    {
+      "id": "donc",
+      "fr": "donc",
+      "en": "so, therefore"
+    },
+    {
+      "id": "alors",
+      "fr": "alors",
+      "en": "so, then"
+    },
+    {
+      "id": "c-est-pour-ca",
+      "fr": "c'est pour ça que",
+      "en": "that's why"
+    },
+    {
+      "id": "pour-but",
+      "fr": "pour + verb",
+      "en": "to, in order to",
+      "note": "« Je travaille pour gagner de l'argent. »"
+    },
+    {
+      "id": "mais",
+      "fr": "mais",
+      "en": "but"
+    },
+    {
+      "id": "pourtant",
+      "fr": "pourtant",
+      "en": "yet, however"
+    },
+    {
+      "id": "premierement",
+      "fr": "d'abord / premièrement",
+      "en": "first, firstly"
+    },
+    {
+      "id": "puis",
+      "fr": "puis",
+      "en": "then"
+    },
+    {
+      "id": "enfin",
+      "fr": "enfin / finalement",
+      "en": "finally, in the end"
+    },
+    {
+      "id": "avantage",
+      "fr": "l'avantage",
+      "en": "advantage",
+      "gender": "m"
+    },
+    {
+      "id": "inconvenient",
+      "fr": "l'inconvénient",
+      "en": "disadvantage",
+      "gender": "m"
+    },
+    {
+      "id": "se-sentir",
+      "fr": "se sentir",
+      "en": "to feel",
+      "note": "« Je me sens bien ici. »"
+    }
+  ],
+  "grammar": {
+    "title": "Giving your opinion and linking ideas",
+    "intro": "At A2 you don't just make short sentences: you explain why and organise your ideas. Start with an opinion phrase, then use connectors for the cause, the consequence, the contrast and the order.",
+    "table": [
+      [
+        "Function",
+        "Connectors",
+        "Example"
+      ],
+      [
+        "opinion",
+        "je pense que, je trouve que, à mon avis",
+        "À mon avis, Paris est trop cher."
+      ],
+      [
+        "cause",
+        "parce que, car, à cause de, grâce à",
+        "Je reste parce que je me sens libre."
+      ],
+      [
+        "consequence",
+        "donc, alors, c'est pour ça que",
+        "Il pleut, donc je prends le bus."
+      ],
+      [
+        "contrast",
+        "mais, pourtant",
+        "C'est cher, mais c'est beau."
+      ],
+      [
+        "order",
+        "d'abord, ensuite, puis, enfin",
+        "D'abord… Ensuite… Enfin…"
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "Je trouve que la vie est chère, mais j'aime Paris.",
+        "en": "I think life is expensive, but I like Paris."
+      },
+      {
+        "fr": "Grâce à toi, j'ai trouvé un travail.",
+        "en": "Thanks to you, I found a job."
+      },
+      {
+        "fr": "Je suis fatiguée, c'est pour ça que je reste à la maison.",
+        "en": "I'm tired, that's why I'm staying home."
+      }
+    ],
+    "trap": "parce que is followed by a sentence (subject + verb); à cause de / grâce à are followed by a noun: « parce qu'il pleut » but « à cause de la pluie ». à cause de is for something negative, grâce à for something positive. parce que becomes parce qu' before a vowel."
+  },
+  "sounds": {
+    "title": "Present or past? Opinion verbs",
+    "explain": "« je pense » (I think) and « j'ai pensé » (I thought) are close. Listen for « ai » before the verb and the « é » at the end. Also: « donc » ends with a k sound, « dont » doesn't.",
+    "pairs": [
+      [
+        "je pense",
+        "j'ai pensé"
+      ],
+      [
+        "je trouve",
+        "j'ai trouvé"
+      ],
+      [
+        "je crois",
+        "j'ai cru"
+      ],
+      [
+        "donc",
+        "dont"
+      ]
+    ],
+    "tip": "In « donc », the c is pronounced when it ends a sentence or before a vowel."
+  },
+  "practice": [
+    {
+      "type": "fill",
+      "prompt": "Complete with parce que or à cause de.",
+      "sentence": "Je reste à la maison ___ la pluie.",
+      "answers": [
+        "à cause de"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with parce que or à cause de.",
+      "sentence": "Je reste à la maison ___ il pleut.",
+      "answers": [
+        "parce que",
+        "parce qu'"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Which one is positive?",
+      "options": [
+        "à cause de",
+        "grâce à"
+      ],
+      "answer": "grâce à"
+    },
+    {
+      "type": "choice",
+      "prompt": "Complete: « Il fait froid, ___ je mets un pull. »",
+      "options": [
+        "mais",
+        "donc",
+        "parce que"
+      ],
+      "answer": "donc"
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen and choose what you hear.",
+      "options": [
+        "je pense",
+        "j'ai pensé"
+      ],
+      "answer": "j'ai pensé",
+      "listen": "j'ai pensé"
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "À",
+        "mon",
+        "avis,",
+        "Paris",
+        "est",
+        "cher"
+      ],
+      "answer": "À mon avis, Paris est cher"
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete.",
+      "sentence": "Je ne suis pas d'___ avec toi.",
+      "answers": [
+        "accord"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "« l'inconvénient » means…",
+      "options": [
+        "the advantage",
+        "the disadvantage",
+        "the opinion"
+      ],
+      "answer": "the disadvantage"
+    },
+    {
+      "type": "choice",
+      "prompt": "Put in order: first → then → finally",
+      "options": [
+        "d'abord → ensuite → enfin",
+        "enfin → d'abord → ensuite",
+        "ensuite → enfin → d'abord"
+      ],
+      "answer": "d'abord → ensuite → enfin"
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with mais or donc.",
+      "sentence": "C'est cher, ___ c'est très beau.",
+      "answers": [
+        "mais"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Je",
+        "me",
+        "sens",
+        "bien",
+        "ici"
+      ],
+      "answer": "Je me sens bien ici"
+    },
+    {
+      "type": "choice",
+      "prompt": "In the dialogue, why does Sari feel free in Paris?",
+      "options": [
+        "because it is cheap",
+        "because she can do everything on foot",
+        "because it is hot"
+      ],
+      "answer": "because she can do everything on foot"
+    }
+  ],
+  "task": {
+    "prompt": "Give your opinion on your city (or Paris vs. Jakarta) in 6–8 sentences: advantages, disadvantages, and your conclusion. Use at least 4 different connectors.",
+    "example": "À mon avis, Paris est une ville géniale. D'abord, il y a beaucoup de musées. Ensuite, on peut tout faire à pied. Mais la vie est chère, à cause des loyers. Pourtant, je me sens bien ici. Donc, finalement, je reste !",
+    "checklist": [
+      "I can give my opinion",
+      "I can explain why with parce que / à cause de / grâce à",
+      "I can use donc, mais, pourtant",
+      "I can organise my ideas with d'abord, ensuite, enfin"
+    ]
+  }
+}

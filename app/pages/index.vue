@@ -64,6 +64,7 @@ const NuxtLink = resolveComponent('NuxtLink')
 
 <style scoped>
 .hero { padding-top: var(--s6); }
+@media (max-width: 736px) { .hero { padding-top: var(--s4); } }
 .hero h1 { font-size: clamp(2rem, 5vw, 2.75rem); }
 .hero mark { background: linear-gradient(transparent 60%, var(--c-accent) 60%); color: inherit; padding: 0 2px; }
 .eyebrow { display: inline-block; padding: 4px 14px; margin-bottom: var(--s2); border: 2px solid var(--c-ink); border-radius: 999px; background: var(--c-surface); font: 600 var(--fs-small) / 1.4 var(--font-head); color: var(--c-ink); }

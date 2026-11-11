@@ -28,7 +28,7 @@
     {
       "who": "Sari",
       "fr": "Oui, je suis allée au marché le matin, et l'après-midi, on a regardé un film.",
-      "en": "Yes, I went to the market in the morning, and in the afternoon we watched a film."
+      "en": "Yes, I went to the market in the morning, and in the afternoon we watched a movie."
     }
   ],
   "words": [
@@ -189,7 +189,7 @@
       },
       {
         "fr": "Je n'ai pas vu le film.",
-        "en": "I didn't see the film."
+        "en": "I didn't see the movie."
       }
     ],
     "trap": "A few movement verbs use être instead of avoir: aller, partir, rentrer, rester, arriver, venir. With être, the participle agrees: « Sari est allée au marché ». In the negative, wrap avoir or être: « je n'ai pas mangé »."

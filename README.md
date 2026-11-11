@@ -14,7 +14,7 @@ Deploy on Vercel as-is (it detects Nuxt). Everything runs in the browser: no acc
 
 ## How it's organised
 
-- `app/data/units/<id>.json` — **the content of each unit** (A1 units 0–10 are written). `app/data/course.ts` holds the outline: to add a unit, copy a JSON file, then import it in `course.ts`. A unit without content shows as "Coming soon".
+- `app/data/units/<id>.json` — **the content of each unit** (A1 units 0–10 and A2 units 1-8 are written). `app/data/course.ts` holds the outline: to add a unit, copy a JSON file, then import it in `course.ts`. A unit without content shows as "Coming soon".
 - Each unit has 6 steps: Goal (dialogue) → Words (flashcards, added to the review deck) → Grammar → Sounds (ear training) → Practice (exercises; wrong answers come back once) → Can I do it? (writing task, saved so you can correct it).
 - `/review` — spaced repetition (Leitner boxes: 1, 3, 7, 14, 30 days).
 - `/grammar` — every grammar sheet in one place, searchable: basics in `app/data/grammar.json` + the sheet of each unit.

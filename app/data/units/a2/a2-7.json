@@ -1,0 +1,341 @@
+{
+  "dialogue": [
+    {
+      "who": "Léa",
+      "fr": "C'est qui, la fille qui parle avec Tom ?",
+      "en": "Who's the girl who's talking to Tom?"
+    },
+    {
+      "who": "Sari",
+      "fr": "C'est Inès, l'amie que j'ai rencontrée au cours de français.",
+      "en": "That's Inès, the friend I met in French class."
+    },
+    {
+      "who": "Léa",
+      "fr": "Elle est sympa ?",
+      "en": "Is she nice?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Très ! C'est quelqu'un qui aide tout le monde. Elle travaille dans le café où on s'est vues la première fois.",
+      "en": "Very! She's someone who helps everyone. She works in the café where we met for the first time."
+    },
+    {
+      "who": "Léa",
+      "fr": "Et le garçon aux cheveux bouclés ?",
+      "en": "And the boy with curly hair?"
+    },
+    {
+      "who": "Sari",
+      "fr": "C'est son frère. Il a l'air timide, mais c'est le plus drôle de la famille !",
+      "en": "That's her brother. He looks shy, but he's the funniest in the family!"
+    }
+  ],
+  "words": [
+    {
+      "id": "quelqu-un",
+      "fr": "quelqu'un",
+      "en": "someone"
+    },
+    {
+      "id": "tout-le-monde",
+      "fr": "tout le monde",
+      "en": "everyone",
+      "note": "Verb in singular: « tout le monde est là »."
+    },
+    {
+      "id": "rencontrer",
+      "fr": "rencontrer",
+      "en": "to meet (for the first time)"
+    },
+    {
+      "id": "avoir-l-air",
+      "fr": "avoir l'air",
+      "en": "to look, to seem",
+      "note": "« Il a l'air timide. »"
+    },
+    {
+      "id": "cheveux",
+      "fr": "les cheveux",
+      "en": "hair",
+      "gender": "m",
+      "note": "Always plural."
+    },
+    {
+      "id": "blond",
+      "fr": "blond / blonde",
+      "en": "blond"
+    },
+    {
+      "id": "roux",
+      "fr": "roux / rousse",
+      "en": "red-haired"
+    },
+    {
+      "id": "boucle",
+      "fr": "bouclé / bouclée",
+      "en": "curly"
+    },
+    {
+      "id": "raide",
+      "fr": "raide",
+      "en": "straight (hair)"
+    },
+    {
+      "id": "yeux",
+      "fr": "les yeux",
+      "en": "eyes",
+      "gender": "m",
+      "note": "One eye = un œil (irregular!)."
+    },
+    {
+      "id": "barbe",
+      "fr": "la barbe",
+      "en": "beard",
+      "gender": "f"
+    },
+    {
+      "id": "lunettes",
+      "fr": "les lunettes",
+      "en": "glasses",
+      "gender": "f"
+    },
+    {
+      "id": "mince",
+      "fr": "mince",
+      "en": "slim"
+    },
+    {
+      "id": "sympa",
+      "fr": "sympa",
+      "en": "nice, friendly",
+      "note": "Short for sympathique. Same for masculine and feminine."
+    },
+    {
+      "id": "serieux",
+      "fr": "sérieux / sérieuse",
+      "en": "serious, reliable"
+    },
+    {
+      "id": "genereux",
+      "fr": "généreux / généreuse",
+      "en": "generous"
+    },
+    {
+      "id": "patient",
+      "fr": "patient / patiente",
+      "en": "patient"
+    },
+    {
+      "id": "tetu",
+      "fr": "têtu / têtue",
+      "en": "stubborn"
+    },
+    {
+      "id": "curieux",
+      "fr": "curieux / curieuse",
+      "en": "curious"
+    },
+    {
+      "id": "ressembler-a",
+      "fr": "ressembler à",
+      "en": "to look like (someone)",
+      "note": "« Elle ressemble à sa mère. »"
+    }
+  ],
+  "grammar": {
+    "title": "qui, que, où: linking sentences",
+    "intro": "Relative pronouns join two sentences about the same thing, like « yang » in Indonesian. qui is the subject of the next verb, que is the object, où is a place or a time.",
+    "table": [
+      [
+        "Pronoun",
+        "Use",
+        "Example"
+      ],
+      [
+        "qui",
+        "subject (followed by a verb)",
+        "La fille qui parle est Inès."
+      ],
+      [
+        "que",
+        "object (followed by a subject + verb)",
+        "L'amie que j'ai rencontrée."
+      ],
+      [
+        "où",
+        "place or time",
+        "Le café où on s'est vues."
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "C'est quelqu'un qui aide tout le monde.",
+        "en": "She's someone who helps everyone."
+      },
+      {
+        "fr": "Le livre que je lis est génial.",
+        "en": "The book I'm reading is great."
+      },
+      {
+        "fr": "Je me souviens du jour où je suis arrivée.",
+        "en": "I remember the day I arrived."
+      }
+    ],
+    "trap": "English often drops « that » (the book I read); French never drops que: « le livre que je lis ». que becomes qu' before a vowel: « l'amie qu'il aime ». qui never changes: « la fille qui arrive »."
+  },
+  "sounds": {
+    "title": "qui or que?",
+    "explain": "« qui » has the smiling « i » sound. « que » has the soft « euh » sound. Listen to what comes after: a verb after qui, a subject (je, tu, il…) after que.",
+    "pairs": [
+      [
+        "qui",
+        "que"
+      ],
+      [
+        "ce qui",
+        "ce que"
+      ],
+      [
+        "la fille qui chante",
+        "la fille que je vois"
+      ],
+      [
+        "l'ami qui vient",
+        "l'ami que j'aime"
+      ]
+    ],
+    "tip": "Smile for qui, relax your lips for que."
+  },
+  "practice": [
+    {
+      "type": "fill",
+      "prompt": "Complete with qui, que or où.",
+      "sentence": "La fille ___ parle avec Tom est Inès.",
+      "answers": [
+        "qui"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with qui, que or où.",
+      "sentence": "Le livre ___ je lis est génial.",
+      "answers": [
+        "que"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with qui, que or où.",
+      "sentence": "C'est le café ___ on s'est rencontrées.",
+      "answers": [
+        "où"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Complete: « L'amie ___ il aime. »",
+      "options": [
+        "qui",
+        "qu'",
+        "où"
+      ],
+      "answer": "qu'",
+      "explain": "que + vowel = qu'."
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen and choose what you hear.",
+      "options": [
+        "ce qui",
+        "ce que"
+      ],
+      "answer": "ce que",
+      "listen": "ce que"
+    },
+    {
+      "type": "choice",
+      "prompt": "« Il a l'air timide » means…",
+      "options": [
+        "He is shy.",
+        "He looks shy.",
+        "He was shy."
+      ],
+      "answer": "He looks shy."
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "C'est",
+        "quelqu'un",
+        "qui",
+        "aide",
+        "tout",
+        "le",
+        "monde"
+      ],
+      "answer": "C'est quelqu'un qui aide tout le monde"
+    },
+    {
+      "type": "fill",
+      "prompt": "Make it feminine.",
+      "sentence": "Il est sérieux. Elle est ___.",
+      "answers": [
+        "sérieuse"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "\"Eyes\" in French is…",
+      "options": [
+        "les œils",
+        "les yeux",
+        "les yeuxs"
+      ],
+      "answer": "les yeux"
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence is correct?",
+      "options": [
+        "Le film je regarde.",
+        "Le film que je regarde.",
+        "Le film qui je regarde."
+      ],
+      "answer": "Le film que je regarde."
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Elle",
+        "ressemble",
+        "à",
+        "sa",
+        "mère"
+      ],
+      "answer": "Elle ressemble à sa mère"
+    },
+    {
+      "type": "choice",
+      "prompt": "In the dialogue, where did Sari meet Inès?",
+      "options": [
+        "at work",
+        "in French class",
+        "at the beach"
+      ],
+      "answer": "in French class"
+    }
+  ],
+  "task": {
+    "prompt": "Describe two people you know (5–6 sentences): what they look like, their personality, and use qui, que and où at least once each.",
+    "example": "Ma meilleure amie s'appelle Putri. C'est une fille qui rit tout le temps. Elle a les cheveux longs et raides. C'est quelqu'un que j'admire beaucoup. Mon frère est grand et têtu. Il travaille dans le restaurant où on mangeait souvent.",
+    "checklist": [
+      "I can describe someone's appearance",
+      "I can describe a personality",
+      "I can use qui, que and où",
+      "I can use « avoir l'air »"
+    ]
+  }
+}

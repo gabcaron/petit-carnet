@@ -1,0 +1,351 @@
+{
+  "dialogue": [
+    {
+      "who": "Léa",
+      "fr": "Tu es déjà allée à Marseille ?",
+      "en": "Have you ever been to Marseille?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Oui, j'y suis allée l'été dernier. C'était magnifique !",
+      "en": "Yes, I went there last summer. It was beautiful!"
+    },
+    {
+      "who": "Léa",
+      "fr": "Tu as pris beaucoup de photos ?",
+      "en": "Did you take a lot of photos?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Oh oui, j'en ai pris des centaines ! Et j'ai mangé une bouillabaisse.",
+      "en": "Oh yes, I took hundreds! And I ate a bouillabaisse."
+    },
+    {
+      "who": "Léa",
+      "fr": "J'adore la mer… On y retourne ensemble en mai ?",
+      "en": "I love the sea… Shall we go back there together in May?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Bonne idée ! Il faut réserver l'hôtel, il n'y en a pas beaucoup près du port.",
+      "en": "Good idea! We need to book the hotel, there aren't many near the harbour."
+    }
+  ],
+  "words": [
+    {
+      "id": "deja",
+      "fr": "déjà",
+      "en": "already; ever",
+      "note": "« Tu es déjà allée… ? » = Have you ever been…?"
+    },
+    {
+      "id": "jamais",
+      "fr": "ne… jamais",
+      "en": "never"
+    },
+    {
+      "id": "valise",
+      "fr": "la valise",
+      "en": "suitcase",
+      "gender": "f"
+    },
+    {
+      "id": "billet",
+      "fr": "le billet",
+      "en": "ticket",
+      "gender": "m"
+    },
+    {
+      "id": "passeport",
+      "fr": "le passeport",
+      "en": "passport",
+      "gender": "m"
+    },
+    {
+      "id": "avion",
+      "fr": "l'avion",
+      "en": "plane",
+      "gender": "m"
+    },
+    {
+      "id": "train",
+      "fr": "le train",
+      "en": "train",
+      "gender": "m"
+    },
+    {
+      "id": "aeroport",
+      "fr": "l'aéroport",
+      "en": "airport",
+      "gender": "m"
+    },
+    {
+      "id": "hotel",
+      "fr": "l'hôtel",
+      "en": "hotel",
+      "gender": "m"
+    },
+    {
+      "id": "reserver",
+      "fr": "réserver",
+      "en": "to book, to reserve"
+    },
+    {
+      "id": "visiter",
+      "fr": "visiter",
+      "en": "to visit (a place)",
+      "note": "For a person, say « rendre visite à »."
+    },
+    {
+      "id": "plage",
+      "fr": "la plage",
+      "en": "beach",
+      "gender": "f"
+    },
+    {
+      "id": "port",
+      "fr": "le port",
+      "en": "harbour, port",
+      "gender": "m"
+    },
+    {
+      "id": "photo",
+      "fr": "la photo",
+      "en": "photo",
+      "gender": "f"
+    },
+    {
+      "id": "etranger",
+      "fr": "l'étranger",
+      "en": "abroad (the foreign countries)",
+      "gender": "m",
+      "note": "« partir à l'étranger » = to go abroad."
+    },
+    {
+      "id": "combien-de",
+      "fr": "combien de…",
+      "en": "how much / how many…"
+    },
+    {
+      "id": "beaucoup-de",
+      "fr": "beaucoup de…",
+      "en": "a lot of…"
+    },
+    {
+      "id": "quelques",
+      "fr": "quelques",
+      "en": "a few"
+    },
+    {
+      "id": "plusieurs",
+      "fr": "plusieurs",
+      "en": "several"
+    },
+    {
+      "id": "trop-de",
+      "fr": "trop de…",
+      "en": "too much / too many…"
+    }
+  ],
+  "grammar": {
+    "title": "en and y",
+    "intro": "These two tiny pronouns are everywhere in spoken French. y replaces a place (à Paris, en France, chez moi…). en replaces a quantity or something introduced by de (du pain, des photos, beaucoup de…). Like le / la / les, they go before the verb.",
+    "table": [
+      [
+        "Pronoun",
+        "Replaces",
+        "Example"
+      ],
+      [
+        "y",
+        "a place: à, en, dans, chez…",
+        "Je vais à Marseille. → J'y vais."
+      ],
+      [
+        "y",
+        "à + thing",
+        "Je pense à mon voyage. → J'y pense."
+      ],
+      [
+        "en",
+        "du, de la, des + noun",
+        "Tu veux du café ? → Oui, j'en veux."
+      ],
+      [
+        "en",
+        "a quantity (keep the number)",
+        "J'ai trois valises. → J'en ai trois."
+      ],
+      [
+        "en",
+        "de + place (from)",
+        "Je viens de Bali. → J'en viens."
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "On y va ?",
+        "en": "Shall we go? (Shall we go there?)"
+      },
+      {
+        "fr": "Il y en a beaucoup.",
+        "en": "There are a lot (of them)."
+      },
+      {
+        "fr": "Je n'en ai pas.",
+        "en": "I don't have any."
+      }
+    ],
+    "trap": "Keep the number or quantity with en: « j'en ai deux », « j'en ai beaucoup ». In the past, y and en go before avoir / être: « j'y suis allée », « j'en ai pris ». « On y va ! » (let's go!) and « il y en a » (there is some) are fixed expressions — learn them as blocks."
+  },
+  "sounds": {
+    "title": "Hearing y and en",
+    "explain": "y and en are tiny but they change the sentence. Listen for the extra « ee » or nasal « an » sound, often linked to the next word with a z: « vous_y_allez », « nous_en_avons ».",
+    "pairs": [
+      [
+        "vous allez",
+        "vous y allez"
+      ],
+      [
+        "nous avons",
+        "nous en avons"
+      ],
+      [
+        "on va",
+        "on y va"
+      ],
+      [
+        "il a",
+        "il en a"
+      ]
+    ],
+    "tip": "Say « on y va » as one word: « o-ni-va »."
+  },
+  "practice": [
+    {
+      "type": "fill",
+      "prompt": "Replace with y.",
+      "sentence": "Je vais à Lyon. → J'___ vais.",
+      "answers": [
+        "y"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Replace with en.",
+      "sentence": "Tu veux du pain ? → Oui, j'___ veux.",
+      "answers": [
+        "en"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "« J'ai trois valises » becomes…",
+      "options": [
+        "J'en ai.",
+        "J'en ai trois.",
+        "J'y ai trois."
+      ],
+      "answer": "J'en ai trois.",
+      "explain": "Keep the number with en."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which one replaces a place?",
+      "options": [
+        "en",
+        "y",
+        "le"
+      ],
+      "answer": "y"
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen and choose what you hear.",
+      "options": [
+        "on va",
+        "on y va"
+      ],
+      "answer": "on y va",
+      "listen": "on y va"
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete in the past.",
+      "sentence": "Marseille ? J'___ suis allée l'été dernier.",
+      "answers": [
+        "y"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Je",
+        "n'en",
+        "ai",
+        "pas"
+      ],
+      "answer": "Je n'en ai pas"
+    },
+    {
+      "type": "choice",
+      "prompt": "« Tu es déjà allée en France ? » means…",
+      "options": [
+        "Are you going to France?",
+        "Have you ever been to France?",
+        "Did you leave France?"
+      ],
+      "answer": "Have you ever been to France?"
+    },
+    {
+      "type": "fill",
+      "prompt": "Translate: \"too many photos\".",
+      "sentence": "___ de photos",
+      "answers": [
+        "trop"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "To visit a person, you say…",
+      "options": [
+        "visiter Léa",
+        "rendre visite à Léa"
+      ],
+      "answer": "rendre visite à Léa"
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Il",
+        "y",
+        "en",
+        "a",
+        "beaucoup"
+      ],
+      "answer": "Il y en a beaucoup"
+    },
+    {
+      "type": "choice",
+      "prompt": "In the dialogue, when did Sari go to Marseille?",
+      "options": [
+        "last summer",
+        "in May",
+        "last week"
+      ],
+      "answer": "last summer"
+    }
+  ],
+  "task": {
+    "prompt": "Write about a place you love (5–6 sentences): when you went there, how, what you did, and if you want to go back. Use y and en at least once each.",
+    "example": "J'adore Lombok. J'y suis allée il y a deux ans avec mes amis. On y est allés en bateau. Il y a beaucoup de plages, j'en ai visité cinq ! Je veux y retourner l'année prochaine.",
+    "checklist": [
+      "I can use y for a place",
+      "I can use en for a quantity",
+      "I can say « Tu es déjà allé(e)… ? »",
+      "I know travel vocabulary"
+    ]
+  }
+}

@@ -30,20 +30,28 @@ export const LEVELS: Record<Level, string> = {
   B1: 'Independent — give your opinion, imagine, argue'
 }
 
-// One JSON file per unit in ./units. To add one: import it here and add it to `contents`.
-import a1_0 from './units/a1-0.json'
-import a1_1 from './units/a1-1.json'
-import a1_2 from './units/a1-2.json'
-import a1_3 from './units/a1-3.json'
-import a1_4 from './units/a1-4.json'
-import a1_5 from './units/a1-5.json'
-import a1_6 from './units/a1-6.json'
-import a1_7 from './units/a1-7.json'
-import a1_8 from './units/a1-8.json'
-import a1_9 from './units/a1-9.json'
-import a1_10 from './units/a1-10.json'
+// One JSON file per unit in ./units/{folder}/. To add one: import it here and add it to `contents`.
+import a1_0 from './units/a1/a1-0.json'
+import a1_1 from './units/a1/a1-1.json'
+import a1_2 from './units/a1/a1-2.json'
+import a1_3 from './units/a1/a1-3.json'
+import a1_4 from './units/a1/a1-4.json'
+import a1_5 from './units/a1/a1-5.json'
+import a1_6 from './units/a1/a1-6.json'
+import a1_7 from './units/a1/a1-7.json'
+import a1_8 from './units/a1/a1-8.json'
+import a1_9 from './units/a1/a1-9.json'
+import a1_10 from './units/a1/a1-10.json'
+import a2_1 from './units/a2/a2-1.json'
+import a2_2 from './units/a2/a2-2.json'
+import a2_3 from './units/a2/a2-3.json'
+import a2_4 from './units/a2/a2-4.json'
+import a2_5 from './units/a2/a2-5.json'
+import a2_6 from './units/a2/a2-6.json'
+import a2_7 from './units/a2/a2-7.json'
+import a2_8 from './units/a2/a2-8.json'
 
-const contents: Record<string, UnitContent> = { 'a1-0': a1_0 as UnitContent, 'a1-1': a1_1 as UnitContent, 'a1-2': a1_2 as UnitContent, 'a1-3': a1_3 as UnitContent, 'a1-4': a1_4 as UnitContent, 'a1-5': a1_5 as UnitContent, 'a1-6': a1_6 as UnitContent, 'a1-7': a1_7 as UnitContent, 'a1-8': a1_8 as UnitContent, 'a1-9': a1_9 as UnitContent, 'a1-10': a1_10 as UnitContent }
+const contents: Record<string, UnitContent> = { 'a1-0': a1_0 as UnitContent, 'a1-1': a1_1 as UnitContent, 'a1-2': a1_2 as UnitContent, 'a1-3': a1_3 as UnitContent, 'a1-4': a1_4 as UnitContent, 'a1-5': a1_5 as UnitContent, 'a1-6': a1_6 as UnitContent, 'a1-7': a1_7 as UnitContent, 'a1-8': a1_8 as UnitContent, 'a1-9': a1_9 as UnitContent, 'a1-10': a1_10 as UnitContent, 'a2-1': a2_1 as UnitContent, 'a2-2': a2_2 as UnitContent, 'a2-3': a2_3 as UnitContent, 'a2-4': a2_4 as UnitContent, 'a2-5': a2_5 as UnitContent, 'a2-6': a2_6 as UnitContent, 'a2-7': a2_7 as UnitContent, 'a2-8': a2_8 as UnitContent }
 const content = (id: string) => contents[id]
 
 export const units: Unit[] = [
@@ -58,14 +66,14 @@ export const units: Unit[] = [
   { id: 'a1-8', level: 'A1', number: 8, title: 'Des questions ?', canDo: 'Ask all the basic questions', content: content('a1-8') },
   { id: 'a1-9', level: 'A1', number: 9, title: 'Mes projets', canDo: 'Talk about next weekend and your plans', content: content('a1-9') },
   { id: 'a1-10', level: 'A1', number: 10, title: 'Hier', canDo: 'Say in a few sentences what you did', content: content('a1-10') },
-  { id: 'a2-1', level: 'A2', number: 1, title: 'Souvenirs', canDo: 'Tell a story in the past' },
-  { id: 'a2-2', level: 'A2', number: 2, title: "Quand j'étais petite", canDo: 'Describe how things used to be' },
-  { id: 'a2-3', level: 'A2', number: 3, title: 'Le logement', canDo: 'Describe and compare places' },
-  { id: 'a2-4', level: 'A2', number: 4, title: 'Au quotidien', canDo: 'Avoid repeating words with pronouns' },
-  { id: 'a2-5', level: 'A2', number: 5, title: 'Voyages', canDo: 'Talk about places and quantities' },
-  { id: 'a2-6', level: 'A2', number: 6, title: 'Demain', canDo: 'Make predictions and promises' },
-  { id: 'a2-7', level: 'A2', number: 7, title: 'Les gens', canDo: 'Define and describe people and things' },
-  { id: 'a2-8', level: 'A2', number: 8, title: 'Mon avis', canDo: 'Explain why and link your ideas' },
+  { id: 'a2-1', level: 'A2', number: 1, title: 'Souvenirs', canDo: 'Tell a story in the past', content: content('a2-1') },
+  { id: 'a2-2', level: 'A2', number: 2, title: "Quand j'étais petite", canDo: 'Describe how things used to be', content: content('a2-2') },
+  { id: 'a2-3', level: 'A2', number: 3, title: 'Le logement', canDo: 'Describe and compare places', content: content('a2-3') },
+  { id: 'a2-4', level: 'A2', number: 4, title: 'Au quotidien', canDo: 'Avoid repeating words with pronouns', content: content('a2-4') },
+  { id: 'a2-5', level: 'A2', number: 5, title: 'Voyages', canDo: 'Talk about places and quantities', content: content('a2-5') },
+  { id: 'a2-6', level: 'A2', number: 6, title: 'Demain', canDo: 'Make predictions and promises', content: content('a2-6') },
+  { id: 'a2-7', level: 'A2', number: 7, title: 'Les gens', canDo: 'Define and describe people and things', content: content('a2-7') },
+  { id: 'a2-8', level: 'A2', number: 8, title: 'Mon avis', canDo: 'Explain why and link your ideas', content: content('a2-8') },
   { id: 'b1-1', level: 'B1', number: 1, title: "Si j'étais…", canDo: 'Imagine and make hypotheses' },
   { id: 'b1-2', level: 'B1', number: 2, title: 'Il faut que…', canDo: 'Express obligation and feelings' },
   { id: 'b1-3', level: 'B1', number: 3, title: "Il m'a dit que…", canDo: 'Report what someone said' },
@@ -93,5 +101,13 @@ export const challenges = [
   { unit: 'a1-7', title: 'Guide me', hint: 'Explain how to go from your home to the nearest shop: Allez tout droit…' },
   { unit: 'a1-8', title: 'Interview', hint: 'Ask 6 questions to someone, then answer them yourself.' },
   { unit: 'a1-9', title: 'Next weekend', hint: "What are you going to do? What's the weather going to be like?" },
-  { unit: 'a1-10', title: 'Yesterday', hint: "Tell what you did yesterday, from morning to evening: Hier, j'ai…" }
+  { unit: 'a1-10', title: 'Yesterday', hint: "Tell what you did yesterday, from morning to evening: Hier, j'ai…" },
+  { unit: 'a2-1', title: 'A great trip', hint: 'Tell a trip: when you left, how, what you did, when you came back. Je suis partie…' },
+  { unit: 'a2-2', title: 'When I was little', hint: "Describe your childhood: where you lived, what you did every day. Quand j'étais petite…" },
+  { unit: 'a2-3', title: 'Dream home', hint: 'Describe your dream home and compare it with your home now: plus grand, moins cher…' },
+  { unit: 'a2-4', title: 'Who does what?', hint: 'Talk about chores at home without repeating the nouns: le ménage ? Je le fais…' },
+  { unit: 'a2-5', title: 'Best trip ever', hint: "A place you love: when you went, what there is. J'y suis allée… Il y en a beaucoup…" },
+  { unit: 'a2-6', title: 'In 10 years', hint: 'Where will you live? What will you do? Dans dix ans, je serai…' },
+  { unit: 'a2-7', title: 'Guess who', hint: "Describe someone you both know without saying the name: C'est quelqu'un qui…" },
+  { unit: 'a2-8', title: 'For or against', hint: "Paris or Jakarta? Give 2 advantages, 2 disadvantages and your conclusion: À mon avis… mais… donc…" }
 ]

@@ -1,0 +1,350 @@
+{
+  "dialogue": [
+    {
+      "who": "Léa",
+      "fr": "Tu habitais où quand tu étais petite ?",
+      "en": "Where did you live when you were little?"
+    },
+    {
+      "who": "Sari",
+      "fr": "J'habitais à Yogyakarta, dans une grande maison avec mes grands-parents.",
+      "en": "I lived in Yogyakarta, in a big house with my grandparents."
+    },
+    {
+      "who": "Léa",
+      "fr": "Et tu faisais quoi après l'école ?",
+      "en": "And what did you do after school?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Je jouais dans la rue avec mes cousins. Ma grand-mère préparait toujours le goûter.",
+      "en": "I played in the street with my cousins. My grandmother always made the afternoon snack."
+    },
+    {
+      "who": "Léa",
+      "fr": "C'est mignon ! Et tu étais sage ?",
+      "en": "That's cute! And were you well-behaved?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Pas toujours ! Un jour, je suis tombée d'un arbre pendant que ma mère dormait.",
+      "en": "Not always! One day I fell out of a tree while my mother was sleeping."
+    }
+  ],
+  "words": [
+    {
+      "id": "enfance",
+      "fr": "l'enfance",
+      "en": "childhood",
+      "gender": "f"
+    },
+    {
+      "id": "quand-j-etais",
+      "fr": "quand j'étais petit / petite",
+      "en": "when I was little"
+    },
+    {
+      "id": "autrefois",
+      "fr": "autrefois",
+      "en": "in the past, in the old days"
+    },
+    {
+      "id": "avant",
+      "fr": "avant",
+      "en": "before; in the past",
+      "note": "« Avant, j'habitais à Bali. »"
+    },
+    {
+      "id": "toujours",
+      "fr": "toujours",
+      "en": "always; still"
+    },
+    {
+      "id": "souvent",
+      "fr": "souvent",
+      "en": "often"
+    },
+    {
+      "id": "parfois",
+      "fr": "parfois",
+      "en": "sometimes"
+    },
+    {
+      "id": "d-habitude",
+      "fr": "d'habitude",
+      "en": "usually"
+    },
+    {
+      "id": "tous-les-ans",
+      "fr": "tous les ans",
+      "en": "every year"
+    },
+    {
+      "id": "un-jour",
+      "fr": "un jour",
+      "en": "one day",
+      "note": "Often starts the event in a story: passé composé."
+    },
+    {
+      "id": "soudain",
+      "fr": "soudain",
+      "en": "suddenly",
+      "note": "Also: tout à coup."
+    },
+    {
+      "id": "pendant-que",
+      "fr": "pendant que",
+      "en": "while"
+    },
+    {
+      "id": "ecole",
+      "fr": "l'école",
+      "en": "school",
+      "gender": "f"
+    },
+    {
+      "id": "maitre",
+      "fr": "le maître / la maîtresse",
+      "en": "primary school teacher"
+    },
+    {
+      "id": "gouter",
+      "fr": "le goûter",
+      "en": "afternoon snack",
+      "gender": "m",
+      "note": "A French institution at 4 pm!"
+    },
+    {
+      "id": "jouer-dehors",
+      "fr": "jouer dehors",
+      "en": "to play outside"
+    },
+    {
+      "id": "arbre",
+      "fr": "l'arbre",
+      "en": "tree",
+      "gender": "m"
+    },
+    {
+      "id": "sage",
+      "fr": "sage",
+      "en": "well-behaved (child); wise"
+    },
+    {
+      "id": "timide",
+      "fr": "timide",
+      "en": "shy"
+    },
+    {
+      "id": "bavard",
+      "fr": "bavard / bavarde",
+      "en": "talkative"
+    }
+  ],
+  "grammar": {
+    "title": "Imparfait: describing the past",
+    "intro": "French has two main past tenses. The imparfait describes how things were, habits and background: « j'habitais », « il faisait beau ». The passé composé tells what happened: « je suis tombée ». To form the imparfait: take the nous form of the present, remove -ons, add the ending.",
+    "table": [
+      [
+        "",
+        "habiter (nous habit-ons)",
+        "English"
+      ],
+      [
+        "je",
+        "habitais",
+        "I lived / used to live"
+      ],
+      [
+        "tu",
+        "habitais",
+        "you lived"
+      ],
+      [
+        "il / elle",
+        "habitait",
+        "he / she lived"
+      ],
+      [
+        "nous",
+        "habitions",
+        "we lived"
+      ],
+      [
+        "vous",
+        "habitiez",
+        "you lived"
+      ],
+      [
+        "ils / elles",
+        "habitaient",
+        "they lived"
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "Quand j'étais petite, j'habitais à Yogyakarta.",
+        "en": "When I was little, I lived in Yogyakarta."
+      },
+      {
+        "fr": "Le dimanche, nous allions chez mes grands-parents.",
+        "en": "On Sundays, we used to go to my grandparents'."
+      },
+      {
+        "fr": "Il pleuvait quand je suis sortie.",
+        "en": "It was raining when I went out."
+      }
+    ],
+    "trap": "Only one irregular stem: être → j'étais. Imparfait = the scene (it was raining, I was walking); passé composé = the action that happens in it (I fell, the phone rang). habitais, habitait and habitaient all sound the same."
+  },
+  "sounds": {
+    "title": "é or è? Passé composé or imparfait",
+    "explain": "The two past tenses can sound very close. Passé composé ends in a short, smiling « é » (and has ai / as / a before it). Imparfait ends in an open « è », like in « mère ».",
+    "pairs": [
+      [
+        "j'ai parlé",
+        "je parlais"
+      ],
+      [
+        "j'ai mangé",
+        "je mangeais"
+      ],
+      [
+        "il a joué",
+        "il jouait"
+      ],
+      [
+        "elle a dansé",
+        "elle dansait"
+      ]
+    ],
+    "tip": "For « é », smile. For « è », drop your jaw a little."
+  },
+  "practice": [
+    {
+      "type": "fill",
+      "prompt": "Imparfait of « habiter ».",
+      "sentence": "Quand j'étais petite, j'___ à Bali.",
+      "answers": [
+        "habitais"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Imparfait of « être ».",
+      "sentence": "Il ___ très timide.",
+      "answers": [
+        "était"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Imparfait of « jouer ».",
+      "sentence": "Nous ___ dehors tous les jours.",
+      "answers": [
+        "jouions"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Which tense for a habit in the past?",
+      "options": [
+        "passé composé",
+        "imparfait"
+      ],
+      "answer": "imparfait"
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen and choose what you hear.",
+      "options": [
+        "j'ai mangé",
+        "je mangeais"
+      ],
+      "answer": "je mangeais",
+      "listen": "je mangeais"
+    },
+    {
+      "type": "choice",
+      "prompt": "Complete: « Il ___ quand je suis sortie. »",
+      "options": [
+        "a plu",
+        "pleuvait"
+      ],
+      "answer": "pleuvait",
+      "explain": "The background (the weather) = imparfait."
+    },
+    {
+      "type": "choice",
+      "prompt": "Complete: « Je lisais quand le téléphone ___. »",
+      "options": [
+        "sonnait",
+        "a sonné"
+      ],
+      "answer": "a sonné",
+      "explain": "The event that interrupts = passé composé."
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Avant,",
+        "j'habitais",
+        "à",
+        "Jakarta"
+      ],
+      "answer": "Avant, j'habitais à Jakarta"
+    },
+    {
+      "type": "fill",
+      "prompt": "Imparfait of « faire ».",
+      "sentence": "Tu ___ du sport ?",
+      "answers": [
+        "faisais"
+      ],
+      "explain": "nous faisons → je faisais, tu faisais."
+    },
+    {
+      "type": "choice",
+      "prompt": "« d'habitude » means…",
+      "options": [
+        "usually",
+        "suddenly",
+        "one day"
+      ],
+      "answer": "usually"
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Un",
+        "jour,",
+        "je",
+        "suis",
+        "tombée"
+      ],
+      "answer": "Un jour, je suis tombée"
+    },
+    {
+      "type": "choice",
+      "prompt": "In the dialogue, who lived with Sari?",
+      "options": [
+        "her cousins",
+        "her grandparents",
+        "her teacher"
+      ],
+      "answer": "her grandparents"
+    }
+  ],
+  "task": {
+    "prompt": "Describe your childhood in 6 sentences: where you lived, what you did after school, what kind of child you were, and one thing that happened one day.",
+    "example": "Quand j'étais petite, j'habitais à Yogyakarta. J'allais à l'école à pied. Après l'école, je jouais avec mes cousins. J'étais bavarde et un peu têtue. Un jour, je suis tombée d'un arbre. Ma grand-mère a beaucoup crié !",
+    "checklist": [
+      "I can form the imparfait",
+      "I can describe habits in the past",
+      "I can choose between imparfait and passé composé",
+      "I can say « quand j'étais petite »"
+    ]
+  }
+}

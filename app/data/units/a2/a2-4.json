@@ -1,0 +1,350 @@
+{
+  "dialogue": [
+    {
+      "who": "Léa",
+      "fr": "Tu as vu Tom aujourd'hui ?",
+      "en": "Did you see Tom today?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Oui, je l'ai vu ce matin. Je lui ai donné ton livre.",
+      "en": "Yes, I saw him this morning. I gave him your book."
+    },
+    {
+      "who": "Léa",
+      "fr": "Merci ! Et les clés de l'appartement, tu les as ?",
+      "en": "Thanks! And the keys to the flat, do you have them?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Non, je les ai oubliées chez moi… Je vais appeler ma voisine.",
+      "en": "No, I forgot them at home… I'm going to call my neighbour."
+    },
+    {
+      "who": "Léa",
+      "fr": "Tu lui téléphones souvent ?",
+      "en": "Do you phone her often?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Oui, je l'adore ! Elle garde mon chat quand je pars.",
+      "en": "Yes, I love her! She looks after my cat when I go away."
+    }
+  ],
+  "words": [
+    {
+      "id": "cle",
+      "fr": "la clé",
+      "en": "key",
+      "gender": "f"
+    },
+    {
+      "id": "telephone",
+      "fr": "le téléphone",
+      "en": "phone",
+      "gender": "m"
+    },
+    {
+      "id": "telephoner-a",
+      "fr": "téléphoner à",
+      "en": "to phone (someone)",
+      "note": "Takes à: je téléphone à Léa → je lui téléphone."
+    },
+    {
+      "id": "parler-a",
+      "fr": "parler à",
+      "en": "to talk to",
+      "note": "je parle à mes parents → je leur parle."
+    },
+    {
+      "id": "donner-a",
+      "fr": "donner quelque chose à",
+      "en": "to give something to"
+    },
+    {
+      "id": "envoyer",
+      "fr": "envoyer",
+      "en": "to send",
+      "note": "j'envoie un message à Tom."
+    },
+    {
+      "id": "demander-a",
+      "fr": "demander à",
+      "en": "to ask (someone)"
+    },
+    {
+      "id": "repondre-a",
+      "fr": "répondre à",
+      "en": "to answer, to reply to"
+    },
+    {
+      "id": "aider",
+      "fr": "aider",
+      "en": "to help",
+      "note": "No à: j'aide Sari → je l'aide."
+    },
+    {
+      "id": "appeler",
+      "fr": "appeler",
+      "en": "to call",
+      "note": "No à: j'appelle Léa → je l'appelle. (Double l: j'appelle.)"
+    },
+    {
+      "id": "oublier",
+      "fr": "oublier",
+      "en": "to forget"
+    },
+    {
+      "id": "chercher",
+      "fr": "chercher",
+      "en": "to look for",
+      "note": "No « for » in French: je cherche mes clés."
+    },
+    {
+      "id": "trouver",
+      "fr": "trouver",
+      "en": "to find"
+    },
+    {
+      "id": "garder",
+      "fr": "garder",
+      "en": "to keep; to look after"
+    },
+    {
+      "id": "faire-courses",
+      "fr": "faire les courses",
+      "en": "to do the shopping"
+    },
+    {
+      "id": "faire-menage",
+      "fr": "faire le ménage",
+      "en": "to do the cleaning"
+    },
+    {
+      "id": "faire-vaisselle",
+      "fr": "faire la vaisselle",
+      "en": "to do the dishes"
+    },
+    {
+      "id": "ranger",
+      "fr": "ranger",
+      "en": "to tidy up, to put away"
+    },
+    {
+      "id": "message",
+      "fr": "le message",
+      "en": "message, text",
+      "gender": "m"
+    },
+    {
+      "id": "chat",
+      "fr": "le chat",
+      "en": "cat",
+      "gender": "m",
+      "note": "The t is silent."
+    }
+  ],
+  "grammar": {
+    "title": "Object pronouns: le, la, les, lui, leur",
+    "intro": "To avoid repeating a noun, French uses small pronouns placed BEFORE the verb — not after like in English or Indonesian. le / la / les replace a thing or person directly. lui / leur replace « à + person ».",
+    "table": [
+      [
+        "Replaces",
+        "Pronoun",
+        "Example"
+      ],
+      [
+        "masculine (direct)",
+        "le",
+        "Je vois Tom. → Je le vois."
+      ],
+      [
+        "feminine (direct)",
+        "la",
+        "Je cherche la clé. → Je la cherche."
+      ],
+      [
+        "plural (direct)",
+        "les",
+        "J'aide mes amis. → Je les aide."
+      ],
+      [
+        "à + one person",
+        "lui",
+        "Je parle à Léa. → Je lui parle."
+      ],
+      [
+        "à + several people",
+        "leur",
+        "Je téléphone à mes parents. → Je leur téléphone."
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "Tu as les clés ? — Oui, je les ai.",
+        "en": "Do you have the keys? — Yes, I have them."
+      },
+      {
+        "fr": "Je lui envoie un message.",
+        "en": "I'm sending him (or her) a message."
+      },
+      {
+        "fr": "Je l'ai vu ce matin.",
+        "en": "I saw him this morning."
+      }
+    ],
+    "trap": "le / la become l' before a vowel: « je l'aime ». lui is for a man OR a woman. In the passé composé, the pronoun goes before avoir: « je l'ai vu », « je ne l'ai pas vu ». With aller + verb, before the second verb: « je vais l'appeler »."
+  },
+  "sounds": {
+    "title": "le, les, lui or leur?",
+    "explain": "These little pronouns are short and fast. Train your ear to catch them: « le » (luh), « les » (lay), « lui » (lwee), « leur » (lœr, with rounded lips).",
+    "pairs": [
+      [
+        "je le prends",
+        "je les prends"
+      ],
+      [
+        "tu le vois",
+        "tu les vois"
+      ],
+      [
+        "il lui parle",
+        "il leur parle"
+      ],
+      [
+        "je lui écris",
+        "je leur écris"
+      ]
+    ],
+    "tip": "Say « lui » quickly, like one syllable: « lwee »."
+  },
+  "practice": [
+    {
+      "type": "fill",
+      "prompt": "Replace with a pronoun.",
+      "sentence": "Je cherche mes clés. → Je ___ cherche.",
+      "answers": [
+        "les"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Replace with a pronoun.",
+      "sentence": "Je parle à ma mère. → Je ___ parle.",
+      "answers": [
+        "lui"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Replace with a pronoun.",
+      "sentence": "Je téléphone à mes parents. → Je ___ téléphone.",
+      "answers": [
+        "leur"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Where does the pronoun go?",
+      "options": [
+        "Je vois le.",
+        "Je le vois.",
+        "Le je vois."
+      ],
+      "answer": "Je le vois.",
+      "explain": "Before the verb."
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen and choose what you hear.",
+      "options": [
+        "il lui parle",
+        "il leur parle"
+      ],
+      "answer": "il leur parle",
+      "listen": "il leur parle"
+    },
+    {
+      "type": "choice",
+      "prompt": "« J'aide Sari » becomes…",
+      "options": [
+        "Je lui aide.",
+        "Je l'aide."
+      ],
+      "answer": "Je l'aide.",
+      "explain": "aider has no à: direct pronoun."
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Je",
+        "ne",
+        "l'ai",
+        "pas",
+        "vu"
+      ],
+      "answer": "Je ne l'ai pas vu"
+    },
+    {
+      "type": "fill",
+      "prompt": "Replace with a pronoun.",
+      "sentence": "Tu regardes la télé ? → Oui, je ___ regarde.",
+      "answers": [
+        "la"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "« Je vais appeler Tom » becomes…",
+      "options": [
+        "Je l'vais appeler.",
+        "Je vais l'appeler.",
+        "Je vais appeler le."
+      ],
+      "answer": "Je vais l'appeler."
+    },
+    {
+      "type": "choice",
+      "prompt": "« faire la vaisselle » means…",
+      "options": [
+        "to do the dishes",
+        "to do the shopping",
+        "to tidy up"
+      ],
+      "answer": "to do the dishes"
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Je",
+        "lui",
+        "envoie",
+        "un",
+        "message"
+      ],
+      "answer": "Je lui envoie un message"
+    },
+    {
+      "type": "choice",
+      "prompt": "In the dialogue, where are the keys?",
+      "options": [
+        "with Tom",
+        "at home",
+        "with the neighbour"
+      ],
+      "answer": "at home"
+    }
+  ],
+  "task": {
+    "prompt": "Answer these questions with a pronoun, in full sentences: Tu fais le ménage ? Tu appelles tes parents ? Tu parles à tes voisins ? Tu aimes ton quartier ? Tu as vu tes amis ce week-end ?",
+    "example": "Oui, je le fais le samedi. Je les appelle tous les dimanches. Je leur parle un peu. Oui, je l'adore ! Non, je ne les ai pas vus.",
+    "checklist": [
+      "I can use le, la, les",
+      "I can use lui and leur",
+      "I put the pronoun before the verb",
+      "I can use a pronoun in the past: « je l'ai vu »"
+    ]
+  }
+}

@@ -1,0 +1,363 @@
+{
+  "dialogue": [
+    {
+      "who": "Sari",
+      "fr": "On cherche un nouvel appartement. Le nôtre est trop petit.",
+      "en": "We're looking for a new flat. Ours is too small."
+    },
+    {
+      "who": "Léa",
+      "fr": "Vous voulez quoi ? Un appartement en ville ou une maison à la campagne ?",
+      "en": "What do you want? A flat in town or a house in the country?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Une maison, c'est plus grand et moins cher… mais c'est plus loin du travail.",
+      "en": "A house is bigger and cheaper… but it's further from work."
+    },
+    {
+      "who": "Léa",
+      "fr": "Et vous avez visité quoi ?",
+      "en": "And what have you visited?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Un trois-pièces avec un balcon. C'est le plus lumineux de tous, mais la cuisine est minuscule.",
+      "en": "A three-room flat with a balcony. It's the brightest of all, but the kitchen is tiny."
+    },
+    {
+      "who": "Léa",
+      "fr": "Prenez-le ! Une petite cuisine, c'est mieux qu'un petit salon.",
+      "en": "Take it! A small kitchen is better than a small living room."
+    }
+  ],
+  "words": [
+    {
+      "id": "logement",
+      "fr": "le logement",
+      "en": "housing, accommodation",
+      "gender": "m"
+    },
+    {
+      "id": "appartement",
+      "fr": "l'appartement",
+      "en": "flat, apartment",
+      "gender": "m"
+    },
+    {
+      "id": "maison",
+      "fr": "la maison",
+      "en": "house",
+      "gender": "f"
+    },
+    {
+      "id": "piece",
+      "fr": "la pièce",
+      "en": "room",
+      "gender": "f",
+      "note": "Any room. « un trois-pièces » = a flat with 3 rooms (not counting kitchen and bathroom)."
+    },
+    {
+      "id": "chambre",
+      "fr": "la chambre",
+      "en": "bedroom",
+      "gender": "f"
+    },
+    {
+      "id": "salon",
+      "fr": "le salon",
+      "en": "living room",
+      "gender": "m"
+    },
+    {
+      "id": "cuisine",
+      "fr": "la cuisine",
+      "en": "kitchen; cooking",
+      "gender": "f"
+    },
+    {
+      "id": "salle-de-bains",
+      "fr": "la salle de bains",
+      "en": "bathroom",
+      "gender": "f"
+    },
+    {
+      "id": "toilettes",
+      "fr": "les toilettes",
+      "en": "toilet",
+      "gender": "f",
+      "note": "Always plural."
+    },
+    {
+      "id": "balcon",
+      "fr": "le balcon",
+      "en": "balcony",
+      "gender": "m"
+    },
+    {
+      "id": "etage",
+      "fr": "l'étage",
+      "en": "floor, storey",
+      "gender": "m",
+      "note": "« au troisième étage » = on the third floor. The ground floor is « le rez-de-chaussée »."
+    },
+    {
+      "id": "loyer",
+      "fr": "le loyer",
+      "en": "rent",
+      "gender": "m"
+    },
+    {
+      "id": "voisin",
+      "fr": "voisin / voisine",
+      "en": "neighbour"
+    },
+    {
+      "id": "campagne",
+      "fr": "la campagne",
+      "en": "countryside",
+      "gender": "f"
+    },
+    {
+      "id": "quartier",
+      "fr": "le quartier",
+      "en": "neighbourhood",
+      "gender": "m"
+    },
+    {
+      "id": "lumineux",
+      "fr": "lumineux / lumineuse",
+      "en": "bright, full of light"
+    },
+    {
+      "id": "calme",
+      "fr": "calme",
+      "en": "quiet"
+    },
+    {
+      "id": "bruyant",
+      "fr": "bruyant / bruyante",
+      "en": "noisy"
+    },
+    {
+      "id": "cher",
+      "fr": "cher / chère",
+      "en": "expensive"
+    },
+    {
+      "id": "ancien",
+      "fr": "ancien / ancienne",
+      "en": "old; former"
+    }
+  ],
+  "grammar": {
+    "title": "Comparing: plus, moins, aussi… que",
+    "intro": "Indonesian says « lebih besar dari ». French puts plus, moins or aussi before the adjective and que after it. For « the most », add le / la / les.",
+    "table": [
+      [
+        "",
+        "Structure",
+        "Example"
+      ],
+      [
+        "more",
+        "plus + adj. + que",
+        "La maison est plus grande que l'appartement."
+      ],
+      [
+        "less",
+        "moins + adj. + que",
+        "La campagne est moins chère que Paris."
+      ],
+      [
+        "as",
+        "aussi + adj. + que",
+        "Mon quartier est aussi calme que le tien."
+      ],
+      [
+        "the most",
+        "le / la / les plus + adj.",
+        "C'est le plus lumineux."
+      ],
+      [
+        "the least",
+        "le / la / les moins + adj.",
+        "C'est la pièce la moins chère."
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "Paris est plus cher que Lyon.",
+        "en": "Paris is more expensive than Lyon."
+      },
+      {
+        "fr": "Ma chambre est aussi grande que le salon.",
+        "en": "My bedroom is as big as the living room."
+      },
+      {
+        "fr": "C'est le quartier le plus calme de la ville.",
+        "en": "It's the quietest neighbourhood in town."
+      }
+    ],
+    "trap": "bon → meilleur (better), not « plus bon »: « ce café est meilleur ». bien → mieux: « c'est mieux ». The adjective still agrees: « la maison est plus grande »."
+  },
+  "sounds": {
+    "title": "Masculine or feminine? Nasal or not",
+    "explain": "Many adjectives and nouns lose their nasal sound in the feminine: the n is pronounced again. « voisin » ends in a nasal sound, « voisine » ends with a clear n.",
+    "pairs": [
+      [
+        "voisin",
+        "voisine"
+      ],
+      [
+        "bon",
+        "bonne"
+      ],
+      [
+        "ancien",
+        "ancienne"
+      ],
+      [
+        "brun",
+        "brune"
+      ],
+      [
+        "plein",
+        "pleine"
+      ]
+    ],
+    "tip": "Feminine: close your mouth on the n, like in « banane »."
+  },
+  "practice": [
+    {
+      "type": "fill",
+      "prompt": "Complete with plus, moins or aussi.",
+      "sentence": "La campagne est ___ calme que la ville.",
+      "answers": [
+        "plus"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "\"Better\" (adjective) is…",
+      "options": [
+        "plus bon",
+        "meilleur",
+        "mieux"
+      ],
+      "answer": "meilleur",
+      "explain": "bon → meilleur."
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete.",
+      "sentence": "Mon appartement est aussi grand ___ le tien.",
+      "answers": [
+        "que"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "« un trois-pièces » is…",
+      "options": [
+        "a three-room flat",
+        "a three-floor house",
+        "three bedrooms and a kitchen"
+      ],
+      "answer": "a three-room flat"
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen and choose what you hear.",
+      "options": [
+        "voisin",
+        "voisine"
+      ],
+      "answer": "voisine",
+      "listen": "voisine"
+    },
+    {
+      "type": "fill",
+      "prompt": "Make it feminine.",
+      "sentence": "Le salon est lumineux. La cuisine est ___.",
+      "answers": [
+        "lumineuse"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "C'est",
+        "la",
+        "pièce",
+        "la",
+        "plus",
+        "calme"
+      ],
+      "answer": "C'est la pièce la plus calme"
+    },
+    {
+      "type": "choice",
+      "prompt": "« le rez-de-chaussée » is…",
+      "options": [
+        "the roof",
+        "the ground floor",
+        "the basement"
+      ],
+      "answer": "the ground floor"
+    },
+    {
+      "type": "fill",
+      "prompt": "Translate: \"the rent\".",
+      "sentence": "le ___",
+      "answers": [
+        "loyer"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Complete: « Une petite cuisine, c'est ___ qu'un petit salon. »",
+      "options": [
+        "meilleur",
+        "mieux",
+        "plus bien"
+      ],
+      "answer": "mieux",
+      "explain": "After « c'est », use mieux."
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Paris",
+        "est",
+        "plus",
+        "cher",
+        "que",
+        "Lyon"
+      ],
+      "answer": "Paris est plus cher que Lyon"
+    },
+    {
+      "type": "choice",
+      "prompt": "In the dialogue, what is the problem with the three-room flat?",
+      "options": [
+        "no balcony",
+        "a tiny kitchen",
+        "it is too dark"
+      ],
+      "answer": "a tiny kitchen"
+    }
+  ],
+  "task": {
+    "prompt": "Describe your home (rooms, floor, light, neighbourhood) and compare it with a place you lived before. Use plus, moins or aussi at least three times.",
+    "example": "J'habite dans un deux-pièces au deuxième étage. Il y a un petit balcon. Mon appartement est plus lumineux que mon ancien appartement, mais il est aussi plus cher. Le quartier est moins bruyant. C'est mieux !",
+    "checklist": [
+      "I can name the rooms of a home",
+      "I can compare with plus, moins, aussi… que",
+      "I can use the superlative",
+      "I know meilleur and mieux"
+    ]
+  }
+}

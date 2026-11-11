@@ -51,14 +51,17 @@ const { dueIds } = useProgress()
 
 /* Mobile: navigation moves to the bottom, inside the easy thumb zone. */
 @media (max-width: 736px) {
-  .app { padding-bottom: 80px; }
-  .topbar__inner { justify-content: center; min-height: 56px; }
+  .app { padding-bottom: 96px; }
+  /* Menu at the bottom: the header collapses to nothing. backdrop-filter must go, or it pins the fixed nav to the header. */
+  .topbar { position: static; backdrop-filter: none; background: none; border: 0; }
+  .topbar__inner { min-height: 0; }
+  .brand { display: none; }
   .nav {
     position: fixed; left: 0; right: 0; bottom: 0;
-    justify-content: space-around; padding: 6px var(--s1) calc(6px + env(safe-area-inset-bottom));
+    justify-content: space-around; padding: 12px var(--s1) calc(8px + env(safe-area-inset-bottom));
     background: var(--c-surface); border-top: 2px solid var(--c-ink);
   }
-  .nav__link { flex-direction: column; gap: 2px; padding: 6px var(--s2); font-size: 12px; }
+  .nav__link { flex-direction: column; gap: 2px; padding: 10px var(--s2) 4px; font-size: 12px; }
   .nav__link.router-link-exact-active, .nav__link:hover { background: none; }
   .badge { position: absolute; top: 0; right: 8px; }
 }

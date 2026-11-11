@@ -1,0 +1,356 @@
+{
+  "dialogue": [
+    {
+      "who": "Léa",
+      "fr": "Qu'est-ce que tu feras quand tu parleras bien français ?",
+      "en": "What will you do when you speak French well?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Je chercherai un travail dans un hôpital. Ce sera plus facile.",
+      "en": "I'll look for a job in a hospital. It'll be easier."
+    },
+    {
+      "who": "Léa",
+      "fr": "Et dans cinq ans, tu seras où ?",
+      "en": "And in five years, where will you be?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Peut-être à Lyon ! On aura une petite maison et un chien.",
+      "en": "Maybe in Lyon! We'll have a little house and a dog."
+    },
+    {
+      "who": "Léa",
+      "fr": "Promets-moi que tu viendras me voir à Paris !",
+      "en": "Promise me you'll come and see me in Paris!"
+    },
+    {
+      "who": "Sari",
+      "fr": "Promis ! Je t'appellerai tous les week-ends.",
+      "en": "Promise! I'll call you every weekend."
+    }
+  ],
+  "words": [
+    {
+      "id": "avenir",
+      "fr": "l'avenir",
+      "en": "the future",
+      "gender": "m"
+    },
+    {
+      "id": "dans-temps",
+      "fr": "dans (+ time)",
+      "en": "in (+ time)",
+      "note": "« dans cinq ans » = in five years (from now)."
+    },
+    {
+      "id": "un-jour-futur",
+      "fr": "un jour",
+      "en": "one day, someday"
+    },
+    {
+      "id": "bientot",
+      "fr": "bientôt",
+      "en": "soon"
+    },
+    {
+      "id": "plus-tard",
+      "fr": "plus tard",
+      "en": "later"
+    },
+    {
+      "id": "l-annee-prochaine",
+      "fr": "l'année prochaine",
+      "en": "next year"
+    },
+    {
+      "id": "projet",
+      "fr": "le projet",
+      "en": "plan, project",
+      "gender": "m"
+    },
+    {
+      "id": "reve",
+      "fr": "le rêve",
+      "en": "dream",
+      "gender": "m"
+    },
+    {
+      "id": "esperer",
+      "fr": "espérer",
+      "en": "to hope",
+      "note": "j'espère que tu viendras."
+    },
+    {
+      "id": "promettre",
+      "fr": "promettre",
+      "en": "to promise",
+      "note": "Promis ! = Promise!"
+    },
+    {
+      "id": "devenir",
+      "fr": "devenir",
+      "en": "to become",
+      "note": "Future: je deviendrai."
+    },
+    {
+      "id": "changer",
+      "fr": "changer",
+      "en": "to change"
+    },
+    {
+      "id": "demenager",
+      "fr": "déménager",
+      "en": "to move (house)"
+    },
+    {
+      "id": "se-marier",
+      "fr": "se marier",
+      "en": "to get married"
+    },
+    {
+      "id": "chien",
+      "fr": "le chien",
+      "en": "dog",
+      "gender": "m"
+    },
+    {
+      "id": "meteo",
+      "fr": "la météo",
+      "en": "weather forecast",
+      "gender": "f"
+    },
+    {
+      "id": "soleil",
+      "fr": "le soleil",
+      "en": "sun",
+      "gender": "m",
+      "note": "« Il y aura du soleil. »"
+    },
+    {
+      "id": "nuage",
+      "fr": "le nuage",
+      "en": "cloud",
+      "gender": "m"
+    },
+    {
+      "id": "neiger",
+      "fr": "neiger",
+      "en": "to snow",
+      "note": "« Il neigera. »"
+    },
+    {
+      "id": "certainement",
+      "fr": "certainement",
+      "en": "certainly"
+    }
+  ],
+  "grammar": {
+    "title": "Futur simple",
+    "intro": "At A1 you used aller + verb for the near future. The futur simple is for predictions, promises and plans further away. Easy to form: infinitive + the endings of avoir (-ai, -as, -a, -ons, -ez, -ont).",
+    "table": [
+      [
+        "",
+        "parler",
+        "English"
+      ],
+      [
+        "je",
+        "parlerai",
+        "I will speak"
+      ],
+      [
+        "tu",
+        "parleras",
+        "you will speak"
+      ],
+      [
+        "il / elle",
+        "parlera",
+        "he / she will speak"
+      ],
+      [
+        "nous",
+        "parlerons",
+        "we will speak"
+      ],
+      [
+        "vous",
+        "parlerez",
+        "you will speak"
+      ],
+      [
+        "ils / elles",
+        "parleront",
+        "they will speak"
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "Demain, il fera beau.",
+        "en": "Tomorrow the weather will be nice."
+      },
+      {
+        "fr": "Je t'appellerai ce soir.",
+        "en": "I'll call you tonight."
+      },
+      {
+        "fr": "Quand je serai à Paris, je visiterai le Louvre.",
+        "en": "When I'm in Paris, I'll visit the Louvre."
+      }
+    ],
+    "trap": "Irregular stems to learn: être → je serai, avoir → j'aurai, aller → j'irai, faire → je ferai, venir → je viendrai, pouvoir → je pourrai, voir → je verrai. Verbs in -re lose the e: prendre → je prendrai. After « quand » about the future, French uses the future: « quand je serai grande » (not « quand je suis »)."
+  },
+  "sounds": {
+    "title": "Present or future?",
+    "explain": "The future has an extra « r » sound before the ending: « je parle » → « je parle-r-ai ». Listen for that r.",
+    "pairs": [
+      [
+        "je parle",
+        "je parlerai"
+      ],
+      [
+        "tu manges",
+        "tu mangeras"
+      ],
+      [
+        "il va",
+        "il ira"
+      ],
+      [
+        "nous sommes",
+        "nous serons"
+      ],
+      [
+        "je fais",
+        "je ferai"
+      ]
+    ],
+    "tip": "The r is the sign of the future: « ira, sera, fera, aura »."
+  },
+  "practice": [
+    {
+      "type": "fill",
+      "prompt": "Futur of « parler ».",
+      "sentence": "Je ___ français couramment.",
+      "answers": [
+        "parlerai"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Futur of « être ».",
+      "sentence": "Demain, ce ___ difficile.",
+      "answers": [
+        "sera"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Futur of « avoir ».",
+      "sentence": "Nous ___ une maison.",
+      "answers": [
+        "aurons"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Futur of « aller » with « je »:",
+      "options": [
+        "j'allerai",
+        "j'irai",
+        "je vais"
+      ],
+      "answer": "j'irai"
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen and choose what you hear.",
+      "options": [
+        "je fais",
+        "je ferai"
+      ],
+      "answer": "je ferai",
+      "listen": "je ferai"
+    },
+    {
+      "type": "fill",
+      "prompt": "Futur of « faire ».",
+      "sentence": "Il ___ beau ce week-end.",
+      "answers": [
+        "fera"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Je",
+        "t'appellerai",
+        "ce",
+        "soir"
+      ],
+      "answer": "Je t'appellerai ce soir"
+    },
+    {
+      "type": "choice",
+      "prompt": "Complete: « Quand je ___ grande, je serai médecin. »",
+      "options": [
+        "suis",
+        "serai",
+        "étais"
+      ],
+      "answer": "serai",
+      "explain": "After quand + future meaning: futur simple."
+    },
+    {
+      "type": "choice",
+      "prompt": "« dans cinq ans » means…",
+      "options": [
+        "five years ago",
+        "in five years",
+        "for five years"
+      ],
+      "answer": "in five years"
+    },
+    {
+      "type": "fill",
+      "prompt": "Futur of « venir ».",
+      "sentence": "Tu ___ me voir ?",
+      "answers": [
+        "viendras"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Il",
+        "neigera",
+        "demain"
+      ],
+      "answer": "Il neigera demain"
+    },
+    {
+      "type": "choice",
+      "prompt": "In the dialogue, where does Sari see herself in five years?",
+      "options": [
+        "in Paris",
+        "in Lyon",
+        "in Indonesia"
+      ],
+      "answer": "in Lyon"
+    }
+  ],
+  "task": {
+    "prompt": "Write 5–6 sentences about your future: in one year, in five years, and one promise to someone.",
+    "example": "L'année prochaine, je parlerai mieux français. Je trouverai un travail. Dans cinq ans, nous habiterons à la campagne et nous aurons un chien. Je te promets que j'irai voir ma famille tous les ans.",
+    "checklist": [
+      "I can form the futur simple",
+      "I know the irregular stems (serai, aurai, irai, ferai)",
+      "I can make a prediction and a promise",
+      "I can use « quand » + future"
+    ]
+  }
+}
