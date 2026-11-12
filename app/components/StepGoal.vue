@@ -41,7 +41,7 @@ const showEnglish = ref(false)
 .goal p { margin-bottom: var(--s1); }
 .between { justify-content: space-between; }
 .between h3 { margin: 0; }
-.dialogue { list-style: none; margin: 0; padding: 0; display: grid; gap: var(--s2); }
+.dialogue { list-style: none; margin: var(--s3) 0 0; padding: 0; display: grid; gap: var(--s2); }
 .line { display: flex; gap: var(--s2); align-items: flex-start; max-width: 90%; }
 .line--right { margin-left: auto; flex-direction: row-reverse; text-align: right; }
 .line > div { background: var(--c-surface); border: 1px solid var(--c-line); border-radius: var(--radius); padding: 10px var(--s2); }

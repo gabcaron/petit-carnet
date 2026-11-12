@@ -1,0 +1,532 @@
+[
+  {
+    "id": "groups",
+    "title": "The 3 verb groups",
+    "intro": "French verbs are sorted into 3 groups by their infinitive. Once you know a verb's group, you know how to conjugate it in every tense. Good news: about 90% of French verbs are in the 1st group, and they are all regular.",
+    "table": [
+      [
+        "Group",
+        "Infinitive",
+        "Model",
+        "How it works"
+      ],
+      [
+        "1st",
+        "-er",
+        "parler",
+        "all regular (except aller)"
+      ],
+      [
+        "2nd",
+        "-ir, nous -issons",
+        "finir",
+        "all regular: finis, finissons"
+      ],
+      [
+        "3rd",
+        "-ir, -re, -oir",
+        "prendre, partir, voir",
+        "irregular: learn the present, the participle and the future stem"
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "Je parle, nous parlons.",
+        "en": "1st group: parler"
+      },
+      {
+        "fr": "Je finis, nous finissons.",
+        "en": "2nd group: finir"
+      },
+      {
+        "fr": "Je prends, nous prenons.",
+        "en": "3rd group: prendre"
+      }
+    ],
+    "trap": "Not every -ir verb is in the 2nd group: partir, sortir, dormir, venir and ouvrir are 3rd group (nous partons, not « partissons »). The test: if the nous form ends in -issons, it is 2nd group. aller ends in -er but is fully irregular (3rd group)."
+  },
+  {
+    "id": "present",
+    "title": "Présent: what is happening now",
+    "intro": "The present is used for now, for habits and for general facts. English « I speak », « I am speaking » and « I do speak » are all one form in French: je parle.",
+    "table": [
+      [
+        "",
+        "parler (1st)",
+        "finir (2nd)",
+        "prendre (3rd)"
+      ],
+      [
+        "je",
+        "parle",
+        "finis",
+        "prends"
+      ],
+      [
+        "tu",
+        "parles",
+        "finis",
+        "prends"
+      ],
+      [
+        "il / elle",
+        "parle",
+        "finit",
+        "prend"
+      ],
+      [
+        "nous",
+        "parlons",
+        "finissons",
+        "prenons"
+      ],
+      [
+        "vous",
+        "parlez",
+        "finissez",
+        "prenez"
+      ],
+      [
+        "ils / elles",
+        "parlent",
+        "finissent",
+        "prennent"
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "Je parle français.",
+        "en": "I speak / I am speaking French."
+      },
+      {
+        "fr": "Le cours finit à midi.",
+        "en": "The class finishes at noon."
+      },
+      {
+        "fr": "Nous prenons le métro tous les jours.",
+        "en": "We take the metro every day."
+      }
+    ],
+    "trap": "The endings -e, -es, -ent are silent: parle, parles and parlent sound the same. Spelling changes in the 1st group: manger → nous mangeons, commencer → nous commençons, acheter → j'achète. To say « I am doing it right now », use être en train de: « je suis en train de manger »."
+  },
+  {
+    "id": "passe-compose",
+    "title": "Passé composé: what happened",
+    "intro": "The passé composé tells a finished action in the past: « I ate », « I have eaten ». It has two parts: avoir or être in the present + the past participle.",
+    "table": [
+      [
+        "Group",
+        "Participle",
+        "Example"
+      ],
+      [
+        "1st (-er)",
+        "-é",
+        "parler → j'ai parlé"
+      ],
+      [
+        "2nd (-ir)",
+        "-i",
+        "finir → j'ai fini"
+      ],
+      [
+        "3rd",
+        "to learn",
+        "faire → fait, prendre → pris, voir → vu, boire → bu, avoir → eu, être → été"
+      ],
+      [
+        "with être",
+        "agrees (-e, -s)",
+        "aller → elle est allée, ils sont allés"
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "Hier, j'ai mangé une pizza.",
+        "en": "Yesterday I ate a pizza."
+      },
+      {
+        "fr": "Nous avons fini le travail.",
+        "en": "We finished the work."
+      },
+      {
+        "fr": "Elle est partie à huit heures.",
+        "en": "She left at eight."
+      }
+    ],
+    "trap": "être is used with about 15 movement verbs (aller, venir, partir, arriver, entrer, sortir, monter, descendre, tomber, rester, rentrer, naître, mourir…) and with all reflexive verbs (je me suis levée). With être, the participle agrees like an adjective. In the negative, wrap the auxiliary: « je n'ai pas mangé »."
+  },
+  {
+    "id": "imparfait",
+    "title": "Imparfait: how things were",
+    "intro": "The imparfait describes the past: the background, habits, how things used to be. Same endings for every verb. Take the nous form of the present, remove -ons, add -ais, -ais, -ait, -ions, -iez, -aient.",
+    "table": [
+      [
+        "",
+        "parler (nous parl-ons)",
+        "finir (nous finiss-ons)",
+        "prendre (nous pren-ons)"
+      ],
+      [
+        "je",
+        "parlais",
+        "finissais",
+        "prenais"
+      ],
+      [
+        "tu",
+        "parlais",
+        "finissais",
+        "prenais"
+      ],
+      [
+        "il / elle",
+        "parlait",
+        "finissait",
+        "prenait"
+      ],
+      [
+        "nous",
+        "parlions",
+        "finissions",
+        "prenions"
+      ],
+      [
+        "vous",
+        "parliez",
+        "finissiez",
+        "preniez"
+      ],
+      [
+        "ils / elles",
+        "parlaient",
+        "finissaient",
+        "prenaient"
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "Quand j'étais petite, j'habitais à Bali.",
+        "en": "When I was little, I lived in Bali."
+      },
+      {
+        "fr": "Il faisait beau et nous marchions.",
+        "en": "The weather was nice and we were walking."
+      },
+      {
+        "fr": "Je lisais quand tu as appelé.",
+        "en": "I was reading when you called."
+      }
+    ],
+    "trap": "Only one irregular verb: être → j'étais. Imparfait = the scene or the habit; passé composé = the action that happens: « Il pleuvait (scene) quand je suis sortie (action). » parlais, parlait, parlaient all sound the same."
+  },
+  {
+    "id": "futur-proche",
+    "title": "Futur proche: what is going to happen",
+    "intro": "The easiest way to talk about the future, used all the time when speaking: aller in the present + a verb in the infinitive. Like « akan » in Indonesian, or « going to » in English.",
+    "table": [
+      [
+        "",
+        "aller",
+        "+ infinitive"
+      ],
+      [
+        "je",
+        "vais",
+        "partir"
+      ],
+      [
+        "tu",
+        "vas",
+        "manger"
+      ],
+      [
+        "il / elle",
+        "va",
+        "pleuvoir"
+      ],
+      [
+        "nous",
+        "allons",
+        "voyager"
+      ],
+      [
+        "vous",
+        "allez",
+        "finir"
+      ],
+      [
+        "ils / elles",
+        "vont",
+        "venir"
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "Je vais partir demain.",
+        "en": "I'm going to leave tomorrow."
+      },
+      {
+        "fr": "Il va pleuvoir ce soir.",
+        "en": "It's going to rain tonight."
+      },
+      {
+        "fr": "Nous allons acheter une maison.",
+        "en": "We're going to buy a house."
+      }
+    ],
+    "trap": "The second verb never changes: « je vais partir », never « je vais pars ». In the negative, wrap aller: « je ne vais pas partir ». Pronouns go before the infinitive: « je vais l'appeler »."
+  },
+  {
+    "id": "futur-simple",
+    "title": "Futur simple: what will happen",
+    "intro": "The futur simple is for predictions, promises and plans further away. Take the infinitive (drop the final -e of -re verbs) and add the endings of avoir: -ai, -as, -a, -ons, -ez, -ont.",
+    "table": [
+      [
+        "",
+        "parler",
+        "finir",
+        "prendre"
+      ],
+      [
+        "je",
+        "parlerai",
+        "finirai",
+        "prendrai"
+      ],
+      [
+        "tu",
+        "parleras",
+        "finiras",
+        "prendras"
+      ],
+      [
+        "il / elle",
+        "parlera",
+        "finira",
+        "prendra"
+      ],
+      [
+        "nous",
+        "parlerons",
+        "finirons",
+        "prendrons"
+      ],
+      [
+        "vous",
+        "parlerez",
+        "finirez",
+        "prendrez"
+      ],
+      [
+        "ils / elles",
+        "parleront",
+        "finiront",
+        "prendront"
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "Demain, il fera beau.",
+        "en": "Tomorrow the weather will be nice."
+      },
+      {
+        "fr": "Je t'appellerai ce soir.",
+        "en": "I'll call you tonight."
+      },
+      {
+        "fr": "Quand je serai grande, je serai médecin.",
+        "en": "When I grow up, I'll be a doctor."
+      }
+    ],
+    "trap": "Irregular stems to learn by heart: être → ser-, avoir → aur-, aller → ir-, faire → fer-, venir → viendr-, pouvoir → pourr-, vouloir → voudr-, voir → verr-, savoir → saur-, devoir → devr-. The endings never change. After « quand » about the future, use the future: « quand je serai à Paris »."
+  },
+  {
+    "id": "imperatif",
+    "title": "Impératif: giving instructions",
+    "intro": "The imperative gives orders, advice and directions. It only has 3 forms (tu, nous, vous) and no subject: take the present and drop the pronoun.",
+    "table": [
+      [
+        "",
+        "parler",
+        "finir",
+        "prendre"
+      ],
+      [
+        "(tu)",
+        "parle",
+        "finis",
+        "prends"
+      ],
+      [
+        "(nous)",
+        "parlons",
+        "finissons",
+        "prenons"
+      ],
+      [
+        "(vous)",
+        "parlez",
+        "finissez",
+        "prenez"
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "Tournez à gauche !",
+        "en": "Turn left!"
+      },
+      {
+        "fr": "Mange tes légumes !",
+        "en": "Eat your vegetables!"
+      },
+      {
+        "fr": "Ne pars pas !",
+        "en": "Don't leave!"
+      }
+    ],
+    "trap": "For -er verbs and aller, the tu form loses its s: « parle ! », « va ! » (not « parles », « vas »). Irregular: être → sois, soyons, soyez; avoir → aie, ayons, ayez; savoir → sache. The negative wraps the verb: « ne mange pas ! »."
+  },
+  {
+    "id": "big-four",
+    "title": "The 4 key irregular verbs: être, avoir, aller, faire",
+    "intro": "These four verbs are everywhere. They also build other tenses: aller + verb for the future, avoir or être + participle for the past.",
+    "table": [
+      [
+        "",
+        "être (be)",
+        "avoir (have)",
+        "aller (go)",
+        "faire (do)"
+      ],
+      [
+        "je / j'",
+        "suis",
+        "ai",
+        "vais",
+        "fais"
+      ],
+      [
+        "tu",
+        "es",
+        "as",
+        "vas",
+        "fais"
+      ],
+      [
+        "il / elle / on",
+        "est",
+        "a",
+        "va",
+        "fait"
+      ],
+      [
+        "nous",
+        "sommes",
+        "avons",
+        "allons",
+        "faisons"
+      ],
+      [
+        "vous",
+        "êtes",
+        "avez",
+        "allez",
+        "faites"
+      ],
+      [
+        "ils / elles",
+        "sont",
+        "ont",
+        "vont",
+        "font"
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "Je suis fatiguée.",
+        "en": "I'm tired. (woman)"
+      },
+      {
+        "fr": "Il fait beau aujourd'hui.",
+        "en": "The weather is nice today."
+      },
+      {
+        "fr": "Nous allons à la mer.",
+        "en": "We're going to the seaside."
+      }
+    ],
+    "trap": "Watch the vous forms: « vous êtes », « vous faites » — never « vous faisez ». And age uses avoir, not être: « j'ai vingt ans »."
+  },
+  {
+    "id": "irregular-verbs",
+    "title": "More everyday verbs: prendre, vouloir, pouvoir, venir",
+    "intro": "Four more irregular verbs you will use every day. vouloir and pouvoir are often followed by a second verb.",
+    "table": [
+      [
+        "",
+        "prendre (take)",
+        "vouloir (want)",
+        "pouvoir (can)",
+        "venir (come)"
+      ],
+      [
+        "je",
+        "prends",
+        "veux",
+        "peux",
+        "viens"
+      ],
+      [
+        "tu",
+        "prends",
+        "veux",
+        "peux",
+        "viens"
+      ],
+      [
+        "il / elle / on",
+        "prend",
+        "veut",
+        "peut",
+        "vient"
+      ],
+      [
+        "nous",
+        "prenons",
+        "voulons",
+        "pouvons",
+        "venons"
+      ],
+      [
+        "vous",
+        "prenez",
+        "voulez",
+        "pouvez",
+        "venez"
+      ],
+      [
+        "ils / elles",
+        "prennent",
+        "veulent",
+        "peuvent",
+        "viennent"
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "Je prends le bus.",
+        "en": "I take the bus."
+      },
+      {
+        "fr": "Tu veux un café ?",
+        "en": "Do you want a coffee?"
+      },
+      {
+        "fr": "Elle vient de Bali.",
+        "en": "She comes from Bali."
+      }
+    ],
+    "trap": "After vouloir, pouvoir and devoir, the second verb stays in the infinitive: « je veux partir », « je peux venir ». « Je voudrais » is the polite form of « je veux »."
+  }
+]

@@ -5,6 +5,7 @@ import { addDays, reviewCard } from '../app/utils/srs'
 import { units } from '../app/data/course'
 import { speakable } from '../app/utils/audio'
 import basics from '../app/data/grammar.json'
+import conjugation from '../app/data/conjugation.json'
 
 assert.equal(checkAnswer('Je suis', ['je suis']), 'right')
 assert.equal(checkAnswer("  je m’appelle Sari. ", ["Je m'appelle Sari"]), 'right')
@@ -35,7 +36,7 @@ for (const u of units) {
 
 assert.equal(speakable('enchanté / enchantée'), 'enchanté, enchantée')
 assert.equal(speakable("je m'appelle…"), "je m'appelle")
-for (const s of basics) {
+for (const s of [...basics, ...conjugation]) {
   assert.ok(s.id && s.title && s.intro && s.trap && s.examples.length, `grammar sheet ${s.id} incomplete`)
   assert.ok(s.table.every(row => row.length === s.table[0]!.length), `grammar sheet ${s.id}: uneven table`)
 }
