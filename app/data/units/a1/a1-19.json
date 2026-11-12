@@ -1,0 +1,344 @@
+{
+  "dialogue": [
+    {
+      "who": "Sari",
+      "fr": "Bonjour. Je voudrais envoyer ce colis en Indonésie, s'il vous plaît.",
+      "en": "Hello. I'd like to send this parcel to Indonesia, please."
+    },
+    {
+      "who": "L'employé",
+      "fr": "Bien sûr. Vous pouvez le mettre sur la balance ?",
+      "en": "Of course. Can you put it on the scales?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Voilà. Est-ce que je peux aussi acheter des timbres ?",
+      "en": "There you go. Can I also buy some stamps?"
+    },
+    {
+      "who": "L'employé",
+      "fr": "Oui, combien ? Ça fait vingt-trois euros pour le colis.",
+      "en": "Yes, how many? That's twenty-three euros for the parcel."
+    },
+    {
+      "who": "Sari",
+      "fr": "Dix timbres, s'il vous plaît. Je peux payer par carte ?",
+      "en": "Ten stamps, please. Can I pay by card?"
+    },
+    {
+      "who": "L'employé",
+      "fr": "Bien sûr. Pourriez-vous signer ici, s'il vous plaît ?",
+      "en": "Of course. Could you sign here, please?"
+    }
+  ],
+  "words": [
+    {
+      "id": "a1-19-poste",
+      "fr": "la poste",
+      "en": "post office",
+      "gender": "f"
+    },
+    {
+      "id": "a1-19-lettre",
+      "fr": "la lettre",
+      "en": "letter",
+      "gender": "f"
+    },
+    {
+      "id": "a1-19-colis",
+      "fr": "le colis",
+      "en": "parcel",
+      "gender": "m"
+    },
+    {
+      "id": "a1-19-timbre",
+      "fr": "le timbre",
+      "en": "stamp",
+      "gender": "m"
+    },
+    {
+      "id": "a1-19-enveloppe",
+      "fr": "l'enveloppe",
+      "en": "envelope",
+      "gender": "f"
+    },
+    {
+      "id": "a1-19-banque2",
+      "fr": "le compte en banque",
+      "en": "bank account",
+      "gender": "m"
+    },
+    {
+      "id": "a1-19-carte-bancaire",
+      "fr": "la carte bancaire",
+      "en": "bank card",
+      "gender": "f"
+    },
+    {
+      "id": "a1-19-payer",
+      "fr": "payer",
+      "en": "to pay",
+      "note": "« payer par carte », « payer en espèces » (cash)"
+    },
+    {
+      "id": "a1-19-argent",
+      "fr": "l'argent",
+      "en": "money",
+      "gender": "m"
+    },
+    {
+      "id": "a1-19-retirer",
+      "fr": "retirer de l'argent",
+      "en": "to withdraw money"
+    },
+    {
+      "id": "a1-19-distributeur",
+      "fr": "le distributeur",
+      "en": "cash machine, ATM",
+      "gender": "m"
+    },
+    {
+      "id": "a1-19-signer",
+      "fr": "signer",
+      "en": "to sign"
+    },
+    {
+      "id": "a1-19-formulaire",
+      "fr": "le formulaire",
+      "en": "form",
+      "gender": "m"
+    },
+    {
+      "id": "a1-19-remplir",
+      "fr": "remplir",
+      "en": "to fill in",
+      "note": "2nd group: je remplis."
+    },
+    {
+      "id": "a1-19-rendez-vous",
+      "fr": "le rendez-vous",
+      "en": "appointment",
+      "gender": "m",
+      "note": "« prendre rendez-vous »"
+    },
+    {
+      "id": "a1-19-pourriez-vous",
+      "fr": "Pourriez-vous… ?",
+      "en": "Could you…? (very polite)"
+    },
+    {
+      "id": "a1-19-est-ce-que-peux",
+      "fr": "Est-ce que je peux… ?",
+      "en": "Can I…?"
+    },
+    {
+      "id": "a1-19-avoir-besoin",
+      "fr": "j'aurais besoin de…",
+      "en": "I would need…"
+    },
+    {
+      "id": "a1-19-bien-sur2",
+      "fr": "Avec plaisir.",
+      "en": "With pleasure."
+    },
+    {
+      "id": "a1-19-guichet2",
+      "fr": "le / la employé(e)",
+      "en": "clerk, employee"
+    }
+  ],
+  "grammar": {
+    "title": "Asking politely",
+    "intro": "In shops, offices and with strangers, French people use vous and soft formulas. Three formulas are enough to ask for anything politely. Learn them as fixed blocks.",
+    "table": [
+      [
+        "Formula",
+        "Use",
+        "Example"
+      ],
+      [
+        "Je voudrais + noun / verb",
+        "asking for something",
+        "Je voudrais un timbre. / Je voudrais envoyer un colis."
+      ],
+      [
+        "Est-ce que je peux + verb ?",
+        "asking permission",
+        "Est-ce que je peux payer par carte ?"
+      ],
+      [
+        "Pourriez-vous + verb ?",
+        "asking someone to do something",
+        "Pourriez-vous répéter, s'il vous plaît ?"
+      ],
+      [
+        "Vous pouvez + verb ?",
+        "same, a bit less formal",
+        "Vous pouvez signer ici ?"
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "Je voudrais ouvrir un compte, s'il vous plaît.",
+        "en": "I'd like to open an account, please."
+      },
+      {
+        "fr": "Est-ce que je peux payer en espèces ?",
+        "en": "Can I pay in cash?"
+      },
+      {
+        "fr": "Pourriez-vous m'aider, s'il vous plaît ?",
+        "en": "Could you help me, please?"
+      }
+    ],
+    "trap": "« Je veux » sounds rude in a shop: always say « je voudrais ». After these formulas, the second verb stays in the infinitive: « je voudrais envoyer », « je peux payer ». Always add « s'il vous plaît » and finish with « merci, bonne journée »."
+  },
+  "sounds": {
+    "title": "f or v?",
+    "explain": "f and v are made the same way — top teeth on the bottom lip — but v buzzes. In « neuf ans », the f even turns into a v!",
+    "pairs": [
+      [
+        "faim",
+        "vin"
+      ],
+      [
+        "fou",
+        "vous"
+      ],
+      [
+        "fer",
+        "vert"
+      ],
+      [
+        "neuf heures",
+        "neuf ans"
+      ]
+    ],
+    "tip": "Hum while you say f: you get v."
+  },
+  "practice": [
+    {
+      "type": "fill",
+      "prompt": "Complete politely.",
+      "sentence": "Je ___ un timbre, s'il vous plaît.",
+      "answers": [
+        "voudrais"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Asking permission to pay by card:",
+      "options": [
+        "Je veux payer par carte.",
+        "Est-ce que je peux payer par carte ?",
+        "Payez par carte !"
+      ],
+      "answer": "Est-ce que je peux payer par carte ?"
+    },
+    {
+      "type": "choice",
+      "prompt": "The most polite way to ask someone to repeat:",
+      "options": [
+        "Répétez !",
+        "Pourriez-vous répéter ?",
+        "Tu répètes ?"
+      ],
+      "answer": "Pourriez-vous répéter ?"
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete.",
+      "sentence": "Je voudrais ___ ce colis. (to send)",
+      "answers": [
+        "envoyer"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen and choose what you hear.",
+      "options": [
+        "fou",
+        "vous"
+      ],
+      "answer": "vous",
+      "listen": "vous"
+    },
+    {
+      "type": "choice",
+      "prompt": "« un distributeur » is…",
+      "options": [
+        "a cash machine",
+        "a post office",
+        "a stamp"
+      ],
+      "answer": "a cash machine"
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Pourriez-vous",
+        "signer",
+        "ici"
+      ],
+      "answer": "Pourriez-vous signer ici"
+    },
+    {
+      "type": "fill",
+      "prompt": "Translate: \"a stamp\"",
+      "sentence": "un ___",
+      "answers": [
+        "timbre"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "« payer en espèces » means…",
+      "options": [
+        "to pay by card",
+        "to pay in cash",
+        "to pay later"
+      ],
+      "answer": "to pay in cash"
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with remplir.",
+      "sentence": "Vous ___ ce formulaire ?",
+      "answers": [
+        "remplissez"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Je",
+        "voudrais",
+        "prendre",
+        "rendez-vous"
+      ],
+      "answer": "Je voudrais prendre rendez-vous"
+    },
+    {
+      "type": "choice",
+      "prompt": "In the dialogue, how much is the parcel?",
+      "options": [
+        "13 €",
+        "23 €",
+        "33 €"
+      ],
+      "answer": "23 €"
+    }
+  ],
+  "task": {
+    "prompt": "You are at the bank or at the post office. Write 4 polite requests using je voudrais, est-ce que je peux and pourriez-vous.",
+    "example": "Bonjour, je voudrais ouvrir un compte. Est-ce que je peux prendre rendez-vous demain ? Pourriez-vous m'expliquer ce formulaire ? Merci, bonne journée !",
+    "checklist": [
+      "I can ask for something politely",
+      "I can ask permission",
+      "I can ask someone to do something",
+      "I know post office and bank words"
+    ]
+  }
+}

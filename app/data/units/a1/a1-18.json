@@ -1,0 +1,353 @@
+{
+  "dialogue": [
+    {
+      "who": "Léa",
+      "fr": "C'est quand, ton anniversaire ?",
+      "en": "When's your birthday?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Le premier mars. Et toi ?",
+      "en": "The first of March. And you?"
+    },
+    {
+      "who": "Léa",
+      "fr": "Le quatorze juillet, le jour de la fête nationale ! On fait toujours une grande fête.",
+      "en": "The fourteenth of July, national day! We always have a big party."
+    },
+    {
+      "who": "Sari",
+      "fr": "Génial ! Et Noël, on le fête en famille, en France ?",
+      "en": "Great! And Christmas, do people celebrate it with family in France?"
+    },
+    {
+      "who": "Léa",
+      "fr": "Oui, le vingt-quatre au soir. On mange beaucoup et on ouvre les cadeaux.",
+      "en": "Yes, on the evening of the twenty-fourth. We eat a lot and open the presents."
+    },
+    {
+      "who": "Sari",
+      "fr": "Chez moi, la grande fête, c'est l'Aïd. On rend visite à toute la famille.",
+      "en": "Back home, the big celebration is Eid. We visit the whole family."
+    }
+  ],
+  "words": [
+    {
+      "id": "a1-18-fete",
+      "fr": "la fête",
+      "en": "party; celebration",
+      "gender": "f"
+    },
+    {
+      "id": "a1-18-anniversaire",
+      "fr": "l'anniversaire",
+      "en": "birthday",
+      "gender": "m",
+      "note": "« Joyeux anniversaire ! »"
+    },
+    {
+      "id": "a1-18-cadeau",
+      "fr": "le cadeau",
+      "en": "present, gift",
+      "gender": "m"
+    },
+    {
+      "id": "a1-18-inviter",
+      "fr": "inviter",
+      "en": "to invite"
+    },
+    {
+      "id": "a1-18-invitation",
+      "fr": "l'invitation",
+      "en": "invitation",
+      "gender": "f"
+    },
+    {
+      "id": "a1-18-feter",
+      "fr": "fêter",
+      "en": "to celebrate"
+    },
+    {
+      "id": "a1-18-noel",
+      "fr": "Noël",
+      "en": "Christmas",
+      "note": "« Joyeux Noël ! »"
+    },
+    {
+      "id": "a1-18-nouvel-an",
+      "fr": "le Nouvel An",
+      "en": "New Year's Day",
+      "gender": "m",
+      "note": "« Bonne année ! »"
+    },
+    {
+      "id": "a1-18-date",
+      "fr": "la date",
+      "en": "date",
+      "gender": "f",
+      "note": "« Quelle est la date aujourd'hui ? »"
+    },
+    {
+      "id": "a1-18-premier",
+      "fr": "premier / première",
+      "en": "first",
+      "note": "« le premier mai » (not « le un mai »)"
+    },
+    {
+      "id": "a1-18-deuxieme",
+      "fr": "deuxième",
+      "en": "second"
+    },
+    {
+      "id": "a1-18-troisieme",
+      "fr": "troisième",
+      "en": "third"
+    },
+    {
+      "id": "a1-18-ne-le",
+      "fr": "je suis né(e) le…",
+      "en": "I was born on…"
+    },
+    {
+      "id": "a1-18-bougie",
+      "fr": "la bougie",
+      "en": "candle",
+      "gender": "f"
+    },
+    {
+      "id": "a1-18-feliciter",
+      "fr": "Félicitations !",
+      "en": "Congratulations!"
+    },
+    {
+      "id": "a1-18-bonne-fete",
+      "fr": "Bonne fête !",
+      "en": "Happy name day / have a good party!"
+    },
+    {
+      "id": "a1-18-ensemble",
+      "fr": "ensemble",
+      "en": "together"
+    },
+    {
+      "id": "a1-18-en-famille",
+      "fr": "en famille",
+      "en": "with the family"
+    },
+    {
+      "id": "a1-18-accepter",
+      "fr": "accepter",
+      "en": "to accept"
+    },
+    {
+      "id": "a1-18-refuser",
+      "fr": "refuser",
+      "en": "to refuse, to say no"
+    }
+  ],
+  "grammar": {
+    "title": "Dates and on = nous",
+    "intro": "For dates, French uses le + number + month, with no « of » and no -th: le 14 juillet. Only the 1st is different: le premier. When speaking, on very often replaces nous: « on fait une fête » = we're having a party. on takes the il / elle form of the verb.",
+    "table": [
+      [
+        "English",
+        "French",
+        "Note"
+      ],
+      [
+        "the 1st of May",
+        "le premier mai",
+        "premier, not un"
+      ],
+      [
+        "the 14th of July",
+        "le quatorze juillet",
+        "just the number"
+      ],
+      [
+        "on Monday the 3rd",
+        "le lundi 3 mars",
+        "day before the number"
+      ],
+      [
+        "we celebrate",
+        "on fête / nous fêtons",
+        "on + il form"
+      ],
+      [
+        "in 2026",
+        "en 2026",
+        "en + year"
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "Mon anniversaire, c'est le premier mars.",
+        "en": "My birthday is on the 1st of March."
+      },
+      {
+        "fr": "On mange ensemble ce soir ?",
+        "en": "Shall we eat together tonight?"
+      },
+      {
+        "fr": "Je suis née le 12 août 2000.",
+        "en": "I was born on the 12th of August 2000."
+      }
+    ],
+    "trap": "No capital letters for months and days: « le 14 juillet ». Ordinal numbers: add -ième (deux → deuxième, trois → troisième), except premier / première. on can also mean « people in general »: « En France, on mange tard »."
+  },
+  "sounds": {
+    "title": "k or g?",
+    "explain": "Both are made in the back of the mouth. k is crisp (car, quand, classe), g vibrates (gare, gant, glace).",
+    "pairs": [
+      [
+        "car",
+        "gare"
+      ],
+      [
+        "quand",
+        "gant"
+      ],
+      [
+        "classe",
+        "glace"
+      ],
+      [
+        "coûte",
+        "goûte"
+      ]
+    ],
+    "tip": "Hand on the throat again: g buzzes, k does not."
+  },
+  "practice": [
+    {
+      "type": "fill",
+      "prompt": "Write the date in letters.",
+      "sentence": "1/05 = le ___ mai",
+      "answers": [
+        "premier"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "How do you say \"the 14th of July\"?",
+      "options": [
+        "le quatorzième juillet",
+        "le quatorze juillet",
+        "le juillet quatorze"
+      ],
+      "answer": "le quatorze juillet"
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete.",
+      "sentence": "C'est ___, ton anniversaire ?",
+      "answers": [
+        "quand"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "« On fait une fête » means…",
+      "options": [
+        "They are having a party.",
+        "We're having a party.",
+        "One party."
+      ],
+      "answer": "We're having a party.",
+      "explain": "When speaking, on often means nous."
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen and choose what you hear.",
+      "options": [
+        "car",
+        "gare"
+      ],
+      "answer": "gare",
+      "listen": "gare"
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with the right form.",
+      "sentence": "On ___ ensemble ? (manger)",
+      "answers": [
+        "mange"
+      ],
+      "explain": "on + il / elle form."
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Je",
+        "suis",
+        "née",
+        "le",
+        "trois",
+        "mai"
+      ],
+      "answer": "Je suis née le trois mai"
+    },
+    {
+      "type": "choice",
+      "prompt": "What do you say on someone's birthday?",
+      "options": [
+        "Joyeux Noël !",
+        "Joyeux anniversaire !",
+        "Bonne année !"
+      ],
+      "answer": "Joyeux anniversaire !"
+    },
+    {
+      "type": "fill",
+      "prompt": "Make it an ordinal number.",
+      "sentence": "deux → ___",
+      "answers": [
+        "deuxième"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "« un cadeau » is…",
+      "options": [
+        "a cake",
+        "a present",
+        "a candle"
+      ],
+      "answer": "a present"
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "On",
+        "fête",
+        "Noël",
+        "en",
+        "famille"
+      ],
+      "answer": "On fête Noël en famille"
+    },
+    {
+      "type": "choice",
+      "prompt": "In the dialogue, when is Léa's birthday?",
+      "options": [
+        "1st of March",
+        "14th of July",
+        "24th of December"
+      ],
+      "answer": "14th of July"
+    }
+  ],
+  "task": {
+    "prompt": "Invite a friend to your birthday party: give the date, the time, the place and what you will do together. Then write your friend's answer.",
+    "example": "Salut Léa ! Mon anniversaire, c'est le premier mars. On fait une fête chez moi à vingt heures. On va manger et danser. Tu viens ? — Oui, avec plaisir ! Félicitations !",
+    "checklist": [
+      "I can say a date",
+      "I can use premier, deuxième, troisième",
+      "I can use on for « we »",
+      "I can invite someone and answer an invitation"
+    ]
+  }
+}

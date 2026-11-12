@@ -1,0 +1,350 @@
+{
+  "dialogue": [
+    {
+      "who": "Sari",
+      "fr": "Tu veux apprendre à faire un nasi goreng ? C'est facile !",
+      "en": "Do you want to learn to make nasi goreng? It's easy!"
+    },
+    {
+      "who": "Léa",
+      "fr": "Oui ! Qu'est-ce que je fais en premier ?",
+      "en": "Yes! What do I do first?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Coupe l'oignon et l'ail finement. Puis fais-les cuire doucement dans l'huile.",
+      "en": "Chop the onion and garlic finely. Then cook them gently in the oil."
+    },
+    {
+      "who": "Léa",
+      "fr": "Comme ça ? Je mets le riz maintenant ?",
+      "en": "Like this? Do I put the rice in now?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Attends ! Ajoute d'abord les œufs et mélange rapidement.",
+      "en": "Wait! Add the eggs first and stir quickly."
+    },
+    {
+      "who": "Léa",
+      "fr": "Mmm, ça sent vraiment bon !",
+      "en": "Mmm, it really smells good!"
+    }
+  ],
+  "words": [
+    {
+      "id": "a2-15-recette",
+      "fr": "la recette",
+      "en": "recipe",
+      "gender": "f"
+    },
+    {
+      "id": "a2-15-ingredient",
+      "fr": "l'ingrédient",
+      "en": "ingredient",
+      "gender": "m"
+    },
+    {
+      "id": "a2-15-couper",
+      "fr": "couper",
+      "en": "to cut, to chop"
+    },
+    {
+      "id": "a2-15-cuire",
+      "fr": "faire cuire",
+      "en": "to cook (something)"
+    },
+    {
+      "id": "a2-15-ajouter",
+      "fr": "ajouter",
+      "en": "to add"
+    },
+    {
+      "id": "a2-15-melanger2",
+      "fr": "mélanger",
+      "en": "to mix, to stir"
+    },
+    {
+      "id": "a2-15-verser",
+      "fr": "verser",
+      "en": "to pour"
+    },
+    {
+      "id": "a2-15-eplucher",
+      "fr": "éplucher",
+      "en": "to peel"
+    },
+    {
+      "id": "a2-15-poele",
+      "fr": "la poêle",
+      "en": "frying pan",
+      "gender": "f"
+    },
+    {
+      "id": "a2-15-casserole",
+      "fr": "la casserole",
+      "en": "saucepan",
+      "gender": "f"
+    },
+    {
+      "id": "a2-15-four",
+      "fr": "le four",
+      "en": "oven",
+      "gender": "m"
+    },
+    {
+      "id": "a2-15-oignon",
+      "fr": "l'oignon",
+      "en": "onion",
+      "gender": "m",
+      "note": "Pronounced « o-gnon »."
+    },
+    {
+      "id": "a2-15-ail",
+      "fr": "l'ail",
+      "en": "garlic",
+      "gender": "m"
+    },
+    {
+      "id": "a2-15-huile",
+      "fr": "l'huile",
+      "en": "oil",
+      "gender": "f"
+    },
+    {
+      "id": "a2-15-oeuf",
+      "fr": "l'œuf",
+      "en": "egg",
+      "gender": "m",
+      "note": "Plural: des œufs (the f is silent)."
+    },
+    {
+      "id": "a2-15-sel",
+      "fr": "le sel / le poivre",
+      "en": "salt / pepper",
+      "gender": "m"
+    },
+    {
+      "id": "a2-15-doucement",
+      "fr": "doucement",
+      "en": "gently, slowly"
+    },
+    {
+      "id": "a2-15-rapidement",
+      "fr": "rapidement",
+      "en": "quickly"
+    },
+    {
+      "id": "a2-15-finement",
+      "fr": "finement",
+      "en": "finely"
+    },
+    {
+      "id": "a2-15-sentir-bon",
+      "fr": "ça sent bon",
+      "en": "it smells good"
+    }
+  ],
+  "grammar": {
+    "title": "Adverbs in -ment + instructions",
+    "intro": "To say how you do something (gently, quickly…), take the feminine adjective and add -ment, like -ly in English. Recipes use the imperative (vous or tu form) for instructions.",
+    "table": [
+      [
+        "Adjective (m / f)",
+        "Adverb",
+        "Rule"
+      ],
+      [
+        "doux / douce",
+        "doucement",
+        "feminine + -ment"
+      ],
+      [
+        "rapide",
+        "rapidement",
+        "ends in -e: just add -ment"
+      ],
+      [
+        "vrai",
+        "vraiment",
+        "ends in a vowel: masculine + -ment"
+      ],
+      [
+        "lent / lente",
+        "lentement",
+        "feminine + -ment"
+      ],
+      [
+        "bon / bien",
+        "bien",
+        "irregular"
+      ],
+      [
+        "mauvais / mal",
+        "mal",
+        "irregular"
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "Coupe les oignons finement.",
+        "en": "Chop the onions finely."
+      },
+      {
+        "fr": "Faites cuire doucement pendant dix minutes.",
+        "en": "Cook gently for ten minutes."
+      },
+      {
+        "fr": "Elle cuisine vraiment bien.",
+        "en": "She cooks really well."
+      }
+    ],
+    "trap": "Adjectives in -ant / -ent become -amment / -emment, both pronounced « amment »: évident → évidemment, couramment. The adverb goes after the verb: « il parle lentement ». Imperative with pronouns: « fais-les cuire », « mélange-le »."
+  },
+  "sounds": {
+    "title": "Adjective or adverb?",
+    "explain": "The adverb is longer: you hear « -ment » (a nasal « man ») at the end.",
+    "pairs": [
+      [
+        "lent",
+        "lentement"
+      ],
+      [
+        "vrai",
+        "vraiment"
+      ],
+      [
+        "doux",
+        "doucement"
+      ],
+      [
+        "facile",
+        "facilement"
+      ]
+    ],
+    "tip": "Listen for the extra « man » at the end."
+  },
+  "practice": [
+    {
+      "type": "fill",
+      "prompt": "Make the adverb.",
+      "sentence": "rapide → ___",
+      "answers": [
+        "rapidement"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Make the adverb.",
+      "sentence": "doux → ___",
+      "answers": [
+        "doucement"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Make the adverb.",
+      "sentence": "vrai → ___",
+      "answers": [
+        "vraiment"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "The adverb of « bon » is…",
+      "options": [
+        "bonnement",
+        "bien",
+        "bonement"
+      ],
+      "answer": "bien"
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen and choose what you hear.",
+      "options": [
+        "lent",
+        "lentement"
+      ],
+      "answer": "lentement",
+      "listen": "lentement"
+    },
+    {
+      "type": "fill",
+      "prompt": "Make the adverb.",
+      "sentence": "évident → ___",
+      "answers": [
+        "évidemment"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Coupe",
+        "l'oignon",
+        "finement"
+      ],
+      "answer": "Coupe l'oignon finement"
+    },
+    {
+      "type": "choice",
+      "prompt": "« la poêle » is…",
+      "options": [
+        "the oven",
+        "the frying pan",
+        "the saucepan"
+      ],
+      "answer": "the frying pan"
+    },
+    {
+      "type": "choice",
+      "prompt": "Where does the adverb go?",
+      "options": [
+        "Il lentement parle.",
+        "Il parle lentement."
+      ],
+      "answer": "Il parle lentement."
+    },
+    {
+      "type": "fill",
+      "prompt": "Translate: \"an egg\"",
+      "sentence": "un ___",
+      "answers": [
+        "œuf"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Ajoutez",
+        "le",
+        "sel",
+        "et",
+        "mélangez"
+      ],
+      "answer": "Ajoutez le sel et mélangez"
+    },
+    {
+      "type": "choice",
+      "prompt": "In the dialogue, what does Léa have to add before the rice?",
+      "options": [
+        "the garlic",
+        "the eggs",
+        "the oil"
+      ],
+      "answer": "the eggs"
+    }
+  ],
+  "task": {
+    "prompt": "Write the recipe of a dish you love (ingredients + 6 steps) using the imperative and at least 3 adverbs in -ment.",
+    "example": "Ingrédients : du riz, deux œufs, un oignon, de l'ail, de l'huile. Coupez l'oignon finement. Faites cuire l'ail doucement. Ajoutez les œufs et mélangez rapidement. Ajoutez le riz. Mettez du sel. Servez immédiatement !",
+    "checklist": [
+      "I can make adverbs in -ment",
+      "I know bien and mal",
+      "I can give instructions with the imperative",
+      "I know 10 cooking words"
+    ]
+  }
+}

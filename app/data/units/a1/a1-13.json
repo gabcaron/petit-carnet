@@ -1,0 +1,357 @@
+{
+  "dialogue": [
+    {
+      "who": "Le serveur",
+      "fr": "Vous avez choisi ?",
+      "en": "Have you decided?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Oui. En entrée, une salade. Et comme plat, le poisson, s'il vous plaît.",
+      "en": "Yes. As a starter, a salad. And as a main course, the fish, please."
+    },
+    {
+      "who": "Le serveur",
+      "fr": "Et pour monsieur ?",
+      "en": "And for the gentleman?"
+    },
+    {
+      "who": "Tom",
+      "fr": "Le steak-frites. Tu ne manges jamais de viande, toi ?",
+      "en": "Steak and chips. You never eat meat?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Si, parfois, mais rarement le soir. Je prends souvent du poisson.",
+      "en": "Yes, sometimes, but rarely in the evening. I often have fish."
+    },
+    {
+      "who": "Le serveur",
+      "fr": "Très bien. Et comme boisson ?",
+      "en": "Very good. And to drink?"
+    }
+  ],
+  "words": [
+    {
+      "id": "a1-13-carte",
+      "fr": "la carte",
+      "en": "the menu",
+      "gender": "f",
+      "note": "« le menu » is a set meal at a fixed price."
+    },
+    {
+      "id": "a1-13-entree",
+      "fr": "l'entrée",
+      "en": "starter",
+      "gender": "f",
+      "note": "Careful: not the main course!"
+    },
+    {
+      "id": "a1-13-plat",
+      "fr": "le plat",
+      "en": "main course; dish",
+      "gender": "m"
+    },
+    {
+      "id": "a1-13-dessert",
+      "fr": "le dessert",
+      "en": "dessert",
+      "gender": "m"
+    },
+    {
+      "id": "a1-13-boisson",
+      "fr": "la boisson",
+      "en": "drink",
+      "gender": "f"
+    },
+    {
+      "id": "a1-13-serveur",
+      "fr": "le serveur / la serveuse",
+      "en": "waiter / waitress"
+    },
+    {
+      "id": "a1-13-choisir",
+      "fr": "choisir",
+      "en": "to choose",
+      "note": "« Vous avez choisi ? »"
+    },
+    {
+      "id": "a1-13-commander",
+      "fr": "commander",
+      "en": "to order"
+    },
+    {
+      "id": "a1-13-salade",
+      "fr": "la salade",
+      "en": "salad; lettuce",
+      "gender": "f"
+    },
+    {
+      "id": "a1-13-soupe",
+      "fr": "la soupe",
+      "en": "soup",
+      "gender": "f"
+    },
+    {
+      "id": "a1-13-frites",
+      "fr": "les frites",
+      "en": "chips, fries",
+      "gender": "f"
+    },
+    {
+      "id": "a1-13-gateau",
+      "fr": "le gâteau",
+      "en": "cake",
+      "gender": "m"
+    },
+    {
+      "id": "a1-13-glace",
+      "fr": "la glace",
+      "en": "ice cream",
+      "gender": "f"
+    },
+    {
+      "id": "a1-13-vin",
+      "fr": "le vin",
+      "en": "wine",
+      "gender": "m"
+    },
+    {
+      "id": "a1-13-biere",
+      "fr": "la bière",
+      "en": "beer",
+      "gender": "f"
+    },
+    {
+      "id": "a1-13-jus",
+      "fr": "le jus d'orange",
+      "en": "orange juice",
+      "gender": "m"
+    },
+    {
+      "id": "a1-13-delicieux",
+      "fr": "délicieux / délicieuse",
+      "en": "delicious"
+    },
+    {
+      "id": "a1-13-rarement",
+      "fr": "rarement",
+      "en": "rarely"
+    },
+    {
+      "id": "a1-13-jamais2",
+      "fr": "ne… jamais",
+      "en": "never",
+      "note": "« Je ne bois jamais de café. »"
+    },
+    {
+      "id": "a1-13-si",
+      "fr": "si",
+      "en": "yes (answering a negative question)",
+      "note": "« Tu ne manges pas ? — Si ! »"
+    }
+  ],
+  "grammar": {
+    "title": "How often? toujours, souvent, ne… jamais",
+    "intro": "Frequency words usually go right after the verb. jamais works like pas: ne + verb + jamais.",
+    "table": [
+      [
+        "English",
+        "French",
+        "Example"
+      ],
+      [
+        "always",
+        "toujours",
+        "Je prends toujours un dessert."
+      ],
+      [
+        "often",
+        "souvent",
+        "Je mange souvent du poisson."
+      ],
+      [
+        "sometimes",
+        "parfois",
+        "Il boit parfois du vin."
+      ],
+      [
+        "rarely",
+        "rarement",
+        "Nous sortons rarement le soir."
+      ],
+      [
+        "never",
+        "ne… jamais",
+        "Je ne mange jamais de viande."
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "Je ne bois jamais de café le soir.",
+        "en": "I never drink coffee in the evening."
+      },
+      {
+        "fr": "Tu prends souvent un dessert ?",
+        "en": "Do you often have a dessert?"
+      },
+      {
+        "fr": "Tu n'aimes pas le fromage ? — Si, j'adore !",
+        "en": "Don't you like cheese? — Yes, I love it!"
+      }
+    ],
+    "trap": "After ne… jamais, du / de la / des become de, like after pas: « je ne mange jamais de viande ». To answer « yes » to a negative question, say si, not oui: « Tu ne viens pas ? — Si ! »."
+  },
+  "sounds": {
+    "title": "o or o?",
+    "explain": "French has a closed o (beau, pot, saule — lips very round) and an open o (porte, bol, sol — mouth more open).",
+    "pairs": [
+      [
+        "beau",
+        "bol"
+      ],
+      [
+        "pot",
+        "porte"
+      ],
+      [
+        "saule",
+        "sol"
+      ],
+      [
+        "paume",
+        "pomme"
+      ]
+    ],
+    "tip": "Closed o: say « o » with a small round mouth. Open o: like « o » in \"not\" (British)."
+  },
+  "practice": [
+    {
+      "type": "fill",
+      "prompt": "Complete.",
+      "sentence": "Je ne mange ___ de viande.",
+      "answers": [
+        "jamais"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "\"I never drink wine\" is…",
+      "options": [
+        "Je ne bois jamais de vin.",
+        "Je bois jamais vin.",
+        "Je ne bois jamais du vin."
+      ],
+      "answer": "Je ne bois jamais de vin.",
+      "explain": "After jamais: de."
+    },
+    {
+      "type": "choice",
+      "prompt": "In France, « l'entrée » is…",
+      "options": [
+        "the main course",
+        "the starter",
+        "the dessert"
+      ],
+      "answer": "the starter"
+    },
+    {
+      "type": "fill",
+      "prompt": "Answer with oui or si.",
+      "sentence": "Tu n'aimes pas la glace ? — ___, j'adore !",
+      "answers": [
+        "si"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen and choose what you hear.",
+      "options": [
+        "pot",
+        "porte"
+      ],
+      "answer": "porte",
+      "listen": "porte"
+    },
+    {
+      "type": "fill",
+      "prompt": "Translate: \"often\"",
+      "sentence": "Je prends ___ du poisson.",
+      "answers": [
+        "souvent"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Je",
+        "prends",
+        "toujours",
+        "un",
+        "dessert"
+      ],
+      "answer": "Je prends toujours un dessert"
+    },
+    {
+      "type": "choice",
+      "prompt": "The waiter asks « Vous avez choisi ? ». He means…",
+      "options": [
+        "Have you decided?",
+        "Did you like it?",
+        "Do you want the bill?"
+      ],
+      "answer": "Have you decided?"
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete.",
+      "sentence": "Comme ___, une bière, s'il vous plaît.",
+      "answers": [
+        "boisson"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Where does « souvent » go?",
+      "options": [
+        "Je souvent mange ici.",
+        "Je mange souvent ici."
+      ],
+      "answer": "Je mange souvent ici."
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Nous",
+        "ne",
+        "sortons",
+        "jamais",
+        "le",
+        "soir"
+      ],
+      "answer": "Nous ne sortons jamais le soir"
+    },
+    {
+      "type": "choice",
+      "prompt": "In the dialogue, what does Sari order as a main course?",
+      "options": [
+        "steak and chips",
+        "fish",
+        "a salad"
+      ],
+      "answer": "fish"
+    }
+  ],
+  "task": {
+    "prompt": "Order a full meal in a restaurant (starter, main course, dessert, drink), then write 3 sentences about your eating habits with toujours, souvent and jamais.",
+    "example": "En entrée, une soupe. Comme plat, le poulet, et en dessert une glace, s'il vous plaît. Je mange souvent du riz. Je prends toujours un dessert. Je ne bois jamais de vin.",
+    "checklist": [
+      "I can read a French menu",
+      "I can order a full meal",
+      "I can say how often I do things",
+      "I can use ne… jamais and answer « si »"
+    ]
+  }
+}

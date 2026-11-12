@@ -1,0 +1,359 @@
+{
+  "dialogue": [
+    {
+      "who": "Sari",
+      "fr": "Excusez-moi, le bus pour la gare, il est déjà passé ?",
+      "en": "Excuse me, has the bus to the station already come?"
+    },
+    {
+      "who": "Un homme",
+      "fr": "Oui, il vient de partir, désolé !",
+      "en": "Yes, it has just left, sorry!"
+    },
+    {
+      "who": "Sari",
+      "fr": "Oh non ! Le prochain est à quelle heure ?",
+      "en": "Oh no! What time is the next one?"
+    },
+    {
+      "who": "Un homme",
+      "fr": "Dans vingt minutes. Sinon, prenez le métro, ligne 4. C'est plus rapide.",
+      "en": "In twenty minutes. Otherwise, take the metro, line 4. It's faster."
+    },
+    {
+      "who": "Sari",
+      "fr": "Je dois acheter un ticket ?",
+      "en": "Do I need to buy a ticket?"
+    },
+    {
+      "who": "Un homme",
+      "fr": "Oui, au guichet ou au distributeur. Vous venez d'arriver à Paris ?",
+      "en": "Yes, at the ticket office or the machine. Have you just arrived in Paris?"
+    }
+  ],
+  "words": [
+    {
+      "id": "a1-14-transports",
+      "fr": "les transports",
+      "en": "transport",
+      "gender": "m",
+      "note": "« les transports en commun » = public transport"
+    },
+    {
+      "id": "a1-14-voiture",
+      "fr": "la voiture",
+      "en": "car",
+      "gender": "f",
+      "note": "« en voiture » = by car"
+    },
+    {
+      "id": "a1-14-velo",
+      "fr": "le vélo",
+      "en": "bike",
+      "gender": "m",
+      "note": "« à vélo » = by bike"
+    },
+    {
+      "id": "a1-14-moto",
+      "fr": "la moto",
+      "en": "motorbike",
+      "gender": "f",
+      "note": "Very common in Indonesia, less in Paris!"
+    },
+    {
+      "id": "a1-14-taxi",
+      "fr": "le taxi",
+      "en": "taxi",
+      "gender": "m"
+    },
+    {
+      "id": "a1-14-tram",
+      "fr": "le tramway",
+      "en": "tram",
+      "gender": "m"
+    },
+    {
+      "id": "a1-14-ligne",
+      "fr": "la ligne",
+      "en": "line (bus, metro)",
+      "gender": "f"
+    },
+    {
+      "id": "a1-14-arret",
+      "fr": "l'arrêt de bus",
+      "en": "bus stop",
+      "gender": "m"
+    },
+    {
+      "id": "a1-14-station",
+      "fr": "la station de métro",
+      "en": "metro station",
+      "gender": "f"
+    },
+    {
+      "id": "a1-14-ticket",
+      "fr": "le ticket",
+      "en": "ticket (bus, metro)",
+      "gender": "m"
+    },
+    {
+      "id": "a1-14-guichet",
+      "fr": "le guichet",
+      "en": "ticket office, counter",
+      "gender": "m"
+    },
+    {
+      "id": "a1-14-quai",
+      "fr": "le quai",
+      "en": "platform",
+      "gender": "m"
+    },
+    {
+      "id": "a1-14-prochain",
+      "fr": "prochain / prochaine",
+      "en": "next"
+    },
+    {
+      "id": "a1-14-dernier",
+      "fr": "dernier / dernière",
+      "en": "last"
+    },
+    {
+      "id": "a1-14-en-retard",
+      "fr": "en retard",
+      "en": "late"
+    },
+    {
+      "id": "a1-14-a-l-heure",
+      "fr": "à l'heure",
+      "en": "on time"
+    },
+    {
+      "id": "a1-14-rapide",
+      "fr": "rapide",
+      "en": "fast"
+    },
+    {
+      "id": "a1-14-changer2",
+      "fr": "changer (de ligne)",
+      "en": "to change (lines)"
+    },
+    {
+      "id": "a1-14-descendre2",
+      "fr": "descendre (du bus)",
+      "en": "to get off"
+    },
+    {
+      "id": "a1-14-venir-de",
+      "fr": "venir de + infinitive",
+      "en": "to have just done",
+      "note": "« Le bus vient de partir. »"
+    }
+  ],
+  "grammar": {
+    "title": "venir de + infinitive: what just happened",
+    "intro": "To say something has just happened, French uses venir (present) + de + infinitive. It is a past, but very recent — like English « I have just… ».",
+    "table": [
+      [
+        "",
+        "venir",
+        "+ de + infinitive"
+      ],
+      [
+        "je",
+        "viens",
+        "d'arriver"
+      ],
+      [
+        "tu",
+        "viens",
+        "de manger"
+      ],
+      [
+        "il / elle",
+        "vient",
+        "de partir"
+      ],
+      [
+        "nous",
+        "venons",
+        "de finir"
+      ],
+      [
+        "vous",
+        "venez",
+        "d'acheter"
+      ],
+      [
+        "ils / elles",
+        "viennent",
+        "de sortir"
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "Le bus vient de partir.",
+        "en": "The bus has just left."
+      },
+      {
+        "fr": "Je viens d'arriver à Paris.",
+        "en": "I've just arrived in Paris."
+      },
+      {
+        "fr": "Nous venons de manger.",
+        "en": "We've just eaten."
+      }
+    ],
+    "trap": "de becomes d' before a vowel: « je viens d'arriver ». Don't confuse with venir de + place, which means to come from: « je viens de Bali ». Transport: en voiture, en bus, en métro, en train — but à pied, à vélo, à moto."
+  },
+  "sounds": {
+    "title": "b or v?",
+    "explain": "Indonesian sometimes mixes b, v and f. In French, b closes both lips; v puts your top teeth on your bottom lip.",
+    "pairs": [
+      [
+        "bas",
+        "va"
+      ],
+      [
+        "boire",
+        "voir"
+      ],
+      [
+        "bain",
+        "vin"
+      ],
+      [
+        "bol",
+        "vol"
+      ]
+    ],
+    "tip": "For v, bite your bottom lip gently and make it buzz."
+  },
+  "practice": [
+    {
+      "type": "fill",
+      "prompt": "Complete with venir.",
+      "sentence": "Le train ___ de partir.",
+      "answers": [
+        "vient"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete.",
+      "sentence": "Je viens ___ arriver.",
+      "answers": [
+        "d'"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "« Nous venons de manger » means…",
+      "options": [
+        "We're going to eat.",
+        "We've just eaten.",
+        "We come from eating."
+      ],
+      "answer": "We've just eaten."
+    },
+    {
+      "type": "choice",
+      "prompt": "By bike is…",
+      "options": [
+        "en vélo",
+        "à vélo",
+        "par vélo"
+      ],
+      "answer": "à vélo",
+      "explain": "à pied, à vélo, à moto — but en voiture, en bus."
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen and choose what you hear.",
+      "options": [
+        "boire",
+        "voir"
+      ],
+      "answer": "voir",
+      "listen": "voir"
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with en or à.",
+      "sentence": "Je vais au travail ___ métro.",
+      "answers": [
+        "en"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Ils",
+        "viennent",
+        "de",
+        "sortir"
+      ],
+      "answer": "Ils viennent de sortir"
+    },
+    {
+      "type": "choice",
+      "prompt": "« Le bus est en retard » means…",
+      "options": [
+        "The bus is late.",
+        "The bus is on time.",
+        "The bus is full."
+      ],
+      "answer": "The bus is late."
+    },
+    {
+      "type": "fill",
+      "prompt": "Translate: \"the next bus\"",
+      "sentence": "le ___ bus",
+      "answers": [
+        "prochain"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Where do you buy a ticket?",
+      "options": [
+        "au quai",
+        "au guichet",
+        "à l'arrêt"
+      ],
+      "answer": "au guichet"
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Prenez",
+        "la",
+        "ligne",
+        "quatre"
+      ],
+      "answer": "Prenez la ligne quatre"
+    },
+    {
+      "type": "choice",
+      "prompt": "In the dialogue, when is the next bus?",
+      "options": [
+        "in 4 minutes",
+        "in 20 minutes",
+        "in 2 hours"
+      ],
+      "answer": "in 20 minutes"
+    }
+  ],
+  "task": {
+    "prompt": "Explain how you go to work or to the city centre (transport, line, how long), then write 3 things that you have just done today with venir de.",
+    "example": "Je vais au travail en métro, ligne 4. Ça prend vingt minutes. Je viens de finir mon travail, je viens de prendre un café et je viens d'appeler ma mère.",
+    "checklist": [
+      "I can name 10 means of transport",
+      "I can use en / à with transport",
+      "I can say what just happened with venir de",
+      "I can buy a ticket and ask about the next bus"
+    ]
+  }
+}

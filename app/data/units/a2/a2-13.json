@@ -1,0 +1,340 @@
+{
+  "dialogue": [
+    {
+      "who": "Sari",
+      "fr": "En France, on se fait la bise pour dire bonjour ?",
+      "en": "In France, do people kiss on the cheek to say hello?"
+    },
+    {
+      "who": "Léa",
+      "fr": "Oui, entre amis. Mais au travail, on se serre la main.",
+      "en": "Yes, between friends. But at work, people shake hands."
+    },
+    {
+      "who": "Sari",
+      "fr": "Et on fait combien de bises ? Deux ?",
+      "en": "And how many kisses? Two?"
+    },
+    {
+      "who": "Léa",
+      "fr": "Ça dépend des régions ! À Paris, on en fait deux. Dans le Sud, parfois trois.",
+      "en": "It depends on the region! In Paris, people do two. In the South, sometimes three."
+    },
+    {
+      "who": "Sari",
+      "fr": "Chez nous, on salue les aînés en portant leur main au front.",
+      "en": "Back home, we greet elders by raising their hand to our forehead."
+    },
+    {
+      "who": "Léa",
+      "fr": "C'est joli ! Tiens, on sonne à la porte… On va voir ?",
+      "en": "That's lovely! Oh, someone's ringing at the door… Shall we go and see?"
+    }
+  ],
+  "words": [
+    {
+      "id": "a2-13-bise",
+      "fr": "faire la bise",
+      "en": "to kiss on the cheek (greeting)"
+    },
+    {
+      "id": "a2-13-serrer-main",
+      "fr": "se serrer la main",
+      "en": "to shake hands"
+    },
+    {
+      "id": "a2-13-saluer",
+      "fr": "saluer",
+      "en": "to greet"
+    },
+    {
+      "id": "a2-13-coutume",
+      "fr": "la coutume",
+      "en": "custom",
+      "gender": "f"
+    },
+    {
+      "id": "a2-13-politesse",
+      "fr": "la politesse",
+      "en": "politeness",
+      "gender": "f"
+    },
+    {
+      "id": "a2-13-poli",
+      "fr": "poli / polie",
+      "en": "polite"
+    },
+    {
+      "id": "a2-13-impoli",
+      "fr": "impoli / impolie",
+      "en": "rude"
+    },
+    {
+      "id": "a2-13-ca-depend",
+      "fr": "ça dépend (de)",
+      "en": "it depends (on)"
+    },
+    {
+      "id": "a2-13-region",
+      "fr": "la région",
+      "en": "region",
+      "gender": "f"
+    },
+    {
+      "id": "a2-13-le-sud",
+      "fr": "le Sud / le Nord",
+      "en": "the South / the North",
+      "gender": "m"
+    },
+    {
+      "id": "a2-13-aine",
+      "fr": "l'aîné / l'aînée",
+      "en": "elder; eldest"
+    },
+    {
+      "id": "a2-13-respect",
+      "fr": "le respect",
+      "en": "respect",
+      "gender": "m"
+    },
+    {
+      "id": "a2-13-sonner",
+      "fr": "sonner",
+      "en": "to ring"
+    },
+    {
+      "id": "a2-13-tutoyer",
+      "fr": "tutoyer",
+      "en": "to say tu to someone"
+    },
+    {
+      "id": "a2-13-vouvoyer",
+      "fr": "vouvoyer",
+      "en": "to say vous to someone"
+    },
+    {
+      "id": "a2-13-a-table",
+      "fr": "À table !",
+      "en": "Dinner's ready! (come to the table)"
+    },
+    {
+      "id": "a2-13-trinquer",
+      "fr": "trinquer",
+      "en": "to clink glasses"
+    },
+    {
+      "id": "a2-13-sante",
+      "fr": "Santé !",
+      "en": "Cheers!"
+    },
+    {
+      "id": "a2-13-bon-appetit",
+      "fr": "Bon appétit !",
+      "en": "Enjoy your meal!"
+    },
+    {
+      "id": "a2-13-habitant",
+      "fr": "l'habitant / l'habitante",
+      "en": "inhabitant"
+    }
+  ],
+  "grammar": {
+    "title": "The three meanings of on",
+    "intro": "on is everywhere in spoken French. It always takes the il / elle form of the verb, but it can mean three different things.",
+    "table": [
+      [
+        "Meaning",
+        "Example",
+        "English"
+      ],
+      [
+        "we (= nous, spoken)",
+        "On va au cinéma ce soir ?",
+        "Shall we go to the cinema tonight?"
+      ],
+      [
+        "people in general",
+        "En France, on mange tard.",
+        "In France, people eat late."
+      ],
+      [
+        "someone (unknown)",
+        "On sonne à la porte.",
+        "Someone's ringing at the door."
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "On se fait la bise entre amis.",
+        "en": "People kiss on the cheek between friends."
+      },
+      {
+        "fr": "On t'a appelée ce matin.",
+        "en": "Someone called you this morning."
+      },
+      {
+        "fr": "Tom et moi, on habite à Paris.",
+        "en": "Tom and I, we live in Paris."
+      }
+    ],
+    "trap": "Verb always in the il form: « on va », « on mange », never « on allons ». When on means « we », adjectives can agree: « on est contents ». Liaison before a vowel: « on_a », « on_est » (with a z sound)."
+  },
+  "sounds": {
+    "title": "Hearing on",
+    "explain": "on links with a z sound before a vowel: « on_a » (we have), « on_est » (we are). Compare with a consonant: « on va », « on sait ».",
+    "pairs": [
+      [
+        "on a",
+        "on va"
+      ],
+      [
+        "on est",
+        "on sait"
+      ],
+      [
+        "on arrive",
+        "on part"
+      ],
+      [
+        "on aime",
+        "on fait"
+      ]
+    ],
+    "tip": "The buzzing z is the sign of the liaison."
+  },
+  "practice": [
+    {
+      "type": "fill",
+      "prompt": "Complete with the right form (aller).",
+      "sentence": "On ___ au cinéma ?",
+      "answers": [
+        "va"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "« En France, on mange tard » — here on means…",
+      "options": [
+        "we",
+        "people in general",
+        "someone"
+      ],
+      "answer": "people in general"
+    },
+    {
+      "type": "choice",
+      "prompt": "« On sonne à la porte » — here on means…",
+      "options": [
+        "we",
+        "people in general",
+        "someone"
+      ],
+      "answer": "someone"
+    },
+    {
+      "type": "choice",
+      "prompt": "Which one is correct?",
+      "options": [
+        "On allons à la plage.",
+        "On va à la plage."
+      ],
+      "answer": "On va à la plage."
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen and choose what you hear.",
+      "options": [
+        "on est",
+        "on sait"
+      ],
+      "answer": "on est",
+      "listen": "on est"
+    },
+    {
+      "type": "choice",
+      "prompt": "« vouvoyer » means…",
+      "options": [
+        "to say vous to someone",
+        "to say tu to someone",
+        "to greet"
+      ],
+      "answer": "to say vous to someone"
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Au",
+        "travail,",
+        "on",
+        "se",
+        "serre",
+        "la",
+        "main"
+      ],
+      "answer": "Au travail, on se serre la main"
+    },
+    {
+      "type": "choice",
+      "prompt": "Before eating, French people say…",
+      "options": [
+        "Santé !",
+        "Bon appétit !",
+        "À table !"
+      ],
+      "answer": "Bon appétit !"
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with the right form (faire).",
+      "sentence": "On ___ la bise entre amis.",
+      "answers": [
+        "fait"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "« Ça dépend » means…",
+      "options": [
+        "It depends.",
+        "That's it.",
+        "It's polite."
+      ],
+      "answer": "It depends."
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Tom",
+        "et",
+        "moi,",
+        "on",
+        "habite",
+        "à",
+        "Paris"
+      ],
+      "answer": "Tom et moi, on habite à Paris"
+    },
+    {
+      "type": "choice",
+      "prompt": "In the dialogue, how many kisses do people usually do in Paris?",
+      "options": [
+        "one",
+        "two",
+        "three"
+      ],
+      "answer": "two"
+    }
+  ],
+  "task": {
+    "prompt": "Explain 3 customs from Indonesia and 3 customs from France (greetings, meals, politeness), using on.",
+    "example": "En Indonésie, on enlève ses chaussures à la maison. On mange souvent avec la main droite. On salue les aînés avec respect. En France, on se fait la bise. On dit « Bon appétit ». On mange le soir vers vingt heures.",
+    "checklist": [
+      "I can use on for « we », « people » and « someone »",
+      "I always use the il form after on",
+      "I can compare customs",
+      "I know greetings and table expressions"
+    ]
+  }
+}

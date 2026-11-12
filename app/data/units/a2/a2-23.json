@@ -1,0 +1,346 @@
+{
+  "dialogue": [
+    {
+      "who": "Sari",
+      "fr": "Allô, le service client ? Ma commande n'est toujours pas arrivée.",
+      "en": "Hello, customer service? My order still hasn't arrived."
+    },
+    {
+      "who": "L'employé",
+      "fr": "Vous avez déjà reçu un e-mail de confirmation ?",
+      "en": "Have you already received a confirmation email?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Oui, il y a dix jours. Et j'ai encore payé les frais de livraison !",
+      "en": "Yes, ten days ago. And I paid the delivery fees again!"
+    },
+    {
+      "who": "L'employé",
+      "fr": "Je vérifie… Le colis n'est pas encore parti. Il y a un problème de stock.",
+      "en": "I'm checking… The parcel hasn't left yet. There's a stock problem."
+    },
+    {
+      "who": "Sari",
+      "fr": "C'est toujours la même chose ! Je voudrais être remboursée.",
+      "en": "It's always the same thing! I'd like a refund."
+    },
+    {
+      "who": "L'employé",
+      "fr": "Je comprends. Je fais la demande tout de suite. Toutes nos excuses, madame.",
+      "en": "I understand. I'm making the request right away. Our apologies, madam."
+    }
+  ],
+  "words": [
+    {
+      "id": "a2-23-commande",
+      "fr": "la commande",
+      "en": "order",
+      "gender": "f"
+    },
+    {
+      "id": "a2-23-livraison",
+      "fr": "la livraison",
+      "en": "delivery",
+      "gender": "f"
+    },
+    {
+      "id": "a2-23-livrer",
+      "fr": "livrer",
+      "en": "to deliver"
+    },
+    {
+      "id": "a2-23-frais",
+      "fr": "les frais",
+      "en": "fees, costs",
+      "gender": "m"
+    },
+    {
+      "id": "a2-23-recevoir",
+      "fr": "recevoir",
+      "en": "to receive",
+      "note": "je reçois, j'ai reçu"
+    },
+    {
+      "id": "a2-23-verifier",
+      "fr": "vérifier",
+      "en": "to check"
+    },
+    {
+      "id": "a2-23-service-client",
+      "fr": "le service client",
+      "en": "customer service",
+      "gender": "m"
+    },
+    {
+      "id": "a2-23-se-plaindre",
+      "fr": "se plaindre",
+      "en": "to complain"
+    },
+    {
+      "id": "a2-23-reclamation",
+      "fr": "la réclamation",
+      "en": "complaint",
+      "gender": "f"
+    },
+    {
+      "id": "a2-23-excuses",
+      "fr": "les excuses",
+      "en": "apologies",
+      "gender": "f",
+      "note": "« Toutes nos excuses. »"
+    },
+    {
+      "id": "a2-23-probleme",
+      "fr": "le problème",
+      "en": "problem",
+      "gender": "m"
+    },
+    {
+      "id": "a2-23-casse",
+      "fr": "cassé / cassée",
+      "en": "broken"
+    },
+    {
+      "id": "a2-23-abime",
+      "fr": "abîmé / abîmée",
+      "en": "damaged"
+    },
+    {
+      "id": "a2-23-rembourse",
+      "fr": "être remboursé(e)",
+      "en": "to get a refund"
+    },
+    {
+      "id": "a2-23-deja3",
+      "fr": "déjà",
+      "en": "already; ever"
+    },
+    {
+      "id": "a2-23-encore",
+      "fr": "encore",
+      "en": "again; still; more"
+    },
+    {
+      "id": "a2-23-toujours2",
+      "fr": "toujours",
+      "en": "always; still"
+    },
+    {
+      "id": "a2-23-pas-encore2",
+      "fr": "pas encore",
+      "en": "not yet"
+    },
+    {
+      "id": "a2-23-meme",
+      "fr": "le / la même",
+      "en": "the same"
+    },
+    {
+      "id": "a2-23-enerve",
+      "fr": "énervé / énervée",
+      "en": "annoyed"
+    }
+  ],
+  "grammar": {
+    "title": "déjà, encore, toujours, pas encore",
+    "intro": "These little words are very common and each has two meanings. The context — and whether the sentence is negative — tells you which.",
+    "table": [
+      [
+        "Word",
+        "Meanings",
+        "Example"
+      ],
+      [
+        "déjà",
+        "already / ever",
+        "Tu as déjà mangé ? Tu es déjà allé au Japon ?"
+      ],
+      [
+        "pas encore",
+        "not yet",
+        "Il n'est pas encore arrivé."
+      ],
+      [
+        "encore",
+        "again / more / still",
+        "J'ai encore payé ! Encore un peu de café ?"
+      ],
+      [
+        "toujours",
+        "always",
+        "C'est toujours la même chose !"
+      ],
+      [
+        "toujours + pas",
+        "still not",
+        "Le colis n'est toujours pas arrivé."
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "Vous avez déjà reçu la confirmation ?",
+        "en": "Have you already received the confirmation?"
+      },
+      {
+        "fr": "Ma commande n'est toujours pas arrivée.",
+        "en": "My order still hasn't arrived."
+      },
+      {
+        "fr": "Il n'est pas encore parti.",
+        "en": "It hasn't left yet."
+      }
+    ],
+    "trap": "In the passé composé, these words go between avoir / être and the participle: « j'ai déjà mangé », « il n'est pas encore parti ». Answer to « déjà ? »: « oui, déjà » or « non, pas encore ». « toujours pas » = still not (annoyed!)."
+  },
+  "sounds": {
+    "title": "Time words in fast speech",
+    "explain": "These time words are short and fast in a sentence. Train your ear to catch them.",
+    "pairs": [
+      [
+        "toujours",
+        "tous les jours"
+      ],
+      [
+        "encore",
+        "alors"
+      ],
+      [
+        "déjà",
+        "d'accord"
+      ],
+      [
+        "pas encore",
+        "pas du tout"
+      ]
+    ],
+    "tip": "Repeat each pair slowly, then fast."
+  },
+  "practice": [
+    {
+      "type": "fill",
+      "prompt": "Complete with déjà, encore or toujours.",
+      "sentence": "Tu as ___ mangé ? — Oui, à midi.",
+      "answers": [
+        "déjà"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete.",
+      "sentence": "Non, je n'ai pas ___ mangé.",
+      "answers": [
+        "encore"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete.",
+      "sentence": "Le colis n'est ___ pas arrivé !",
+      "answers": [
+        "toujours"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "« Encore un peu de café ? » means…",
+      "options": [
+        "Still a bit of coffee?",
+        "A little more coffee?",
+        "Coffee again?"
+      ],
+      "answer": "A little more coffee?"
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen and choose what you hear.",
+      "options": [
+        "toujours",
+        "tous les jours"
+      ],
+      "answer": "tous les jours",
+      "listen": "tous les jours"
+    },
+    {
+      "type": "choice",
+      "prompt": "Where does « déjà » go?",
+      "options": [
+        "J'ai mangé déjà.",
+        "J'ai déjà mangé.",
+        "Déjà j'ai mangé."
+      ],
+      "answer": "J'ai déjà mangé."
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Il",
+        "n'est",
+        "pas",
+        "encore",
+        "parti"
+      ],
+      "answer": "Il n'est pas encore parti"
+    },
+    {
+      "type": "choice",
+      "prompt": "« la livraison » is…",
+      "options": [
+        "the delivery",
+        "the order",
+        "the refund"
+      ],
+      "answer": "the delivery"
+    },
+    {
+      "type": "choice",
+      "prompt": "« Toutes nos excuses » means…",
+      "options": [
+        "All our apologies.",
+        "All our products.",
+        "All our orders."
+      ],
+      "answer": "All our apologies."
+    },
+    {
+      "type": "fill",
+      "prompt": "Past participle of recevoir.",
+      "sentence": "J'ai ___ un e-mail.",
+      "answers": [
+        "reçu"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Je",
+        "voudrais",
+        "être",
+        "remboursée"
+      ],
+      "answer": "Je voudrais être remboursée"
+    },
+    {
+      "type": "choice",
+      "prompt": "In the dialogue, why hasn't the parcel left?",
+      "options": [
+        "the address is wrong",
+        "a stock problem",
+        "it was not paid"
+      ],
+      "answer": "a stock problem"
+    }
+  ],
+  "task": {
+    "prompt": "Write a complaint email (6 sentences): what you ordered, when, what the problem is, and what you want. Use déjà, encore, toujours pas and pas encore.",
+    "example": "Madame, Monsieur, j'ai commandé une lampe il y a deux semaines. J'ai déjà payé la livraison. Mais le colis n'est toujours pas arrivé. J'ai appelé deux fois et je n'ai pas encore de réponse. Je voudrais être remboursée. Cordialement, Sari Wulandari.",
+    "checklist": [
+      "I can use déjà, encore, toujours, pas encore",
+      "I put them in the right place in the passé composé",
+      "I can make a complaint",
+      "I know online shopping words"
+    ]
+  }
+}

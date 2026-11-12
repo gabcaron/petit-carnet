@@ -1,0 +1,344 @@
+{
+  "dialogue": [
+    {
+      "who": "Tom",
+      "fr": "J'ai faim ! On mange quand ?",
+      "en": "I'm hungry! When are we eating?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Dans dix minutes. Tu as soif ? Il y a de l'eau dans le frigo.",
+      "en": "In ten minutes. Are you thirsty? There's water in the fridge."
+    },
+    {
+      "who": "Tom",
+      "fr": "Merci. Brr, j'ai froid, tu peux fermer la fenêtre ?",
+      "en": "Thanks. Brr, I'm cold, can you close the window?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Ah non, moi j'ai chaud, je suis en train de cuisiner !",
+      "en": "Oh no, I'm hot, I'm cooking!"
+    },
+    {
+      "who": "Tom",
+      "fr": "Tu as raison. Tu as besoin d'aide ?",
+      "en": "You're right. Do you need help?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Oui, j'ai envie d'une salade. Tu peux la préparer ?",
+      "en": "Yes, I feel like a salad. Can you make it?"
+    }
+  ],
+  "words": [
+    {
+      "id": "a1-21-faim",
+      "fr": "avoir faim",
+      "en": "to be hungry"
+    },
+    {
+      "id": "a1-21-soif",
+      "fr": "avoir soif",
+      "en": "to be thirsty"
+    },
+    {
+      "id": "a1-21-chaud",
+      "fr": "avoir chaud",
+      "en": "to be hot (person)",
+      "note": "« Il fait chaud » = the weather is hot."
+    },
+    {
+      "id": "a1-21-froid",
+      "fr": "avoir froid",
+      "en": "to be cold (person)"
+    },
+    {
+      "id": "a1-21-peur",
+      "fr": "avoir peur (de)",
+      "en": "to be afraid (of)"
+    },
+    {
+      "id": "a1-21-sommeil",
+      "fr": "avoir sommeil",
+      "en": "to be sleepy"
+    },
+    {
+      "id": "a1-21-raison",
+      "fr": "avoir raison",
+      "en": "to be right"
+    },
+    {
+      "id": "a1-21-tort",
+      "fr": "avoir tort",
+      "en": "to be wrong"
+    },
+    {
+      "id": "a1-21-besoin",
+      "fr": "avoir besoin de",
+      "en": "to need"
+    },
+    {
+      "id": "a1-21-envie",
+      "fr": "avoir envie de",
+      "en": "to feel like, to want"
+    },
+    {
+      "id": "a1-21-content",
+      "fr": "content / contente",
+      "en": "happy, pleased"
+    },
+    {
+      "id": "a1-21-triste",
+      "fr": "triste",
+      "en": "sad"
+    },
+    {
+      "id": "a1-21-heureux",
+      "fr": "heureux / heureuse",
+      "en": "happy"
+    },
+    {
+      "id": "a1-21-fache",
+      "fr": "fâché / fâchée",
+      "en": "angry"
+    },
+    {
+      "id": "a1-21-stresse",
+      "fr": "stressé / stressée",
+      "en": "stressed"
+    },
+    {
+      "id": "a1-21-ennuyer",
+      "fr": "s'ennuyer",
+      "en": "to be bored",
+      "note": "« Je m'ennuie. »"
+    },
+    {
+      "id": "a1-21-frigo",
+      "fr": "le frigo",
+      "en": "fridge",
+      "gender": "m"
+    },
+    {
+      "id": "a1-21-fermer",
+      "fr": "fermer",
+      "en": "to close"
+    },
+    {
+      "id": "a1-21-ouvrir2",
+      "fr": "ouvrir",
+      "en": "to open",
+      "note": "j'ouvre, tu ouvres (like an -er verb)"
+    },
+    {
+      "id": "a1-21-aide",
+      "fr": "l'aide",
+      "en": "help",
+      "gender": "f"
+    }
+  ],
+  "grammar": {
+    "title": "Feelings with avoir",
+    "intro": "English says « I am hungry, I am cold, I am right ». French says « I have hunger, I have cold »: these expressions use avoir, never être.",
+    "table": [
+      [
+        "English",
+        "French",
+        "Example"
+      ],
+      [
+        "to be hungry / thirsty",
+        "avoir faim / soif",
+        "J'ai faim."
+      ],
+      [
+        "to be hot / cold",
+        "avoir chaud / froid",
+        "Tu as froid ?"
+      ],
+      [
+        "to be afraid of",
+        "avoir peur de",
+        "Elle a peur des chiens."
+      ],
+      [
+        "to be right / wrong",
+        "avoir raison / tort",
+        "Tu as raison !"
+      ],
+      [
+        "to need",
+        "avoir besoin de",
+        "J'ai besoin d'aide."
+      ],
+      [
+        "to feel like",
+        "avoir envie de",
+        "J'ai envie d'une glace."
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "J'ai faim, on mange ?",
+        "en": "I'm hungry, shall we eat?"
+      },
+      {
+        "fr": "Tu as besoin d'aide ?",
+        "en": "Do you need help?"
+      },
+      {
+        "fr": "J'ai envie de dormir.",
+        "en": "I feel like sleeping."
+      }
+    ],
+    "trap": "Never « je suis faim » or « je suis chaud » (that means something rude!). Careful: « il fait chaud » is the weather, « j'ai chaud » is you. avoir besoin de / envie de can be followed by a noun or a verb: « j'ai envie d'un café », « j'ai envie de partir »."
+  },
+  "sounds": {
+    "title": "un or une?",
+    "explain": "« un » is a nasal sound (often said like « in » today). « une » loses the nasal: you hear the n clearly.",
+    "pairs": [
+      [
+        "un",
+        "une"
+      ],
+      [
+        "aucun",
+        "aucune"
+      ],
+      [
+        "chacun",
+        "chacune"
+      ],
+      [
+        "commun",
+        "commune"
+      ]
+    ],
+    "tip": "For une, close your mouth on the n."
+  },
+  "practice": [
+    {
+      "type": "fill",
+      "prompt": "Complete with avoir.",
+      "sentence": "J'___ faim !",
+      "answers": [
+        "ai"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "\"I'm cold\" is…",
+      "options": [
+        "Je suis froid.",
+        "J'ai froid.",
+        "Il fait froid."
+      ],
+      "answer": "J'ai froid."
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete.",
+      "sentence": "Tu as besoin ___ aide ?",
+      "answers": [
+        "d'"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "« Tu as raison » means…",
+      "options": [
+        "You're right.",
+        "You're wrong.",
+        "You're hungry."
+      ],
+      "answer": "You're right."
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen and choose what you hear.",
+      "options": [
+        "un",
+        "une"
+      ],
+      "answer": "une",
+      "listen": "une"
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with avoir.",
+      "sentence": "Elle ___ peur des chiens.",
+      "answers": [
+        "a"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "J'ai",
+        "envie",
+        "d'une",
+        "glace"
+      ],
+      "answer": "J'ai envie d'une glace"
+    },
+    {
+      "type": "choice",
+      "prompt": "The weather is hot:",
+      "options": [
+        "J'ai chaud.",
+        "Il fait chaud."
+      ],
+      "answer": "Il fait chaud."
+    },
+    {
+      "type": "fill",
+      "prompt": "Translate: \"sad\"",
+      "sentence": "Je suis ___.",
+      "answers": [
+        "triste"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "« Je m'ennuie » means…",
+      "options": [
+        "I'm bored.",
+        "I'm angry.",
+        "I'm sleepy."
+      ],
+      "answer": "I'm bored."
+    },
+    {
+      "type": "order",
+      "prompt": "Make the question.",
+      "words": [
+        "Tu",
+        "as",
+        "soif"
+      ],
+      "answer": "Tu as soif"
+    },
+    {
+      "type": "choice",
+      "prompt": "In the dialogue, why is Sari hot?",
+      "options": [
+        "she is ill",
+        "she is cooking",
+        "the window is closed"
+      ],
+      "answer": "she is cooking"
+    }
+  ],
+  "task": {
+    "prompt": "Write 6 sentences about how you feel today and what you need or feel like doing, using at least 4 expressions with avoir.",
+    "example": "Aujourd'hui, j'ai sommeil parce que je travaille beaucoup. J'ai faim, j'ai envie d'un nasi goreng ! J'ai un peu froid. J'ai besoin de vacances. Je suis contente parce que c'est vendredi !",
+    "checklist": [
+      "I can say I am hungry, thirsty, hot or cold",
+      "I use avoir, not être, in these expressions",
+      "I can say what I need and what I feel like",
+      "I can name 5 feelings"
+    ]
+  }
+}

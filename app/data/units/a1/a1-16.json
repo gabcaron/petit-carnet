@@ -1,0 +1,358 @@
+{
+  "dialogue": [
+    {
+      "who": "Léa",
+      "fr": "Tu commences à quelle heure le matin ?",
+      "en": "What time do you start in the morning?"
+    },
+    {
+      "who": "Sari",
+      "fr": "À sept heures. Je travaille à l'hôpital, je suis infirmière de jour.",
+      "en": "At seven. I work at the hospital, I'm a day nurse."
+    },
+    {
+      "who": "Léa",
+      "fr": "Et tu finis tard ?",
+      "en": "And do you finish late?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Je finis à quinze heures. Mon équipe est super.",
+      "en": "I finish at 3 pm. My team is great."
+    },
+    {
+      "who": "Léa",
+      "fr": "Moi, je choisis mes horaires : je travaille à la maison.",
+      "en": "Me, I choose my hours: I work from home."
+    },
+    {
+      "who": "Sari",
+      "fr": "La chance ! Mais tu ne vois jamais tes collègues ?",
+      "en": "Lucky you! But don't you ever see your colleagues?"
+    }
+  ],
+  "words": [
+    {
+      "id": "a1-16-entreprise",
+      "fr": "l'entreprise",
+      "en": "company",
+      "gender": "f"
+    },
+    {
+      "id": "a1-16-bureau",
+      "fr": "le bureau",
+      "en": "office; desk",
+      "gender": "m"
+    },
+    {
+      "id": "a1-16-collegue",
+      "fr": "le / la collègue",
+      "en": "colleague"
+    },
+    {
+      "id": "a1-16-chef",
+      "fr": "le / la chef",
+      "en": "boss",
+      "note": "Also: le patron / la patronne."
+    },
+    {
+      "id": "a1-16-equipe",
+      "fr": "l'équipe",
+      "en": "team",
+      "gender": "f"
+    },
+    {
+      "id": "a1-16-reunion",
+      "fr": "la réunion",
+      "en": "meeting",
+      "gender": "f"
+    },
+    {
+      "id": "a1-16-horaires",
+      "fr": "les horaires",
+      "en": "working hours, timetable",
+      "gender": "m"
+    },
+    {
+      "id": "a1-16-salaire",
+      "fr": "le salaire",
+      "en": "salary",
+      "gender": "m"
+    },
+    {
+      "id": "a1-16-conge",
+      "fr": "le congé",
+      "en": "day off, leave",
+      "gender": "m",
+      "note": "« Je suis en congé. »"
+    },
+    {
+      "id": "a1-16-ordinateur",
+      "fr": "l'ordinateur",
+      "en": "computer",
+      "gender": "m"
+    },
+    {
+      "id": "a1-16-teletravail",
+      "fr": "le télétravail",
+      "en": "working from home",
+      "gender": "m"
+    },
+    {
+      "id": "a1-16-finir2",
+      "fr": "finir",
+      "en": "to finish",
+      "note": "2nd group: je finis, nous finissons."
+    },
+    {
+      "id": "a1-16-choisir2",
+      "fr": "choisir",
+      "en": "to choose",
+      "note": "2nd group: je choisis, nous choisissons."
+    },
+    {
+      "id": "a1-16-reussir",
+      "fr": "réussir",
+      "en": "to succeed, to pass (an exam)",
+      "note": "2nd group."
+    },
+    {
+      "id": "a1-16-reflechir",
+      "fr": "réfléchir",
+      "en": "to think, to think it over",
+      "note": "2nd group."
+    },
+    {
+      "id": "a1-16-vendeur",
+      "fr": "vendeur / vendeuse",
+      "en": "shop assistant"
+    },
+    {
+      "id": "a1-16-cuisinier",
+      "fr": "cuisinier / cuisinière",
+      "en": "cook, chef"
+    },
+    {
+      "id": "a1-16-avocat",
+      "fr": "avocat / avocate",
+      "en": "lawyer"
+    },
+    {
+      "id": "a1-16-metier",
+      "fr": "le métier",
+      "en": "job, trade",
+      "gender": "m",
+      "note": "« Quel est ton métier ? »"
+    },
+    {
+      "id": "a1-16-plein-temps",
+      "fr": "à plein temps / à temps partiel",
+      "en": "full-time / part-time"
+    }
+  ],
+  "grammar": {
+    "title": "Verbs in -ir like finir (2nd group)",
+    "intro": "Verbs of the 2nd group end in -ir and add -iss- in the plural. They are all regular: learn finir and you know choisir, réussir, réfléchir, grandir…",
+    "table": [
+      [
+        "",
+        "finir",
+        "choisir"
+      ],
+      [
+        "je",
+        "finis",
+        "choisis"
+      ],
+      [
+        "tu",
+        "finis",
+        "choisis"
+      ],
+      [
+        "il / elle",
+        "finit",
+        "choisit"
+      ],
+      [
+        "nous",
+        "finissons",
+        "choisissons"
+      ],
+      [
+        "vous",
+        "finissez",
+        "choisissez"
+      ],
+      [
+        "ils / elles",
+        "finissent",
+        "choisissent"
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "Je finis à quinze heures.",
+        "en": "I finish at 3 pm."
+      },
+      {
+        "fr": "Nous choisissons nos horaires.",
+        "en": "We choose our hours."
+      },
+      {
+        "fr": "Tu réfléchis trop !",
+        "en": "You think too much!"
+      }
+    ],
+    "trap": "finis, finis, finit all sound the same. In the plural you hear -iss-: « ils finissent ». Not every -ir verb works like this: partir, sortir, dormir and venir are irregular (nous partons, not « partissons »)."
+  },
+  "sounds": {
+    "title": "t or d?",
+    "explain": "Like p / b: t is crisp, d vibrates. At the end of a word, French pronounces them clearly when they are followed by -e: « verte », « grande ».",
+    "pairs": [
+      [
+        "tout",
+        "doux"
+      ],
+      [
+        "ton",
+        "don"
+      ],
+      [
+        "temps",
+        "dent"
+      ],
+      [
+        "thé",
+        "dé"
+      ]
+    ],
+    "tip": "Put your hand on your throat: d buzzes, t does not."
+  },
+  "practice": [
+    {
+      "type": "fill",
+      "prompt": "Complete with finir.",
+      "sentence": "Je ___ à cinq heures.",
+      "answers": [
+        "finis"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with finir.",
+      "sentence": "Nous ___ le travail.",
+      "answers": [
+        "finissons"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with choisir.",
+      "sentence": "Vous ___ le menu ?",
+      "answers": [
+        "choisissez"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Which verb is NOT like finir?",
+      "options": [
+        "choisir",
+        "réussir",
+        "partir"
+      ],
+      "answer": "partir",
+      "explain": "nous partons — no -iss-."
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen and choose what you hear.",
+      "options": [
+        "tout",
+        "doux"
+      ],
+      "answer": "doux",
+      "listen": "doux"
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with réussir.",
+      "sentence": "Ils ___ toujours leurs examens.",
+      "answers": [
+        "réussissent"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Je",
+        "travaille",
+        "dans",
+        "une",
+        "entreprise"
+      ],
+      "answer": "Je travaille dans une entreprise"
+    },
+    {
+      "type": "choice",
+      "prompt": "« Je suis en congé » means…",
+      "options": [
+        "I'm on leave.",
+        "I'm at a meeting.",
+        "I'm at the office."
+      ],
+      "answer": "I'm on leave."
+    },
+    {
+      "type": "choice",
+      "prompt": "« le télétravail » is…",
+      "options": [
+        "a phone call",
+        "working from home",
+        "a part-time job"
+      ],
+      "answer": "working from home"
+    },
+    {
+      "type": "fill",
+      "prompt": "Translate: \"my colleagues\"",
+      "sentence": "mes ___",
+      "answers": [
+        "collègues"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt": "Make the question.",
+      "words": [
+        "Quel",
+        "est",
+        "ton",
+        "métier"
+      ],
+      "answer": "Quel est ton métier"
+    },
+    {
+      "type": "choice",
+      "prompt": "In the dialogue, what time does Sari finish?",
+      "options": [
+        "at 7 am",
+        "at 3 pm",
+        "at 5 pm"
+      ],
+      "answer": "at 3 pm"
+    }
+  ],
+  "task": {
+    "prompt": "Describe your job or the job you want (6 sentences): where, with whom, your hours, what you like and don't like. Use finir and choisir.",
+    "example": "Je suis infirmière dans un hôpital. Je commence à sept heures et je finis à quinze heures. Mes collègues sont très sympas. Je ne choisis pas mes horaires. J'aime mon métier, mais le salaire est petit.",
+    "checklist": [
+      "I can talk about my job",
+      "I can conjugate finir and choisir",
+      "I can say my working hours",
+      "I know 10 words about work"
+    ]
+  }
+}

@@ -1,0 +1,342 @@
+{
+  "dialogue": [
+    {
+      "who": "Léa",
+      "fr": "Bon, tout le monde est là ? On peut commencer !",
+      "en": "Right, is everyone here? We can start!"
+    },
+    {
+      "who": "Sari",
+      "fr": "Pas encore, Tom arrive. J'ai apporté tous les gâteaux.",
+      "en": "Not yet, Tom's on his way. I've brought all the cakes."
+    },
+    {
+      "who": "Léa",
+      "fr": "Tous ? Tu as fait toute la nuit en cuisine ?",
+      "en": "All of them? Did you spend the whole night in the kitchen?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Presque ! Toutes mes collègues m'ont aidée.",
+      "en": "Almost! All my colleagues helped me."
+    },
+    {
+      "who": "Léa",
+      "fr": "Tout est parfait. Merci pour tout !",
+      "en": "Everything is perfect. Thanks for everything!"
+    },
+    {
+      "who": "Sari",
+      "fr": "De rien. On fait ça tous les ans, c'est la tradition !",
+      "en": "You're welcome. We do it every year, it's tradition!"
+    }
+  ],
+  "words": [
+    {
+      "id": "a2-11-tout-le-monde2",
+      "fr": "tout le monde",
+      "en": "everybody",
+      "note": "Singular verb: « tout le monde est là »."
+    },
+    {
+      "id": "a2-11-tout",
+      "fr": "tout",
+      "en": "everything; all"
+    },
+    {
+      "id": "a2-11-tous-les-jours",
+      "fr": "tous les jours",
+      "en": "every day"
+    },
+    {
+      "id": "a2-11-toute-la-journee",
+      "fr": "toute la journée",
+      "en": "all day long"
+    },
+    {
+      "id": "a2-11-tous-les-deux",
+      "fr": "tous les deux",
+      "en": "both"
+    },
+    {
+      "id": "a2-11-tout-de-suite",
+      "fr": "tout de suite",
+      "en": "right away"
+    },
+    {
+      "id": "a2-11-tout-a-fait",
+      "fr": "tout à fait",
+      "en": "absolutely, exactly"
+    },
+    {
+      "id": "a2-11-pas-du-tout",
+      "fr": "pas du tout",
+      "en": "not at all"
+    },
+    {
+      "id": "a2-11-merci-pour-tout",
+      "fr": "merci pour tout",
+      "en": "thanks for everything"
+    },
+    {
+      "id": "a2-11-presque",
+      "fr": "presque",
+      "en": "almost"
+    },
+    {
+      "id": "a2-11-apporter",
+      "fr": "apporter",
+      "en": "to bring (a thing)"
+    },
+    {
+      "id": "a2-11-amener",
+      "fr": "amener",
+      "en": "to bring (a person)"
+    },
+    {
+      "id": "a2-11-organiser",
+      "fr": "organiser",
+      "en": "to organise"
+    },
+    {
+      "id": "a2-11-decorer",
+      "fr": "décorer",
+      "en": "to decorate"
+    },
+    {
+      "id": "a2-11-invite2",
+      "fr": "l'invité / l'invitée",
+      "en": "guest"
+    },
+    {
+      "id": "a2-11-tradition",
+      "fr": "la tradition",
+      "en": "tradition",
+      "gender": "f"
+    },
+    {
+      "id": "a2-11-ensemble2",
+      "fr": "l'ensemble",
+      "en": "the whole, all of it",
+      "gender": "m"
+    },
+    {
+      "id": "a2-11-parfait",
+      "fr": "parfait / parfaite",
+      "en": "perfect"
+    },
+    {
+      "id": "a2-11-de-rien",
+      "fr": "de rien",
+      "en": "you're welcome"
+    },
+    {
+      "id": "a2-11-chacun",
+      "fr": "chacun / chacune",
+      "en": "each one"
+    }
+  ],
+  "grammar": {
+    "title": "tout, toute, tous, toutes",
+    "intro": "tout means all / every / everything. Before a noun, it agrees like an adjective and is followed by le, la, les, mon, ce…",
+    "table": [
+      [
+        "",
+        "Form",
+        "Example"
+      ],
+      [
+        "masc. singular",
+        "tout",
+        "tout le temps, tout le monde"
+      ],
+      [
+        "fem. singular",
+        "toute",
+        "toute la journée"
+      ],
+      [
+        "masc. plural",
+        "tous",
+        "tous les jours, tous mes amis"
+      ],
+      [
+        "fem. plural",
+        "toutes",
+        "toutes les semaines"
+      ],
+      [
+        "alone = everything",
+        "tout",
+        "Tout est parfait."
+      ],
+      [
+        "alone = all of them",
+        "tous / toutes",
+        "Ils sont tous là."
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "Je travaille tous les jours.",
+        "en": "I work every day."
+      },
+      {
+        "fr": "Elle a dormi toute la journée.",
+        "en": "She slept all day long."
+      },
+      {
+        "fr": "Mes amis sont tous venus.",
+        "en": "My friends all came."
+      }
+    ],
+    "trap": "« tous » is pronounced « tou » before a noun (tous les jours), but « touss » when it is alone (ils sont tous là). « tout le monde » = everybody, with a singular verb: « tout le monde est content »."
+  },
+  "sounds": {
+    "title": "tout, toute, tous",
+    "explain": "« tout » ends in a vowel sound, « toute » ends with a clear t. « tous » alone sounds « touss ».",
+    "pairs": [
+      [
+        "tout",
+        "toute"
+      ],
+      [
+        "tous les jours",
+        "ils sont tous là"
+      ],
+      [
+        "tous",
+        "toutes"
+      ],
+      [
+        "tout le monde",
+        "toute la classe"
+      ]
+    ],
+    "tip": "Listen for the final t or s sound."
+  },
+  "practice": [
+    {
+      "type": "fill",
+      "prompt": "Complete with tout, toute, tous or toutes.",
+      "sentence": "Je travaille ___ les jours.",
+      "answers": [
+        "tous"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with tout, toute, tous or toutes.",
+      "sentence": "Elle a dormi ___ la journée.",
+      "answers": [
+        "toute"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with tout, toute, tous or toutes.",
+      "sentence": "___ le monde est là.",
+      "answers": [
+        "tout"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with tout, toute, tous or toutes.",
+      "sentence": "Je vais à la piscine ___ les semaines.",
+      "answers": [
+        "toutes"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen and choose what you hear.",
+      "options": [
+        "tout",
+        "toute"
+      ],
+      "answer": "toute",
+      "listen": "toute"
+    },
+    {
+      "type": "choice",
+      "prompt": "« tout de suite » means…",
+      "options": [
+        "right away",
+        "all the time",
+        "all together"
+      ],
+      "answer": "right away"
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Tout",
+        "est",
+        "parfait"
+      ],
+      "answer": "Tout est parfait"
+    },
+    {
+      "type": "choice",
+      "prompt": "\"Everybody is happy\" is…",
+      "options": [
+        "Tout le monde sont contents.",
+        "Tout le monde est content.",
+        "Tous le monde est content."
+      ],
+      "answer": "Tout le monde est content."
+    },
+    {
+      "type": "choice",
+      "prompt": "« pas du tout » means…",
+      "options": [
+        "not yet",
+        "not at all",
+        "not any more"
+      ],
+      "answer": "not at all"
+    },
+    {
+      "type": "fill",
+      "prompt": "Translate: \"both\"",
+      "sentence": "tous les ___",
+      "answers": [
+        "deux"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Mes",
+        "amis",
+        "sont",
+        "tous",
+        "venus"
+      ],
+      "answer": "Mes amis sont tous venus"
+    },
+    {
+      "type": "choice",
+      "prompt": "In the dialogue, who helped Sari?",
+      "options": [
+        "Tom",
+        "all her colleagues",
+        "Léa"
+      ],
+      "answer": "all her colleagues"
+    }
+  ],
+  "task": {
+    "prompt": "Describe a celebration you love (6 sentences) using tout, toute, tous and toutes at least once each.",
+    "example": "Pour l'Aïd, toute la famille vient chez mes grands-parents. Tous mes cousins sont là. On cuisine toute la journée. Toutes les femmes préparent les plats. Tout le monde mange ensemble. C'est le meilleur jour de l'année !",
+    "checklist": [
+      "I can use tout, toute, tous, toutes",
+      "I know tout le monde, tous les jours, toute la journée",
+      "I can pronounce tous alone and before a noun",
+      "I can talk about a celebration"
+    ]
+  }
+}

@@ -1,0 +1,341 @@
+{
+  "dialogue": [
+    {
+      "who": "Léa",
+      "fr": "Chez toi, on fête Noël comme ici ?",
+      "en": "Back home, do you celebrate Christmas like here?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Pas vraiment. En Indonésie, il y a moins de chrétiens qu'en France, mais il y a autant de décorations dans les centres commerciaux !",
+      "en": "Not really. In Indonesia there are fewer Christians than in France, but there are as many decorations in the shopping malls!"
+    },
+    {
+      "who": "Léa",
+      "fr": "Et pour l'Aïd, vous mangez plus qu'à Noël ?",
+      "en": "And for Eid, do you eat more than at Christmas?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Beaucoup plus ! On rend visite à plus de gens, et on mange partout.",
+      "en": "Much more! We visit more people, and we eat everywhere."
+    },
+    {
+      "who": "Léa",
+      "fr": "Et qui cuisine le mieux, ta mère ou ta grand-mère ?",
+      "en": "And who cooks the best, your mother or your grandmother?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Ma grand-mère, bien sûr ! Elle cuisine mieux que tout le monde.",
+      "en": "My grandmother, of course! She cooks better than everyone."
+    }
+  ],
+  "words": [
+    {
+      "id": "a2-19-fete-religieuse",
+      "fr": "la fête religieuse",
+      "en": "religious holiday",
+      "gender": "f"
+    },
+    {
+      "id": "a2-19-aid",
+      "fr": "l'Aïd",
+      "en": "Eid"
+    },
+    {
+      "id": "a2-19-ramadan",
+      "fr": "le ramadan",
+      "en": "Ramadan",
+      "gender": "m"
+    },
+    {
+      "id": "a2-19-paques",
+      "fr": "Pâques",
+      "en": "Easter"
+    },
+    {
+      "id": "a2-19-jour-ferie",
+      "fr": "le jour férié",
+      "en": "public holiday",
+      "gender": "m"
+    },
+    {
+      "id": "a2-19-decoration",
+      "fr": "la décoration",
+      "en": "decoration",
+      "gender": "f"
+    },
+    {
+      "id": "a2-19-sapin",
+      "fr": "le sapin de Noël",
+      "en": "Christmas tree",
+      "gender": "m"
+    },
+    {
+      "id": "a2-19-feux-artifice",
+      "fr": "le feu d'artifice",
+      "en": "fireworks",
+      "gender": "m"
+    },
+    {
+      "id": "a2-19-defile",
+      "fr": "le défilé",
+      "en": "parade",
+      "gender": "m"
+    },
+    {
+      "id": "a2-19-rendre-visite",
+      "fr": "rendre visite à",
+      "en": "to visit (a person)"
+    },
+    {
+      "id": "a2-19-centre-commercial",
+      "fr": "le centre commercial",
+      "en": "shopping mall",
+      "gender": "m"
+    },
+    {
+      "id": "a2-19-partout",
+      "fr": "partout",
+      "en": "everywhere"
+    },
+    {
+      "id": "a2-19-plus-de",
+      "fr": "plus de + nom",
+      "en": "more (+ noun)"
+    },
+    {
+      "id": "a2-19-moins-de",
+      "fr": "moins de + nom",
+      "en": "fewer, less (+ noun)"
+    },
+    {
+      "id": "a2-19-autant-de",
+      "fr": "autant de + nom",
+      "en": "as much / as many (+ noun)"
+    },
+    {
+      "id": "a2-19-autant-que",
+      "fr": "verbe + autant que",
+      "en": "(do) as much as"
+    },
+    {
+      "id": "a2-19-mieux2",
+      "fr": "mieux",
+      "en": "better (adverb)"
+    },
+    {
+      "id": "a2-19-le-mieux",
+      "fr": "le mieux",
+      "en": "the best (adverb)"
+    },
+    {
+      "id": "a2-19-celebrer",
+      "fr": "célébrer",
+      "en": "to celebrate"
+    },
+    {
+      "id": "a2-19-chretien",
+      "fr": "chrétien / chrétienne",
+      "en": "Christian"
+    }
+  ],
+  "grammar": {
+    "title": "Comparing quantities and actions",
+    "intro": "At A2 unit 3 you compared adjectives (plus grand que). To compare quantities, add de + noun. To compare actions, put plus / moins / autant after the verb.",
+    "table": [
+      [
+        "Compare",
+        "Structure",
+        "Example"
+      ],
+      [
+        "quantities",
+        "plus de / moins de / autant de + noun + que",
+        "Il y a moins de chrétiens qu'en France."
+      ],
+      [
+        "actions",
+        "verb + plus / moins / autant + que",
+        "On mange plus qu'à Noël."
+      ],
+      [
+        "how well",
+        "verb + mieux / moins bien + que",
+        "Elle cuisine mieux que moi."
+      ],
+      [
+        "the most",
+        "verb + le plus / le mieux",
+        "C'est elle qui cuisine le mieux."
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "Il y a autant de décorations qu'en France.",
+        "en": "There are as many decorations as in France."
+      },
+      {
+        "fr": "On rend visite à plus de gens.",
+        "en": "We visit more people."
+      },
+      {
+        "fr": "Ma grand-mère cuisine mieux que tout le monde.",
+        "en": "My grandmother cooks better than everyone."
+      }
+    ],
+    "trap": "autant (as much) is for actions and quantities; aussi (as) is for adjectives: « aussi grand que » but « autant de gens que ». mieux is the adverb of bien: « elle chante mieux » (never « plus bien »). After a stressed pronoun: « mieux que moi »."
+  },
+  "sounds": {
+    "title": "Hearing the liaison in plurals",
+    "explain": "In the plural, les / des / mes link to a word starting with a vowel with a z sound: « les_enfants ». No liaison before a consonant.",
+    "pairs": [
+      [
+        "les enfants",
+        "les parents"
+      ],
+      [
+        "des amis",
+        "des copains"
+      ],
+      [
+        "mes oncles",
+        "mes tantes"
+      ],
+      [
+        "nos invités",
+        "nos voisins"
+      ]
+    ],
+    "tip": "The buzzing z tells you the next word starts with a vowel."
+  },
+  "practice": [
+    {
+      "type": "fill",
+      "prompt": "Complete with plus de, moins de or autant de.",
+      "sentence": "Il y a ___ touristes en été qu'en hiver. (more)",
+      "answers": [
+        "plus de"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with plus de, moins de or autant de.",
+      "sentence": "J'ai ___ temps qu'avant. (less)",
+      "answers": [
+        "moins de"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with mieux or meilleur.",
+      "sentence": "Elle cuisine ___ que moi.",
+      "answers": [
+        "mieux"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "\"As many people\" is…",
+      "options": [
+        "aussi de gens",
+        "autant de gens",
+        "autant gens"
+      ],
+      "answer": "autant de gens"
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen and choose what you hear.",
+      "options": [
+        "des amis",
+        "des copains"
+      ],
+      "answer": "des amis",
+      "listen": "des amis"
+    },
+    {
+      "type": "choice",
+      "prompt": "Which one is correct?",
+      "options": [
+        "Il chante plus bien.",
+        "Il chante mieux."
+      ],
+      "answer": "Il chante mieux."
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "On",
+        "mange",
+        "plus",
+        "qu'à",
+        "Noël"
+      ],
+      "answer": "On mange plus qu'à Noël"
+    },
+    {
+      "type": "choice",
+      "prompt": "« un jour férié » is…",
+      "options": [
+        "a public holiday",
+        "a birthday",
+        "a weekend"
+      ],
+      "answer": "a public holiday"
+    },
+    {
+      "type": "choice",
+      "prompt": "« rendre visite à ma tante » means…",
+      "options": [
+        "to visit my aunt",
+        "to give back to my aunt",
+        "to call my aunt"
+      ],
+      "answer": "to visit my aunt"
+    },
+    {
+      "type": "fill",
+      "prompt": "Translate: \"everywhere\"",
+      "sentence": "___",
+      "answers": [
+        "partout"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "C'est",
+        "elle",
+        "qui",
+        "cuisine",
+        "le",
+        "mieux"
+      ],
+      "answer": "C'est elle qui cuisine le mieux"
+    },
+    {
+      "type": "choice",
+      "prompt": "In the dialogue, who cooks the best?",
+      "options": [
+        "Sari",
+        "Sari's mother",
+        "Sari's grandmother"
+      ],
+      "answer": "Sari's grandmother"
+    }
+  ],
+  "task": {
+    "prompt": "Compare a celebration in Indonesia and in France (6 sentences) using plus de, moins de, autant de, mieux and le plus.",
+    "example": "Pour l'Aïd, on mange plus qu'à Noël. Il y a plus de gens à la maison. En France, il y a moins de jours fériés qu'en Indonésie. Il y a autant de cadeaux. Ma mère cuisine mieux que moi. C'est la fête que j'aime le plus !",
+    "checklist": [
+      "I can compare quantities with plus de / moins de / autant de",
+      "I can compare actions with plus / moins / autant",
+      "I can use mieux and le mieux",
+      "I can talk about celebrations"
+    ]
+  }
+}

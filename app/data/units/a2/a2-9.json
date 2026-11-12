@@ -1,0 +1,346 @@
+{
+  "dialogue": [
+    {
+      "who": "Tom",
+      "fr": "Il n'y a plus de lait dans le frigo ?",
+      "en": "Is there no more milk in the fridge?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Non, plus rien. Et je n'ai pas encore fait les courses.",
+      "en": "No, nothing left. And I haven't done the shopping yet."
+    },
+    {
+      "who": "Tom",
+      "fr": "Tu as appelé quelqu'un pour la machine à laver ?",
+      "en": "Did you call someone about the washing machine?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Oui, mais personne n'a répondu. Elle ne marche plus depuis lundi !",
+      "en": "Yes, but nobody answered. It hasn't worked since Monday!"
+    },
+    {
+      "who": "Tom",
+      "fr": "Et ton ordinateur ? Tu ne travailles plus le soir ?",
+      "en": "And your computer? You don't work in the evenings any more?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Non, je ne fais plus rien après vingt heures. C'est ma bonne résolution !",
+      "en": "No, I don't do anything after 8 pm any more. That's my good resolution!"
+    }
+  ],
+  "words": [
+    {
+      "id": "a2-9-ne-plus",
+      "fr": "ne… plus",
+      "en": "not any more, no longer"
+    },
+    {
+      "id": "a2-9-ne-rien",
+      "fr": "ne… rien",
+      "en": "nothing, not anything"
+    },
+    {
+      "id": "a2-9-ne-personne",
+      "fr": "ne… personne",
+      "en": "nobody, not anyone"
+    },
+    {
+      "id": "a2-9-ne-jamais",
+      "fr": "ne… jamais",
+      "en": "never"
+    },
+    {
+      "id": "a2-9-pas-encore",
+      "fr": "ne… pas encore",
+      "en": "not yet"
+    },
+    {
+      "id": "a2-9-quelque-chose",
+      "fr": "quelque chose",
+      "en": "something"
+    },
+    {
+      "id": "a2-9-quelqu-un2",
+      "fr": "quelqu'un",
+      "en": "someone"
+    },
+    {
+      "id": "a2-9-nulle-part",
+      "fr": "nulle part",
+      "en": "nowhere"
+    },
+    {
+      "id": "a2-9-quelque-part",
+      "fr": "quelque part",
+      "en": "somewhere"
+    },
+    {
+      "id": "a2-9-lait",
+      "fr": "le lait",
+      "en": "milk",
+      "gender": "m"
+    },
+    {
+      "id": "a2-9-machine-laver",
+      "fr": "la machine à laver",
+      "en": "washing machine",
+      "gender": "f"
+    },
+    {
+      "id": "a2-9-marcher",
+      "fr": "marcher",
+      "en": "to work (machine); to walk",
+      "note": "« Ça ne marche pas. » = It doesn't work."
+    },
+    {
+      "id": "a2-9-en-panne",
+      "fr": "en panne",
+      "en": "broken down, out of order"
+    },
+    {
+      "id": "a2-9-reparer",
+      "fr": "réparer",
+      "en": "to repair"
+    },
+    {
+      "id": "a2-9-fumer",
+      "fr": "fumer",
+      "en": "to smoke"
+    },
+    {
+      "id": "a2-9-arreter",
+      "fr": "arrêter",
+      "en": "to stop"
+    },
+    {
+      "id": "a2-9-changer3",
+      "fr": "changer",
+      "en": "to change"
+    },
+    {
+      "id": "a2-9-habitude",
+      "fr": "l'habitude",
+      "en": "habit",
+      "gender": "f"
+    },
+    {
+      "id": "a2-9-resolution",
+      "fr": "la résolution",
+      "en": "resolution",
+      "gender": "f"
+    },
+    {
+      "id": "a2-9-vide",
+      "fr": "vide",
+      "en": "empty"
+    }
+  ],
+  "grammar": {
+    "title": "Negations: ne… plus, ne… rien, ne… personne",
+    "intro": "At A1 you learned ne… pas and ne… jamais. They all work the same way: ne before the verb, the second word after it.",
+    "table": [
+      [
+        "Negation",
+        "Meaning",
+        "Example"
+      ],
+      [
+        "ne… pas",
+        "not",
+        "Je ne fume pas."
+      ],
+      [
+        "ne… plus",
+        "not any more",
+        "Je ne fume plus."
+      ],
+      [
+        "ne… jamais",
+        "never",
+        "Je ne fume jamais."
+      ],
+      [
+        "ne… rien",
+        "nothing",
+        "Je ne mange rien."
+      ],
+      [
+        "ne… personne",
+        "nobody",
+        "Je ne vois personne."
+      ],
+      [
+        "ne… pas encore",
+        "not yet",
+        "Je n'ai pas encore mangé."
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "Il n'y a plus de lait.",
+        "en": "There's no more milk."
+      },
+      {
+        "fr": "Je n'ai rien compris.",
+        "en": "I didn't understand anything."
+      },
+      {
+        "fr": "Personne n'a répondu.",
+        "en": "Nobody answered."
+      }
+    ],
+    "trap": "In the passé composé, plus / rien / jamais go before the participle (« je n'ai rien mangé »), but personne goes after it (« je n'ai vu personne »). personne and rien can be the subject: « Personne n'est venu », « Rien ne marche » — still with ne. After a negation: de (« plus de lait »)."
+  },
+  "sounds": {
+    "title": "There is more, or no more?",
+    "explain": "« plus » is tricky: in a negative it means « no more » and you don't hear the s; « il y a plus de » (there is more) sounds the s. Also listen for the little « n' ».",
+    "pairs": [
+      [
+        "il n'y a plus de pain",
+        "il y a plus de pain"
+      ],
+      [
+        "je ne vois personne",
+        "je vois une personne"
+      ],
+      [
+        "rien",
+        "bien"
+      ],
+      [
+        "jamais",
+        "déjà"
+      ]
+    ],
+    "tip": "No ne / n' = positive sentence."
+  },
+  "practice": [
+    {
+      "type": "fill",
+      "prompt": "Make it negative: not any more.",
+      "sentence": "Je ne fume ___.",
+      "answers": [
+        "plus"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Make it negative: nothing.",
+      "sentence": "Je ne mange ___.",
+      "answers": [
+        "rien"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Make it negative: nobody.",
+      "sentence": "Je ne connais ___ ici.",
+      "answers": [
+        "personne"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "\"I didn't see anybody\" is…",
+      "options": [
+        "Je n'ai personne vu.",
+        "Je n'ai vu personne.",
+        "Je n'ai pas vu personne."
+      ],
+      "answer": "Je n'ai vu personne.",
+      "explain": "personne goes after the participle."
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen and choose what you hear.",
+      "options": [
+        "il n'y a plus de pain",
+        "il y a plus de pain"
+      ],
+      "answer": "il n'y a plus de pain",
+      "listen": "il n'y a plus de pain"
+    },
+    {
+      "type": "choice",
+      "prompt": "\"I haven't eaten yet\" is…",
+      "options": [
+        "Je n'ai pas encore mangé.",
+        "Je n'ai plus mangé.",
+        "Je n'ai jamais mangé."
+      ],
+      "answer": "Je n'ai pas encore mangé."
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Personne",
+        "n'a",
+        "répondu"
+      ],
+      "answer": "Personne n'a répondu"
+    },
+    {
+      "type": "choice",
+      "prompt": "« La machine est en panne » means…",
+      "options": [
+        "The machine is new.",
+        "The machine is broken.",
+        "The machine is empty."
+      ],
+      "answer": "The machine is broken."
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete.",
+      "sentence": "Il n'y a plus ___ lait.",
+      "answers": [
+        "de"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "« quelque part » means…",
+      "options": [
+        "somewhere",
+        "something",
+        "someone"
+      ],
+      "answer": "somewhere"
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Je",
+        "n'ai",
+        "rien",
+        "compris"
+      ],
+      "answer": "Je n'ai rien compris"
+    },
+    {
+      "type": "choice",
+      "prompt": "In the dialogue, what is Sari's resolution?",
+      "options": [
+        "stop smoking",
+        "no work after 8 pm",
+        "do the shopping every day"
+      ],
+      "answer": "no work after 8 pm"
+    }
+  ],
+  "task": {
+    "prompt": "Write 6 sentences about what has changed in your life since you came to France: what you don't do any more, what you have never done, what you haven't done yet.",
+    "example": "Je ne mange plus de riz tous les jours. Je ne prends plus de moto. Je n'ai jamais vu la neige. Je n'ai pas encore visité Marseille. Au début, je ne connaissais personne. Maintenant, j'ai des amis !",
+    "checklist": [
+      "I can use ne… plus, ne… rien, ne… personne",
+      "I can use ne… pas encore",
+      "I know where to put them in the passé composé",
+      "I can say something / someone / somewhere"
+    ]
+  }
+}

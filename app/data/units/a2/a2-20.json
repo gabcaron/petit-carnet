@@ -1,0 +1,347 @@
+{
+  "dialogue": [
+    {
+      "who": "Le vendeur",
+      "fr": "Vous cherchez un téléphone ? Ces deux-là sont en promotion.",
+      "en": "Are you looking for a phone? Those two are on special offer."
+    },
+    {
+      "who": "Sari",
+      "fr": "Lequel est le moins cher ? Celui-ci ou celui-là ?",
+      "en": "Which one is cheaper? This one or that one?"
+    },
+    {
+      "who": "Le vendeur",
+      "fr": "Celui-ci, à deux cents euros. Celui de droite fait de meilleures photos.",
+      "en": "This one, at two hundred euros. The one on the right takes better photos."
+    },
+    {
+      "who": "Sari",
+      "fr": "Et les coques ? Je préfère celles qui sont transparentes.",
+      "en": "And the cases? I prefer the ones that are transparent."
+    },
+    {
+      "who": "Le vendeur",
+      "fr": "Celles-ci ? Ce sont les plus solides.",
+      "en": "These ones? They're the strongest."
+    },
+    {
+      "who": "Sari",
+      "fr": "Parfait. Je prends celui-ci avec celle-là.",
+      "en": "Perfect. I'll take this one with that one."
+    }
+  ],
+  "words": [
+    {
+      "id": "a2-20-celui",
+      "fr": "celui / celle",
+      "en": "the one (m / f)"
+    },
+    {
+      "id": "a2-20-ceux",
+      "fr": "ceux / celles",
+      "en": "the ones (m / f)"
+    },
+    {
+      "id": "a2-20-celui-ci",
+      "fr": "celui-ci / celui-là",
+      "en": "this one / that one"
+    },
+    {
+      "id": "a2-20-lequel",
+      "fr": "lequel / laquelle ?",
+      "en": "which one?"
+    },
+    {
+      "id": "a2-20-lesquels",
+      "fr": "lesquels / lesquelles ?",
+      "en": "which ones?"
+    },
+    {
+      "id": "a2-20-ca",
+      "fr": "ça / cela",
+      "en": "that (thing)",
+      "note": "ça is spoken, cela is written."
+    },
+    {
+      "id": "a2-20-promotion",
+      "fr": "la promotion",
+      "en": "special offer",
+      "gender": "f",
+      "note": "« en promotion » = on offer"
+    },
+    {
+      "id": "a2-20-telephone2",
+      "fr": "le smartphone",
+      "en": "smartphone",
+      "gender": "m"
+    },
+    {
+      "id": "a2-20-coque",
+      "fr": "la coque",
+      "en": "phone case",
+      "gender": "f"
+    },
+    {
+      "id": "a2-20-chargeur",
+      "fr": "le chargeur",
+      "en": "charger",
+      "gender": "m"
+    },
+    {
+      "id": "a2-20-ecouteurs",
+      "fr": "les écouteurs",
+      "en": "earphones",
+      "gender": "m"
+    },
+    {
+      "id": "a2-20-batterie",
+      "fr": "la batterie",
+      "en": "battery",
+      "gender": "f"
+    },
+    {
+      "id": "a2-20-solide",
+      "fr": "solide",
+      "en": "strong, sturdy"
+    },
+    {
+      "id": "a2-20-fragile",
+      "fr": "fragile",
+      "en": "fragile"
+    },
+    {
+      "id": "a2-20-transparent",
+      "fr": "transparent / transparente",
+      "en": "transparent"
+    },
+    {
+      "id": "a2-20-a-droite2",
+      "fr": "de droite / de gauche",
+      "en": "on the right / on the left"
+    },
+    {
+      "id": "a2-20-garantie",
+      "fr": "la garantie",
+      "en": "guarantee, warranty",
+      "gender": "f"
+    },
+    {
+      "id": "a2-20-rembourser",
+      "fr": "rembourser",
+      "en": "to refund"
+    },
+    {
+      "id": "a2-20-echanger",
+      "fr": "échanger",
+      "en": "to exchange"
+    },
+    {
+      "id": "a2-20-hesiter",
+      "fr": "hésiter",
+      "en": "to hesitate"
+    }
+  ],
+  "grammar": {
+    "title": "celui, celle, ceux, celles: the one(s)",
+    "intro": "To avoid repeating a noun, French uses demonstrative pronouns. They agree with the noun they replace and are always followed by something: -ci / -là, de…, or qui / que.",
+    "table": [
+      [
+        "",
+        "Pronoun",
+        "Example"
+      ],
+      [
+        "masc. sing.",
+        "celui",
+        "celui-ci, celui de droite"
+      ],
+      [
+        "fem. sing.",
+        "celle",
+        "celle-là, celle de Léa"
+      ],
+      [
+        "masc. plural",
+        "ceux",
+        "ceux qui coûtent moins cher"
+      ],
+      [
+        "fem. plural",
+        "celles",
+        "celles que je préfère"
+      ],
+      [
+        "which one?",
+        "lequel / laquelle / lesquels / lesquelles",
+        "Lequel est le moins cher ?"
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "Je préfère celui-ci.",
+        "en": "I prefer this one."
+      },
+      {
+        "fr": "C'est la voiture de Tom ? — Non, c'est celle de Léa.",
+        "en": "Is it Tom's car? — No, it's Léa's."
+      },
+      {
+        "fr": "Je prends celles qui sont transparentes.",
+        "en": "I'll take the ones that are transparent."
+      }
+    ],
+    "trap": "celui never stands alone: always add -ci / -là, de + noun, or qui / que + sentence. -ci = this one (closer), -là = that one, but in everyday speech -là is used for both. For a thing with no noun, use ça: « Je prends ça. »"
+  },
+  "sounds": {
+    "title": "celui, celle, ceux, celles",
+    "explain": "These four pronouns sound close. celui ends in « ui », celle ends in « èl », ceux has a rounded « eu ».",
+    "pairs": [
+      [
+        "celui",
+        "celle"
+      ],
+      [
+        "ceux",
+        "celles"
+      ],
+      [
+        "celui-ci",
+        "celui-là"
+      ],
+      [
+        "celle-ci",
+        "celle-là"
+      ]
+    ],
+    "tip": "Round your lips for ceux."
+  },
+  "practice": [
+    {
+      "type": "fill",
+      "prompt": "Complete with celui, celle, ceux or celles.",
+      "sentence": "Ce téléphone ? Je préfère ___-ci.",
+      "answers": [
+        "celui"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with celui, celle, ceux or celles.",
+      "sentence": "Cette coque ? Je prends ___-là.",
+      "answers": [
+        "celle"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with celui, celle, ceux or celles.",
+      "sentence": "Ces écouteurs sont chers. ___ de droite sont moins chers.",
+      "answers": [
+        "ceux"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "\"Which one?\" (le téléphone) is…",
+      "options": [
+        "Quel ?",
+        "Lequel ?",
+        "Laquelle ?"
+      ],
+      "answer": "Lequel ?"
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen and choose what you hear.",
+      "options": [
+        "ceux",
+        "celles"
+      ],
+      "answer": "celles",
+      "listen": "celles"
+    },
+    {
+      "type": "choice",
+      "prompt": "« C'est la voiture de Léa ? » — Short answer:",
+      "options": [
+        "Oui, c'est celle de Léa.",
+        "Oui, c'est celui de Léa.",
+        "Oui, c'est celle."
+      ],
+      "answer": "Oui, c'est celle de Léa.",
+      "explain": "celle never stands alone."
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Je",
+        "prends",
+        "celui-ci"
+      ],
+      "answer": "Je prends celui-ci"
+    },
+    {
+      "type": "choice",
+      "prompt": "« en promotion » means…",
+      "options": [
+        "out of stock",
+        "on special offer",
+        "under guarantee"
+      ],
+      "answer": "on special offer"
+    },
+    {
+      "type": "choice",
+      "prompt": "« rembourser » means…",
+      "options": [
+        "to exchange",
+        "to refund",
+        "to charge"
+      ],
+      "answer": "to refund"
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with lequel, laquelle, lesquels or lesquelles.",
+      "sentence": "Il y a deux robes. ___ tu préfères ?",
+      "answers": [
+        "laquelle"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Je",
+        "préfère",
+        "celles",
+        "qui",
+        "sont",
+        "transparentes"
+      ],
+      "answer": "Je préfère celles qui sont transparentes"
+    },
+    {
+      "type": "choice",
+      "prompt": "In the dialogue, how much is the cheaper phone?",
+      "options": [
+        "100 €",
+        "200 €",
+        "250 €"
+      ],
+      "answer": "200 €"
+    }
+  ],
+  "task": {
+    "prompt": "You are hesitating between two products in a shop. Write the dialogue with the shop assistant using lequel / laquelle and celui / celle at least 4 times.",
+    "example": "J'hésite entre ces deux vestes. Laquelle est la plus chaude ? — Celle-ci. — Et celle de gauche ? Elle est plus jolie… — Oui, mais celle-ci est en promotion. — D'accord, je prends celle-là !",
+    "checklist": [
+      "I can use celui, celle, ceux, celles",
+      "I can use -ci / -là, de and qui / que after them",
+      "I can ask lequel ? laquelle ?",
+      "I can buy, exchange and get a refund"
+    ]
+  }
+}

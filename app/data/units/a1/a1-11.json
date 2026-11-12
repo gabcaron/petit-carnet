@@ -1,0 +1,346 @@
+{
+  "dialogue": [
+    {
+      "who": "La vendeuse",
+      "fr": "Bonjour ! Je peux vous aider ?",
+      "en": "Hello! Can I help you?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Oui, je cherche un pull. Ce pull bleu, il coûte combien ?",
+      "en": "Yes, I'm looking for a jumper. How much is this blue jumper?"
+    },
+    {
+      "who": "La vendeuse",
+      "fr": "Quarante euros. Vous faites quelle taille ?",
+      "en": "Forty euros. What size are you?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Du M. Et cette robe rouge, elle existe en M ?",
+      "en": "Medium. And this red dress, do you have it in medium?"
+    },
+    {
+      "who": "La vendeuse",
+      "fr": "Oui, voilà. Les cabines sont au fond.",
+      "en": "Yes, here you are. The fitting rooms are at the back."
+    },
+    {
+      "who": "Sari",
+      "fr": "Merci ! Je prends ces deux articles.",
+      "en": "Thanks! I'll take these two items."
+    }
+  ],
+  "words": [
+    {
+      "id": "a1-11-vetements",
+      "fr": "les vêtements",
+      "en": "clothes",
+      "gender": "m"
+    },
+    {
+      "id": "a1-11-pull",
+      "fr": "le pull",
+      "en": "jumper, sweater",
+      "gender": "m"
+    },
+    {
+      "id": "a1-11-chemise",
+      "fr": "la chemise",
+      "en": "shirt",
+      "gender": "f"
+    },
+    {
+      "id": "a1-11-tshirt",
+      "fr": "le tee-shirt",
+      "en": "T-shirt",
+      "gender": "m"
+    },
+    {
+      "id": "a1-11-pantalon",
+      "fr": "le pantalon",
+      "en": "trousers, pants",
+      "gender": "m",
+      "note": "Singular in French: « un pantalon »."
+    },
+    {
+      "id": "a1-11-jupe",
+      "fr": "la jupe",
+      "en": "skirt",
+      "gender": "f"
+    },
+    {
+      "id": "a1-11-robe",
+      "fr": "la robe",
+      "en": "dress",
+      "gender": "f"
+    },
+    {
+      "id": "a1-11-veste",
+      "fr": "la veste",
+      "en": "jacket",
+      "gender": "f"
+    },
+    {
+      "id": "a1-11-manteau",
+      "fr": "le manteau",
+      "en": "coat",
+      "gender": "m"
+    },
+    {
+      "id": "a1-11-chaussures",
+      "fr": "les chaussures",
+      "en": "shoes",
+      "gender": "f"
+    },
+    {
+      "id": "a1-11-taille",
+      "fr": "la taille",
+      "en": "size (clothes)",
+      "gender": "f",
+      "note": "« Vous faites quelle taille ? »"
+    },
+    {
+      "id": "a1-11-pointure",
+      "fr": "la pointure",
+      "en": "shoe size",
+      "gender": "f"
+    },
+    {
+      "id": "a1-11-essayer",
+      "fr": "essayer",
+      "en": "to try on",
+      "note": "« Je peux l'essayer ? »"
+    },
+    {
+      "id": "a1-11-couter",
+      "fr": "coûter",
+      "en": "to cost",
+      "note": "« Ça coûte combien ? »"
+    },
+    {
+      "id": "a1-11-rouge",
+      "fr": "rouge",
+      "en": "red"
+    },
+    {
+      "id": "a1-11-bleu",
+      "fr": "bleu / bleue",
+      "en": "blue"
+    },
+    {
+      "id": "a1-11-vert",
+      "fr": "vert / verte",
+      "en": "green"
+    },
+    {
+      "id": "a1-11-noir",
+      "fr": "noir / noire",
+      "en": "black"
+    },
+    {
+      "id": "a1-11-blanc",
+      "fr": "blanc / blanche",
+      "en": "white",
+      "note": "Irregular feminine."
+    },
+    {
+      "id": "a1-11-gris",
+      "fr": "gris / grise",
+      "en": "grey"
+    }
+  ],
+  "grammar": {
+    "title": "ce, cet, cette, ces: this, these",
+    "intro": "To point at something — « this jumper », « these shoes » — French uses a demonstrative that agrees with the noun. It means this or that: the context tells you which.",
+    "table": [
+      [
+        "",
+        "Demonstrative",
+        "Example"
+      ],
+      [
+        "masculine",
+        "ce",
+        "ce pull"
+      ],
+      [
+        "masculine + vowel or h",
+        "cet",
+        "cet anorak, cet hôtel"
+      ],
+      [
+        "feminine",
+        "cette",
+        "cette robe"
+      ],
+      [
+        "plural",
+        "ces",
+        "ces chaussures"
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "Ce pull coûte quarante euros.",
+        "en": "This jumper costs forty euros."
+      },
+      {
+        "fr": "Cette robe est trop grande.",
+        "en": "This dress is too big."
+      },
+      {
+        "fr": "Je prends ces chaussures noires.",
+        "en": "I'll take these black shoes."
+      }
+    ],
+    "trap": "cet sounds like cette: « cet hôtel » = « cette hôtel » to the ear, but hôtel is masculine. Colours go after the noun and agree: « une robe verte », « des chaussures noires ». To insist on this one / that one, add -ci or -là: « ce pull-ci », « ce pull-là »."
+  },
+  "sounds": {
+    "title": "ce or ces?",
+    "explain": "« ce » has the soft « euh » sound, « ces » has a smiling « é ». You also hear the plural with a liaison before a vowel: « ces_amis ».",
+    "pairs": [
+      [
+        "ce pull",
+        "ces pulls"
+      ],
+      [
+        "ce",
+        "ces"
+      ],
+      [
+        "cette robe",
+        "ces robes"
+      ],
+      [
+        "cet ami",
+        "ces amis"
+      ]
+    ],
+    "tip": "Smile for ces, relax your lips for ce."
+  },
+  "practice": [
+    {
+      "type": "fill",
+      "prompt": "Complete with ce, cet, cette or ces.",
+      "sentence": "___ robe est jolie.",
+      "answers": [
+        "cette"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with ce, cet, cette or ces.",
+      "sentence": "___ pantalon est trop long.",
+      "answers": [
+        "ce"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with ce, cet, cette or ces.",
+      "sentence": "___ chaussures sont chères.",
+      "answers": [
+        "ces"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Which one is correct?",
+      "options": [
+        "ce hôtel",
+        "cet hôtel",
+        "cette hôtel"
+      ],
+      "answer": "cet hôtel",
+      "explain": "hôtel is masculine and starts with a silent h: cet."
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen and choose what you hear.",
+      "options": [
+        "ce pull",
+        "ces pulls"
+      ],
+      "answer": "ces pulls",
+      "listen": "ces pulls"
+    },
+    {
+      "type": "fill",
+      "prompt": "Make it feminine.",
+      "sentence": "un pull blanc, une chemise ___",
+      "answers": [
+        "blanche"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Je",
+        "prends",
+        "cette",
+        "veste",
+        "noire"
+      ],
+      "answer": "Je prends cette veste noire"
+    },
+    {
+      "type": "choice",
+      "prompt": "« Vous faites quelle taille ? » is about…",
+      "options": [
+        "your size",
+        "your age",
+        "the price"
+      ],
+      "answer": "your size"
+    },
+    {
+      "type": "choice",
+      "prompt": "Where does the colour go?",
+      "options": [
+        "une rouge robe",
+        "une robe rouge"
+      ],
+      "answer": "une robe rouge"
+    },
+    {
+      "type": "fill",
+      "prompt": "Translate: \"How much does it cost?\"",
+      "sentence": "Ça ___ combien ?",
+      "answers": [
+        "coûte"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt": "Make the question.",
+      "words": [
+        "Je",
+        "peux",
+        "l'essayer"
+      ],
+      "answer": "Je peux l'essayer"
+    },
+    {
+      "type": "choice",
+      "prompt": "In the dialogue, how much is the blue jumper?",
+      "options": [
+        "14 €",
+        "40 €",
+        "4 €"
+      ],
+      "answer": "40 €"
+    }
+  ],
+  "task": {
+    "prompt": "You are in a clothes shop. Write a short dialogue: you ask for an item in your size and colour, ask the price and decide.",
+    "example": "Bonjour ! Je cherche une veste noire. Vous avez cette veste en S ? Elle coûte combien ? D'accord, je la prends !",
+    "checklist": [
+      "I can name 10 clothes",
+      "I can use ce, cet, cette, ces",
+      "I can say colours and make them agree",
+      "I can ask for my size and the price"
+    ]
+  }
+}

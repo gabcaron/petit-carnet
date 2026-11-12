@@ -1,0 +1,363 @@
+{
+  "dialogue": [
+    {
+      "who": "Tom",
+      "fr": "C'est à qui, ce parapluie ? C'est le tien ?",
+      "en": "Whose umbrella is this? Is it yours?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Non, le mien est bleu. C'est peut-être à Léa.",
+      "en": "No, mine is blue. Maybe it's Léa's."
+    },
+    {
+      "who": "Tom",
+      "fr": "Et ces clés ? Ce sont les miennes ou les tiennes ?",
+      "en": "And these keys? Are they mine or yours?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Les tiennes, les miennes sont dans mon sac.",
+      "en": "Yours, mine are in my bag."
+    },
+    {
+      "who": "Tom",
+      "fr": "On a trop de choses ! Avec le déménagement, on mélange tout.",
+      "en": "We have too many things! With the move, we're mixing everything up."
+    },
+    {
+      "who": "Sari",
+      "fr": "Bientôt, ce ne sera plus « le tien » ou « le mien », mais « le nôtre » !",
+      "en": "Soon it won't be « yours » or « mine » any more, but « ours »!"
+    }
+  ],
+  "words": [
+    {
+      "id": "a2-10-a-qui",
+      "fr": "C'est à qui ?",
+      "en": "Whose is it?",
+      "note": "« C'est à moi. » = It's mine."
+    },
+    {
+      "id": "a2-10-le-mien",
+      "fr": "le mien / la mienne",
+      "en": "mine"
+    },
+    {
+      "id": "a2-10-le-tien",
+      "fr": "le tien / la tienne",
+      "en": "yours (friend)"
+    },
+    {
+      "id": "a2-10-le-sien",
+      "fr": "le sien / la sienne",
+      "en": "his / hers"
+    },
+    {
+      "id": "a2-10-le-notre",
+      "fr": "le nôtre / la nôtre",
+      "en": "ours"
+    },
+    {
+      "id": "a2-10-le-votre",
+      "fr": "le vôtre / la vôtre",
+      "en": "yours (polite / plural)"
+    },
+    {
+      "id": "a2-10-le-leur",
+      "fr": "le leur / la leur",
+      "en": "theirs"
+    },
+    {
+      "id": "a2-10-parapluie",
+      "fr": "le parapluie",
+      "en": "umbrella",
+      "gender": "m"
+    },
+    {
+      "id": "a2-10-sac",
+      "fr": "le sac",
+      "en": "bag",
+      "gender": "m"
+    },
+    {
+      "id": "a2-10-portefeuille",
+      "fr": "le portefeuille",
+      "en": "wallet",
+      "gender": "m"
+    },
+    {
+      "id": "a2-10-lunettes2",
+      "fr": "les lunettes de soleil",
+      "en": "sunglasses",
+      "gender": "f"
+    },
+    {
+      "id": "a2-10-chose",
+      "fr": "la chose",
+      "en": "thing",
+      "gender": "f"
+    },
+    {
+      "id": "a2-10-affaires",
+      "fr": "les affaires",
+      "en": "belongings, stuff",
+      "gender": "f"
+    },
+    {
+      "id": "a2-10-demenagement",
+      "fr": "le déménagement",
+      "en": "move (house)",
+      "gender": "m"
+    },
+    {
+      "id": "a2-10-carton",
+      "fr": "le carton",
+      "en": "cardboard box",
+      "gender": "m"
+    },
+    {
+      "id": "a2-10-melanger",
+      "fr": "mélanger",
+      "en": "to mix (up)"
+    },
+    {
+      "id": "a2-10-preter",
+      "fr": "prêter",
+      "en": "to lend"
+    },
+    {
+      "id": "a2-10-emprunter",
+      "fr": "emprunter",
+      "en": "to borrow"
+    },
+    {
+      "id": "a2-10-appartenir",
+      "fr": "appartenir à",
+      "en": "to belong to"
+    },
+    {
+      "id": "a2-10-partager",
+      "fr": "partager",
+      "en": "to share"
+    }
+  ],
+  "grammar": {
+    "title": "le mien, la tienne: possessive pronouns",
+    "intro": "To avoid repeating « my bag », say « mine »: le mien. Like mon / ma / mes, it agrees with the thing owned, not with the owner.",
+    "table": [
+      [
+        "",
+        "masc.",
+        "fem.",
+        "plural (m / f)"
+      ],
+      [
+        "mine",
+        "le mien",
+        "la mienne",
+        "les miens / les miennes"
+      ],
+      [
+        "yours",
+        "le tien",
+        "la tienne",
+        "les tiens / les tiennes"
+      ],
+      [
+        "his / hers",
+        "le sien",
+        "la sienne",
+        "les siens / les siennes"
+      ],
+      [
+        "ours",
+        "le nôtre",
+        "la nôtre",
+        "les nôtres"
+      ],
+      [
+        "yours (vous)",
+        "le vôtre",
+        "la vôtre",
+        "les vôtres"
+      ],
+      [
+        "theirs",
+        "le leur",
+        "la leur",
+        "les leurs"
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "Ce n'est pas mon sac, c'est le tien.",
+        "en": "It's not my bag, it's yours."
+      },
+      {
+        "fr": "Ta voiture est rouge, la mienne est noire.",
+        "en": "Your car is red, mine is black."
+      },
+      {
+        "fr": "Ces clés sont à toi ? — Oui, ce sont les miennes.",
+        "en": "Are these keys yours? — Yes, they're mine."
+      }
+    ],
+    "trap": "Choose by the thing owned: Tom's bag = « le sien » (sac is masculine), Tom's car = « la sienne ». Everyday shortcut: « c'est à moi / à toi / à lui » also means it's mine / yours / his. nôtre and vôtre take a circumflex (notre voiture → la nôtre)."
+  },
+  "sounds": {
+    "title": "mien or mienne?",
+    "explain": "As with voisin / voisine, the masculine ends in a nasal sound, the feminine ends with a clear n.",
+    "pairs": [
+      [
+        "le mien",
+        "la mienne"
+      ],
+      [
+        "le tien",
+        "la tienne"
+      ],
+      [
+        "le sien",
+        "la sienne"
+      ],
+      [
+        "italien",
+        "italienne"
+      ]
+    ],
+    "tip": "Feminine: close your mouth on the n."
+  },
+  "practice": [
+    {
+      "type": "fill",
+      "prompt": "Complete: mine (le sac).",
+      "sentence": "Ce sac, c'est le ___.",
+      "answers": [
+        "mien"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete: yours (la voiture, tu).",
+      "sentence": "Cette voiture, c'est la ___ ?",
+      "answers": [
+        "tienne"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete: ours (les clés).",
+      "sentence": "Ces clés sont les ___.",
+      "answers": [
+        "nôtres"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Tom's car is…",
+      "options": [
+        "le sien",
+        "la sienne",
+        "la mienne"
+      ],
+      "answer": "la sienne",
+      "explain": "voiture is feminine."
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen and choose what you hear.",
+      "options": [
+        "le tien",
+        "la tienne"
+      ],
+      "answer": "la tienne",
+      "listen": "la tienne"
+    },
+    {
+      "type": "choice",
+      "prompt": "« C'est à qui ? » means…",
+      "options": [
+        "Who is it?",
+        "Whose is it?",
+        "Where is it?"
+      ],
+      "answer": "Whose is it?"
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Ce",
+        "n'est",
+        "pas",
+        "le",
+        "mien"
+      ],
+      "answer": "Ce n'est pas le mien"
+    },
+    {
+      "type": "choice",
+      "prompt": "« prêter » means…",
+      "options": [
+        "to borrow",
+        "to lend",
+        "to share"
+      ],
+      "answer": "to lend"
+    },
+    {
+      "type": "fill",
+      "prompt": "Another way to say « c'est le mien »:",
+      "sentence": "C'est à ___.",
+      "answers": [
+        "moi"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Their house:",
+      "options": [
+        "le leur",
+        "la leur",
+        "les leurs"
+      ],
+      "answer": "la leur"
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Tes",
+        "lunettes",
+        "sont",
+        "plus",
+        "jolies",
+        "que",
+        "les",
+        "miennes"
+      ],
+      "answer": "Tes lunettes sont plus jolies que les miennes"
+    },
+    {
+      "type": "choice",
+      "prompt": "In the dialogue, what colour is Sari's umbrella?",
+      "options": [
+        "red",
+        "blue",
+        "black"
+      ],
+      "answer": "blue"
+    }
+  ],
+  "task": {
+    "prompt": "You are moving in with someone. Write a short dialogue where you sort your things: « C'est à qui ? C'est le tien ? Non, le mien est… »",
+    "example": "C'est à qui, ce carton ? C'est le tien ? — Non, le mien est plus petit. — Et cette lampe ? — C'est la mienne ! Les livres sont les nôtres, on les partage.",
+    "checklist": [
+      "I can ask « C'est à qui ? »",
+      "I can use le mien, le tien, le sien",
+      "I make them agree with the thing owned",
+      "I can use le nôtre, le vôtre, le leur"
+    ]
+  }
+}

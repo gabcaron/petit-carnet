@@ -1,0 +1,358 @@
+{
+  "dialogue": [
+    {
+      "who": "Léa",
+      "fr": "Ta chambre est trop mignonne ! C'est nouveau, ce tapis ?",
+      "en": "Your bedroom is so cute! Is this rug new?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Oui ! Et regarde : la lampe est sur le bureau, à côté de l'ordinateur.",
+      "en": "Yes! And look: the lamp is on the desk, next to the computer."
+    },
+    {
+      "who": "Léa",
+      "fr": "Et tes livres, ils sont où ?",
+      "en": "And your books, where are they?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Dans l'étagère, entre le lit et l'armoire.",
+      "en": "On the shelves, between the bed and the wardrobe."
+    },
+    {
+      "who": "Léa",
+      "fr": "Et ça, sous le lit ?",
+      "en": "And that, under the bed?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Oh, c'est ma valise. Je ne range jamais derrière la porte non plus !",
+      "en": "Oh, that's my suitcase. I never tidy behind the door either!"
+    }
+  ],
+  "words": [
+    {
+      "id": "a1-17-lit",
+      "fr": "le lit",
+      "en": "bed",
+      "gender": "m"
+    },
+    {
+      "id": "a1-17-armoire",
+      "fr": "l'armoire",
+      "en": "wardrobe",
+      "gender": "f"
+    },
+    {
+      "id": "a1-17-etagere",
+      "fr": "l'étagère",
+      "en": "shelf, shelves",
+      "gender": "f"
+    },
+    {
+      "id": "a1-17-bureau2",
+      "fr": "le bureau",
+      "en": "desk",
+      "gender": "m",
+      "note": "Also means office."
+    },
+    {
+      "id": "a1-17-chaise",
+      "fr": "la chaise",
+      "en": "chair",
+      "gender": "f"
+    },
+    {
+      "id": "a1-17-fauteuil",
+      "fr": "le fauteuil",
+      "en": "armchair",
+      "gender": "m"
+    },
+    {
+      "id": "a1-17-canape",
+      "fr": "le canapé",
+      "en": "sofa",
+      "gender": "m"
+    },
+    {
+      "id": "a1-17-table",
+      "fr": "la table",
+      "en": "table",
+      "gender": "f"
+    },
+    {
+      "id": "a1-17-lampe",
+      "fr": "la lampe",
+      "en": "lamp",
+      "gender": "f"
+    },
+    {
+      "id": "a1-17-tapis",
+      "fr": "le tapis",
+      "en": "rug, carpet",
+      "gender": "m"
+    },
+    {
+      "id": "a1-17-fenetre",
+      "fr": "la fenêtre",
+      "en": "window",
+      "gender": "f"
+    },
+    {
+      "id": "a1-17-porte",
+      "fr": "la porte",
+      "en": "door",
+      "gender": "f"
+    },
+    {
+      "id": "a1-17-miroir",
+      "fr": "le miroir",
+      "en": "mirror",
+      "gender": "m"
+    },
+    {
+      "id": "a1-17-sur",
+      "fr": "sur",
+      "en": "on"
+    },
+    {
+      "id": "a1-17-sous",
+      "fr": "sous",
+      "en": "under"
+    },
+    {
+      "id": "a1-17-dans",
+      "fr": "dans",
+      "en": "in"
+    },
+    {
+      "id": "a1-17-devant",
+      "fr": "devant",
+      "en": "in front of"
+    },
+    {
+      "id": "a1-17-derriere",
+      "fr": "derrière",
+      "en": "behind"
+    },
+    {
+      "id": "a1-17-entre",
+      "fr": "entre",
+      "en": "between"
+    },
+    {
+      "id": "a1-17-au-dessus",
+      "fr": "au-dessus de",
+      "en": "above"
+    }
+  ],
+  "grammar": {
+    "title": "Where is it? sur, sous, devant, derrière…",
+    "intro": "Short prepositions go straight before the noun: sur la table. Longer ones end in de, which combines with le and les: à côté du lit, en face des fenêtres.",
+    "table": [
+      [
+        "English",
+        "French",
+        "Example"
+      ],
+      [
+        "on / under",
+        "sur / sous",
+        "La lampe est sur le bureau."
+      ],
+      [
+        "in",
+        "dans",
+        "Les livres sont dans l'étagère."
+      ],
+      [
+        "in front of / behind",
+        "devant / derrière",
+        "Le sac est derrière la porte."
+      ],
+      [
+        "between",
+        "entre… et…",
+        "entre le lit et l'armoire"
+      ],
+      [
+        "next to",
+        "à côté de",
+        "à côté du lit (de + le = du)"
+      ],
+      [
+        "above",
+        "au-dessus de",
+        "au-dessus de la table"
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "Mon téléphone est sur la table.",
+        "en": "My phone is on the table."
+      },
+      {
+        "fr": "Le chat dort sous le lit.",
+        "en": "The cat is sleeping under the bed."
+      },
+      {
+        "fr": "La lampe est à côté de l'ordinateur.",
+        "en": "The lamp is next to the computer."
+      }
+    ],
+    "trap": "de + le = du, de + les = des: « à côté du canapé », « en face des fenêtres ». sur and sous sound close: sur has the French u, sous has ou. To ask: « Où est… ? », « Où sont… ? »"
+  },
+  "sounds": {
+    "title": "oi or oin?",
+    "explain": "« oi » sounds like « wa ». « oin » is the same with a nasal sound at the end: « wan ».",
+    "pairs": [
+      [
+        "moi",
+        "moins"
+      ],
+      [
+        "loi",
+        "loin"
+      ],
+      [
+        "soi",
+        "soin"
+      ],
+      [
+        "foi",
+        "foin"
+      ]
+    ],
+    "tip": "Let the air go through your nose at the end of oin."
+  },
+  "practice": [
+    {
+      "type": "fill",
+      "prompt": "Complete: on.",
+      "sentence": "La lampe est ___ la table.",
+      "answers": [
+        "sur"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete: under.",
+      "sentence": "Le chat est ___ le lit.",
+      "answers": [
+        "sous"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with du, de la or des.",
+      "sentence": "La chaise est à côté ___ bureau.",
+      "answers": [
+        "du"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "« derrière » means…",
+      "options": [
+        "in front of",
+        "behind",
+        "between"
+      ],
+      "answer": "behind"
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen and choose what you hear.",
+      "options": [
+        "loi",
+        "loin"
+      ],
+      "answer": "loin",
+      "listen": "loin"
+    },
+    {
+      "type": "choice",
+      "prompt": "Complete: « Les livres sont ___ le lit et l'armoire. »",
+      "options": [
+        "entre",
+        "dans",
+        "sur"
+      ],
+      "answer": "entre"
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Le",
+        "miroir",
+        "est",
+        "au-dessus",
+        "de",
+        "la",
+        "table"
+      ],
+      "answer": "Le miroir est au-dessus de la table"
+    },
+    {
+      "type": "choice",
+      "prompt": "« le canapé » is…",
+      "options": [
+        "the sofa",
+        "the armchair",
+        "the chair"
+      ],
+      "answer": "the sofa"
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete: in front of.",
+      "sentence": "Le vélo est ___ la porte.",
+      "answers": [
+        "devant"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "How do you ask where your keys are?",
+      "options": [
+        "Où est mes clés ?",
+        "Où sont mes clés ?"
+      ],
+      "answer": "Où sont mes clés ?"
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Mon",
+        "sac",
+        "est",
+        "dans",
+        "l'armoire"
+      ],
+      "answer": "Mon sac est dans l'armoire"
+    },
+    {
+      "type": "choice",
+      "prompt": "In the dialogue, where is the suitcase?",
+      "options": [
+        "under the bed",
+        "behind the door",
+        "in the wardrobe"
+      ],
+      "answer": "under the bed"
+    }
+  ],
+  "task": {
+    "prompt": "Describe your bedroom or your living room in 6 sentences: what there is and where each thing is.",
+    "example": "Dans ma chambre, il y a un grand lit. La lampe est sur la table, à côté du lit. Mon bureau est devant la fenêtre. Mes livres sont dans l'étagère. Ma valise est sous le lit. Le miroir est derrière la porte.",
+    "checklist": [
+      "I can name 10 pieces of furniture",
+      "I can say where things are",
+      "I can use du / des after à côté de",
+      "I can ask « Où est… ? Où sont… ? »"
+    ]
+  }
+}

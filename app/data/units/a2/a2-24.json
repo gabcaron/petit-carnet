@@ -1,0 +1,340 @@
+{
+  "dialogue": [
+    {
+      "who": "Sari",
+      "fr": "Léa, tu peux relire mon e-mail pour la propriétaire ? Je ne sais jamais si je dois dire tu ou vous.",
+      "en": "Léa, can you reread my email to the landlady? I never know if I should say tu or vous."
+    },
+    {
+      "who": "Léa",
+      "fr": "Avec elle, vouvoie-la. Commence par « Madame » ou « Bonjour Madame ».",
+      "en": "With her, use vous. Start with « Madame » or « Bonjour Madame »."
+    },
+    {
+      "who": "Sari",
+      "fr": "Et pour finir ? « Bises » ?",
+      "en": "And to finish? « Bises »?"
+    },
+    {
+      "who": "Léa",
+      "fr": "Surtout pas ! « Bises », c'est pour les amis. Écris « Cordialement ».",
+      "en": "Definitely not! « Bises » is for friends. Write « Cordialement »."
+    },
+    {
+      "who": "Sari",
+      "fr": "D'accord. Et à toi, j'écris comment ?",
+      "en": "OK. And to you, how do I write?"
+    },
+    {
+      "who": "Léa",
+      "fr": "« Coucou Léa ! » et « Gros bisous » à la fin. On se tutoie, nous deux !",
+      "en": "« Coucou Léa! » and « Big kisses » at the end. We say tu to each other!"
+    }
+  ],
+  "words": [
+    {
+      "id": "a2-24-courriel",
+      "fr": "le courriel / le mail",
+      "en": "email",
+      "gender": "m"
+    },
+    {
+      "id": "a2-24-objet",
+      "fr": "l'objet",
+      "en": "subject (of an email)",
+      "gender": "m"
+    },
+    {
+      "id": "a2-24-madame-monsieur",
+      "fr": "Madame, Monsieur,",
+      "en": "Dear Sir or Madam,"
+    },
+    {
+      "id": "a2-24-cher",
+      "fr": "Cher… / Chère…",
+      "en": "Dear…",
+      "note": "Cher Tom, Chère Léa"
+    },
+    {
+      "id": "a2-24-coucou",
+      "fr": "Coucou !",
+      "en": "Hi! (very informal)"
+    },
+    {
+      "id": "a2-24-cordialement",
+      "fr": "Cordialement",
+      "en": "Kind regards"
+    },
+    {
+      "id": "a2-24-bien-a-vous",
+      "fr": "Bien à vous",
+      "en": "Best regards"
+    },
+    {
+      "id": "a2-24-bises",
+      "fr": "Bises / Bisous",
+      "en": "Love, kisses (friends)"
+    },
+    {
+      "id": "a2-24-a-bientot2",
+      "fr": "À bientôt !",
+      "en": "See you soon!"
+    },
+    {
+      "id": "a2-24-je-vous-prie",
+      "fr": "Je vous remercie",
+      "en": "Thank you (formal)"
+    },
+    {
+      "id": "a2-24-proprietaire",
+      "fr": "le / la propriétaire",
+      "en": "owner; landlord / landlady"
+    },
+    {
+      "id": "a2-24-locataire",
+      "fr": "le / la locataire",
+      "en": "tenant"
+    },
+    {
+      "id": "a2-24-relire",
+      "fr": "relire",
+      "en": "to reread"
+    },
+    {
+      "id": "a2-24-joindre",
+      "fr": "la pièce jointe",
+      "en": "attachment",
+      "gender": "f"
+    },
+    {
+      "id": "a2-24-repondre-vite",
+      "fr": "répondre rapidement",
+      "en": "to reply quickly"
+    },
+    {
+      "id": "a2-24-demande",
+      "fr": "la demande",
+      "en": "request",
+      "gender": "f"
+    },
+    {
+      "id": "a2-24-formel",
+      "fr": "formel / formelle",
+      "en": "formal"
+    },
+    {
+      "id": "a2-24-familier",
+      "fr": "familier / familière",
+      "en": "informal, casual"
+    },
+    {
+      "id": "a2-24-surtout-pas",
+      "fr": "surtout pas",
+      "en": "definitely not"
+    },
+    {
+      "id": "a2-24-ecrire-a",
+      "fr": "écrire à quelqu'un",
+      "en": "to write to someone"
+    }
+  ],
+  "grammar": {
+    "title": "Formal or informal?",
+    "intro": "French has two registers. With strangers, older people, at work and in official emails: vous and formal formulas. With friends, family and children: tu and casual formulas.",
+    "table": [
+      [
+        "",
+        "Formal (vous)",
+        "Informal (tu)"
+      ],
+      [
+        "start",
+        "Madame, Monsieur, / Bonjour Madame,",
+        "Coucou ! / Salut Léa ! / Chère Léa,"
+      ],
+      [
+        "ask",
+        "Pourriez-vous… ? Je vous remercie de…",
+        "Tu peux… ? Merci de…"
+      ],
+      [
+        "question",
+        "Avez-vous reçu… ? / Est-ce que vous avez… ?",
+        "Tu as reçu… ?"
+      ],
+      [
+        "finish",
+        "Cordialement, / Bien à vous,",
+        "Bises ! / Bisous ! / À bientôt !"
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "Madame, pourriez-vous réparer le chauffage ? Je vous remercie. Cordialement.",
+        "en": "Madam, could you repair the heating? Thank you. Kind regards."
+      },
+      {
+        "fr": "Coucou Léa ! Tu viens ce soir ? Bises !",
+        "en": "Hi Léa! Are you coming tonight? Love!"
+      },
+      {
+        "fr": "On se tutoie ?",
+        "en": "Shall we say tu to each other?"
+      }
+    ],
+    "trap": "When in doubt, use vous: it is never rude. The other person may propose « On se tutoie ? ». Never finish a formal email with « Bises ». In formal writing, inversion is common: « Avez-vous reçu mon message ? »."
+  },
+  "sounds": {
+    "title": "Liaison with vous",
+    "explain": "vous links with a z sound before a vowel: « vous_êtes », « vous_avez ». Before a consonant, no z: « vous faites ».",
+    "pairs": [
+      [
+        "vous êtes",
+        "vous faites"
+      ],
+      [
+        "vous avez",
+        "vous savez"
+      ],
+      [
+        "vous allez",
+        "vous venez"
+      ],
+      [
+        "vous aimez",
+        "vous mangez"
+      ]
+    ],
+    "tip": "The buzzing z tells you the verb starts with a vowel."
+  },
+  "practice": [
+    {
+      "type": "fill",
+      "prompt": "Formal ending:",
+      "sentence": "___, Sari Wulandari",
+      "answers": [
+        "cordialement"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "To your landlady, you start with…",
+      "options": [
+        "Coucou !",
+        "Madame,",
+        "Salut !"
+      ],
+      "answer": "Madame,"
+    },
+    {
+      "type": "choice",
+      "prompt": "To a friend, you finish with…",
+      "options": [
+        "Cordialement",
+        "Bien à vous",
+        "Bises"
+      ],
+      "answer": "Bises"
+    },
+    {
+      "type": "choice",
+      "prompt": "Formal question:",
+      "options": [
+        "Tu as reçu mon message ?",
+        "Avez-vous reçu mon message ?"
+      ],
+      "answer": "Avez-vous reçu mon message ?"
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen and choose what you hear.",
+      "options": [
+        "vous êtes",
+        "vous faites"
+      ],
+      "answer": "vous êtes",
+      "listen": "vous êtes"
+    },
+    {
+      "type": "choice",
+      "prompt": "« On se tutoie ? » means…",
+      "options": [
+        "Shall we say tu?",
+        "Shall we meet?",
+        "Shall we write?"
+      ],
+      "answer": "Shall we say tu?"
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Pourriez-vous",
+        "réparer",
+        "le",
+        "chauffage"
+      ],
+      "answer": "Pourriez-vous réparer le chauffage"
+    },
+    {
+      "type": "choice",
+      "prompt": "« la pièce jointe » is…",
+      "options": [
+        "the subject",
+        "the attachment",
+        "the signature"
+      ],
+      "answer": "the attachment"
+    },
+    {
+      "type": "fill",
+      "prompt": "Translate: \"the tenant\"",
+      "sentence": "le ___",
+      "answers": [
+        "locataire"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "When in doubt, use…",
+      "options": [
+        "tu",
+        "vous"
+      ],
+      "answer": "vous"
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Je",
+        "vous",
+        "remercie",
+        "de",
+        "votre",
+        "réponse"
+      ],
+      "answer": "Je vous remercie de votre réponse"
+    },
+    {
+      "type": "choice",
+      "prompt": "In the dialogue, how should Sari finish her email to the landlady?",
+      "options": [
+        "Bises",
+        "Cordialement",
+        "À bientôt"
+      ],
+      "answer": "Cordialement"
+    }
+  ],
+  "task": {
+    "prompt": "Write two short emails (4 sentences each) about the same thing — the heating is broken: one to your landlord (formal), one to a friend (informal).",
+    "example": "Madame, Monsieur, le chauffage de mon appartement ne marche plus depuis lundi. Pourriez-vous envoyer un technicien ? Je vous remercie. Cordialement, Sari. — Coucou Léa ! Mon chauffage est en panne, j'ai trop froid ! Je peux dormir chez toi ce soir ? Bises !",
+    "checklist": [
+      "I can choose between tu and vous",
+      "I can start and finish a formal email",
+      "I can write a friendly message",
+      "I can ask politely in writing"
+    ]
+  }
+}

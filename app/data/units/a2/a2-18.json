@@ -1,0 +1,346 @@
+{
+  "dialogue": [
+    {
+      "who": "Sari",
+      "fr": "Bonjour. J'ai un rhume et je tousse beaucoup. Qu'est-ce que vous me conseillez ?",
+      "en": "Hello. I have a cold and I'm coughing a lot. What do you recommend?"
+    },
+    {
+      "who": "Le pharmacien",
+      "fr": "Prenez ce sirop. Prenez-le trois fois par jour, après les repas.",
+      "en": "Take this syrup. Take it three times a day, after meals."
+    },
+    {
+      "who": "Sari",
+      "fr": "Et ces comprimés pour la gorge ?",
+      "en": "And these tablets for the throat?"
+    },
+    {
+      "who": "Le pharmacien",
+      "fr": "Sucez-en un toutes les quatre heures. Mais ne les prenez pas avec du lait.",
+      "en": "Suck one every four hours. But don't take them with milk."
+    },
+    {
+      "who": "Sari",
+      "fr": "D'accord. Mon copain aussi est malade, il a de la fièvre.",
+      "en": "OK. My boyfriend is ill too, he has a temperature."
+    },
+    {
+      "who": "Le pharmacien",
+      "fr": "Alors emmenez-le chez le médecin. Et donnez-lui beaucoup d'eau.",
+      "en": "Then take him to the doctor. And give him lots of water."
+    }
+  ],
+  "words": [
+    {
+      "id": "a2-18-pharmacie2",
+      "fr": "la pharmacie",
+      "en": "pharmacy, chemist",
+      "gender": "f"
+    },
+    {
+      "id": "a2-18-pharmacien",
+      "fr": "pharmacien / pharmacienne",
+      "en": "pharmacist"
+    },
+    {
+      "id": "a2-18-conseiller",
+      "fr": "conseiller",
+      "en": "to advise, to recommend"
+    },
+    {
+      "id": "a2-18-conseil",
+      "fr": "le conseil",
+      "en": "piece of advice",
+      "gender": "m"
+    },
+    {
+      "id": "a2-18-sirop",
+      "fr": "le sirop",
+      "en": "syrup",
+      "gender": "m"
+    },
+    {
+      "id": "a2-18-comprime",
+      "fr": "le comprimé",
+      "en": "tablet, pill",
+      "gender": "m"
+    },
+    {
+      "id": "a2-18-pansement",
+      "fr": "le pansement",
+      "en": "plaster, bandage",
+      "gender": "m"
+    },
+    {
+      "id": "a2-18-creme",
+      "fr": "la crème",
+      "en": "cream",
+      "gender": "f"
+    },
+    {
+      "id": "a2-18-tousser",
+      "fr": "tousser",
+      "en": "to cough"
+    },
+    {
+      "id": "a2-18-eternuer",
+      "fr": "éternuer",
+      "en": "to sneeze"
+    },
+    {
+      "id": "a2-18-se-moucher",
+      "fr": "se moucher",
+      "en": "to blow your nose"
+    },
+    {
+      "id": "a2-18-allergie",
+      "fr": "l'allergie",
+      "en": "allergy",
+      "gender": "f"
+    },
+    {
+      "id": "a2-18-blesser",
+      "fr": "se blesser",
+      "en": "to hurt yourself"
+    },
+    {
+      "id": "a2-18-soigner",
+      "fr": "soigner",
+      "en": "to treat, to look after (ill person)"
+    },
+    {
+      "id": "a2-18-repas",
+      "fr": "le repas",
+      "en": "meal",
+      "gender": "m"
+    },
+    {
+      "id": "a2-18-emmener",
+      "fr": "emmener",
+      "en": "to take (someone somewhere)"
+    },
+    {
+      "id": "a2-18-sans-ordonnance",
+      "fr": "sans ordonnance",
+      "en": "without a prescription"
+    },
+    {
+      "id": "a2-18-urgences",
+      "fr": "les urgences",
+      "en": "A&E, emergency room",
+      "gender": "f"
+    },
+    {
+      "id": "a2-18-guerir",
+      "fr": "guérir",
+      "en": "to get better, to cure",
+      "note": "2nd group: je guéris."
+    },
+    {
+      "id": "a2-18-bon-retablissement",
+      "fr": "Bon rétablissement !",
+      "en": "Get well soon!"
+    }
+  ],
+  "grammar": {
+    "title": "Imperative + pronouns: prends-le, ne le prends pas",
+    "intro": "In a positive order, the pronoun goes AFTER the verb, with a hyphen. In a negative order, it goes back before the verb, as usual.",
+    "table": [
+      [
+        "Positive",
+        "Negative",
+        "English"
+      ],
+      [
+        "Prends-le.",
+        "Ne le prends pas.",
+        "Take it. / Don't take it."
+      ],
+      [
+        "Donne-lui de l'eau.",
+        "Ne lui donne pas de lait.",
+        "Give him / her water."
+      ],
+      [
+        "Emmenez-la.",
+        "Ne l'emmenez pas.",
+        "Take her."
+      ],
+      [
+        "Dis-moi.",
+        "Ne me dis pas.",
+        "Tell me."
+      ],
+      [
+        "Prenez-en un.",
+        "N'en prenez pas.",
+        "Take one (of them)."
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "Prenez-le trois fois par jour.",
+        "en": "Take it three times a day."
+      },
+      {
+        "fr": "Ne les prenez pas avec du lait.",
+        "en": "Don't take them with milk."
+      },
+      {
+        "fr": "Donnez-lui beaucoup d'eau.",
+        "en": "Give him / her lots of water."
+      }
+    ],
+    "trap": "After the verb, me and te become moi and toi: « dis-moi », « lève-toi ». Reflexive verbs work the same: « repose-toi » (rest), « ne t'inquiète pas » (don't worry). In the negative, everything goes back in normal order."
+  },
+  "sounds": {
+    "title": "le, les, moi or lui at the end?",
+    "explain": "In orders, the pronoun comes at the end and is stressed: listen carefully to the last syllable.",
+    "pairs": [
+      [
+        "prends-le",
+        "prends-les"
+      ],
+      [
+        "dis-moi",
+        "dis-lui"
+      ],
+      [
+        "donne-le-moi",
+        "donne-la-moi"
+      ],
+      [
+        "ne le prends pas",
+        "ne les prends pas"
+      ]
+    ],
+    "tip": "The last word tells you who or what."
+  },
+  "practice": [
+    {
+      "type": "fill",
+      "prompt": "Write the order with a pronoun.",
+      "sentence": "Prends ce sirop. → Prends-___.",
+      "answers": [
+        "le"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Write the order with a pronoun.",
+      "sentence": "Donne de l'eau à ta fille. → Donne-___ de l'eau.",
+      "answers": [
+        "lui"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "\"Don't take them\" is…",
+      "options": [
+        "Prenez-les pas.",
+        "Ne les prenez pas.",
+        "Ne prenez-les pas."
+      ],
+      "answer": "Ne les prenez pas."
+    },
+    {
+      "type": "choice",
+      "prompt": "\"Tell me\" is…",
+      "options": [
+        "Dis-me.",
+        "Dis-moi.",
+        "Me dis."
+      ],
+      "answer": "Dis-moi.",
+      "explain": "me becomes moi after the verb."
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen and choose what you hear.",
+      "options": [
+        "dis-moi",
+        "dis-lui"
+      ],
+      "answer": "dis-lui",
+      "listen": "dis-lui"
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete (reflexive order).",
+      "sentence": "Tu es fatiguée ? Repose-___ !",
+      "answers": [
+        "toi"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Ne",
+        "t'inquiète",
+        "pas"
+      ],
+      "answer": "Ne t'inquiète pas"
+    },
+    {
+      "type": "choice",
+      "prompt": "« un comprimé » is…",
+      "options": [
+        "a syrup",
+        "a tablet",
+        "a plaster"
+      ],
+      "answer": "a tablet"
+    },
+    {
+      "type": "choice",
+      "prompt": "Someone is ill. You say…",
+      "options": [
+        "Bon appétit !",
+        "Bon rétablissement !",
+        "Bonne fête !"
+      ],
+      "answer": "Bon rétablissement !"
+    },
+    {
+      "type": "fill",
+      "prompt": "Translate: \"to cough\"",
+      "sentence": "___",
+      "answers": [
+        "tousser"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Prenez-le",
+        "après",
+        "les",
+        "repas"
+      ],
+      "answer": "Prenez-le après les repas"
+    },
+    {
+      "type": "choice",
+      "prompt": "In the dialogue, how often should Sari take the syrup?",
+      "options": [
+        "once a day",
+        "three times a day",
+        "every four hours"
+      ],
+      "answer": "three times a day"
+    }
+  ],
+  "task": {
+    "prompt": "A friend is ill. Give 5 pieces of advice in the imperative, with at least 3 pronouns (prends-le, appelle-le, ne le bois pas, repose-toi…).",
+    "example": "Repose-toi ! Prends ce médicament, prends-le le soir. Appelle le médecin, appelle-le demain matin. Ne bois pas de café. Et n'oublie pas : bois beaucoup d'eau !",
+    "checklist": [
+      "I can put pronouns after a positive imperative",
+      "I put them back before the verb in the negative",
+      "I can say dis-moi, repose-toi",
+      "I can ask for advice at the pharmacy"
+    ]
+  }
+}

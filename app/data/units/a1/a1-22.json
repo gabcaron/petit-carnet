@@ -1,0 +1,356 @@
+{
+  "dialogue": [
+    {
+      "who": "Sari",
+      "fr": "Bonsoir ! J'ai une réservation au nom de Wulandari.",
+      "en": "Good evening! I have a booking under the name Wulandari."
+    },
+    {
+      "who": "La réceptionniste",
+      "fr": "Bonsoir madame. Une chambre double pour deux nuits, avec petit-déjeuner. C'est pour vous et votre mari ?",
+      "en": "Good evening, madam. A double room for two nights, with breakfast. Is it for you and your husband?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Pour moi et mon copain. Lui, il arrive demain.",
+      "en": "For me and my boyfriend. He's arriving tomorrow."
+    },
+    {
+      "who": "La réceptionniste",
+      "fr": "Très bien. Voici votre clé : chambre 312, au troisième étage.",
+      "en": "Very good. Here is your key: room 312, on the third floor."
+    },
+    {
+      "who": "Sari",
+      "fr": "Merci. Le petit-déjeuner est à quelle heure ?",
+      "en": "Thanks. What time is breakfast?"
+    },
+    {
+      "who": "La réceptionniste",
+      "fr": "De sept heures à dix heures. Le wifi est gratuit, le code est sur la carte.",
+      "en": "From seven to ten. The wifi is free, the code is on the card."
+    }
+  ],
+  "words": [
+    {
+      "id": "a1-22-reservation",
+      "fr": "la réservation",
+      "en": "booking, reservation",
+      "gender": "f"
+    },
+    {
+      "id": "a1-22-reception",
+      "fr": "la réception",
+      "en": "reception desk",
+      "gender": "f"
+    },
+    {
+      "id": "a1-22-chambre-double",
+      "fr": "la chambre double",
+      "en": "double room",
+      "gender": "f"
+    },
+    {
+      "id": "a1-22-chambre-simple",
+      "fr": "la chambre simple",
+      "en": "single room",
+      "gender": "f"
+    },
+    {
+      "id": "a1-22-nuit",
+      "fr": "la nuit",
+      "en": "night",
+      "gender": "f"
+    },
+    {
+      "id": "a1-22-cle2",
+      "fr": "la clé de la chambre",
+      "en": "room key",
+      "gender": "f"
+    },
+    {
+      "id": "a1-22-ascenseur",
+      "fr": "l'ascenseur",
+      "en": "lift, elevator",
+      "gender": "m"
+    },
+    {
+      "id": "a1-22-escalier",
+      "fr": "l'escalier",
+      "en": "stairs",
+      "gender": "m"
+    },
+    {
+      "id": "a1-22-douche",
+      "fr": "la douche",
+      "en": "shower",
+      "gender": "f"
+    },
+    {
+      "id": "a1-22-serviette",
+      "fr": "la serviette",
+      "en": "towel",
+      "gender": "f"
+    },
+    {
+      "id": "a1-22-gratuit",
+      "fr": "gratuit / gratuite",
+      "en": "free (no cost)"
+    },
+    {
+      "id": "a1-22-compris",
+      "fr": "compris / comprise",
+      "en": "included",
+      "note": "« Le petit-déjeuner est compris. »"
+    },
+    {
+      "id": "a1-22-au-nom-de",
+      "fr": "au nom de",
+      "en": "under the name of"
+    },
+    {
+      "id": "a1-22-moi",
+      "fr": "moi",
+      "en": "me"
+    },
+    {
+      "id": "a1-22-toi",
+      "fr": "toi",
+      "en": "you (friend)"
+    },
+    {
+      "id": "a1-22-lui",
+      "fr": "lui",
+      "en": "him"
+    },
+    {
+      "id": "a1-22-elle2",
+      "fr": "elle",
+      "en": "her"
+    },
+    {
+      "id": "a1-22-nous2",
+      "fr": "nous / vous",
+      "en": "us / you"
+    },
+    {
+      "id": "a1-22-eux",
+      "fr": "eux / elles",
+      "en": "them"
+    },
+    {
+      "id": "a1-22-chez",
+      "fr": "chez",
+      "en": "at (someone's place)",
+      "note": "« chez moi » = at my place, at home"
+    }
+  ],
+  "grammar": {
+    "title": "moi, toi, lui…: stressed pronouns",
+    "intro": "After a preposition (avec, pour, chez, sans…), after c'est, or to insist, French uses a special set of pronouns: moi, toi, lui, elle, nous, vous, eux, elles.",
+    "table": [
+      [
+        "Subject",
+        "Stressed",
+        "Example"
+      ],
+      [
+        "je",
+        "moi",
+        "Moi, je suis indonésienne."
+      ],
+      [
+        "tu",
+        "toi",
+        "C'est pour toi."
+      ],
+      [
+        "il / elle",
+        "lui / elle",
+        "Je pars avec lui."
+      ],
+      [
+        "nous",
+        "nous",
+        "Viens chez nous !"
+      ],
+      [
+        "vous",
+        "vous",
+        "C'est à vous ?"
+      ],
+      [
+        "ils / elles",
+        "eux / elles",
+        "Je mange sans eux."
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "C'est pour moi et mon copain.",
+        "en": "It's for me and my boyfriend."
+      },
+      {
+        "fr": "Lui, il arrive demain.",
+        "en": "He (as for him) arrives tomorrow."
+      },
+      {
+        "fr": "Tu viens avec moi ?",
+        "en": "Are you coming with me?"
+      }
+    ],
+    "trap": "Never « avec je » or « pour il »: after a preposition, always moi, toi, lui… They are also used alone: « Et toi ? — Moi aussi ! ». « chez moi » = at my place / at home, « chez toi » = at your place."
+  },
+  "sounds": {
+    "title": "ch or s?",
+    "explain": "« ch » is « sh ». « s » is a simple hissing sound. Don't mix them: « chat » (cat) is not « sa » (his / her).",
+    "pairs": [
+      [
+        "chat",
+        "sa"
+      ],
+      [
+        "chou",
+        "sous"
+      ],
+      [
+        "cher",
+        "serre"
+      ],
+      [
+        "chaise",
+        "seize"
+      ]
+    ],
+    "tip": "For ch, push your lips forward. For s, smile."
+  },
+  "practice": [
+    {
+      "type": "fill",
+      "prompt": "Complete with a stressed pronoun.",
+      "sentence": "C'est pour ___ ? (you, friend)",
+      "answers": [
+        "toi"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with a stressed pronoun.",
+      "sentence": "Je pars avec ___. (him)",
+      "answers": [
+        "lui"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Complete: « ___, je suis infirmière. »",
+      "options": [
+        "Je",
+        "Moi",
+        "Me"
+      ],
+      "answer": "Moi"
+    },
+    {
+      "type": "choice",
+      "prompt": "\"At my place\" is…",
+      "options": [
+        "chez je",
+        "chez moi",
+        "à moi maison"
+      ],
+      "answer": "chez moi"
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen and choose what you hear.",
+      "options": [
+        "chou",
+        "sous"
+      ],
+      "answer": "chou",
+      "listen": "chou"
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with a stressed pronoun.",
+      "sentence": "Je mange sans ___. (them, men)",
+      "answers": [
+        "eux"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "J'ai",
+        "une",
+        "réservation",
+        "au",
+        "nom",
+        "de",
+        "Sari"
+      ],
+      "answer": "J'ai une réservation au nom de Sari"
+    },
+    {
+      "type": "choice",
+      "prompt": "« Le petit-déjeuner est compris » means…",
+      "options": [
+        "Breakfast is included.",
+        "Breakfast is free.",
+        "Breakfast is understood."
+      ],
+      "answer": "Breakfast is included."
+    },
+    {
+      "type": "choice",
+      "prompt": "« l'ascenseur » is…",
+      "options": [
+        "the stairs",
+        "the lift",
+        "the reception"
+      ],
+      "answer": "the lift"
+    },
+    {
+      "type": "fill",
+      "prompt": "Answer.",
+      "sentence": "J'adore le fromage. Et toi ? — ___ aussi !",
+      "answers": [
+        "moi"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt": "Make the question.",
+      "words": [
+        "Tu",
+        "viens",
+        "avec",
+        "nous"
+      ],
+      "answer": "Tu viens avec nous"
+    },
+    {
+      "type": "choice",
+      "prompt": "In the dialogue, which floor is the room on?",
+      "options": [
+        "the 1st",
+        "the 3rd",
+        "the 12th"
+      ],
+      "answer": "the 3rd"
+    }
+  ],
+  "task": {
+    "prompt": "You arrive at a hotel. Write the dialogue with the receptionist: your name, the room, how many nights, breakfast, wifi. Use moi, toi or lui at least twice.",
+    "example": "Bonsoir, j'ai une réservation au nom de Sari Wulandari. Une chambre double pour moi et mon copain. Lui, il arrive demain. Le petit-déjeuner est compris ? Merci !",
+    "checklist": [
+      "I can check in at a hotel",
+      "I can use moi, toi, lui, elle, eux",
+      "I can use chez moi / chez toi",
+      "I know 10 hotel words"
+    ]
+  }
+}

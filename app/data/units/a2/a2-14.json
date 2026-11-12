@@ -1,0 +1,341 @@
+{
+  "dialogue": [
+    {
+      "who": "Léa",
+      "fr": "Alors, tes bonnes résolutions pour l'année ?",
+      "en": "So, your good resolutions for the year?"
+    },
+    {
+      "who": "Sari",
+      "fr": "J'ai décidé d'arrêter de boire du café l'après-midi. Je dors mal.",
+      "en": "I've decided to stop drinking coffee in the afternoon. I sleep badly."
+    },
+    {
+      "who": "Léa",
+      "fr": "Bonne idée. Moi, j'ai commencé à faire du yoga.",
+      "en": "Good idea. Me, I've started doing yoga."
+    },
+    {
+      "who": "Sari",
+      "fr": "Tu arrives à le faire tous les jours ?",
+      "en": "Do you manage to do it every day?"
+    },
+    {
+      "who": "Léa",
+      "fr": "J'essaie de le faire trois fois par semaine. Tu viens avec moi ?",
+      "en": "I try to do it three times a week. Are you coming with me?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Pourquoi pas ! Mais n'oublie pas de me rappeler, sinon j'oublie.",
+      "en": "Why not! But don't forget to remind me, or I'll forget."
+    }
+  ],
+  "words": [
+    {
+      "id": "a2-14-decider-de",
+      "fr": "décider de",
+      "en": "to decide to"
+    },
+    {
+      "id": "a2-14-arreter-de",
+      "fr": "arrêter de",
+      "en": "to stop (doing)"
+    },
+    {
+      "id": "a2-14-commencer-a",
+      "fr": "commencer à",
+      "en": "to start (doing)"
+    },
+    {
+      "id": "a2-14-essayer-de",
+      "fr": "essayer de",
+      "en": "to try to"
+    },
+    {
+      "id": "a2-14-oublier-de",
+      "fr": "oublier de",
+      "en": "to forget to"
+    },
+    {
+      "id": "a2-14-arriver-a",
+      "fr": "arriver à",
+      "en": "to manage to"
+    },
+    {
+      "id": "a2-14-apprendre-a",
+      "fr": "apprendre à",
+      "en": "to learn to"
+    },
+    {
+      "id": "a2-14-aider-a",
+      "fr": "aider (quelqu'un) à",
+      "en": "to help (someone) to"
+    },
+    {
+      "id": "a2-14-penser-a",
+      "fr": "penser à",
+      "en": "to remember to; to think about"
+    },
+    {
+      "id": "a2-14-continuer-a",
+      "fr": "continuer à",
+      "en": "to keep on (doing)"
+    },
+    {
+      "id": "a2-14-avoir-besoin2",
+      "fr": "avoir besoin de",
+      "en": "to need to"
+    },
+    {
+      "id": "a2-14-rappeler2",
+      "fr": "rappeler à quelqu'un",
+      "en": "to remind someone"
+    },
+    {
+      "id": "a2-14-yoga",
+      "fr": "faire du yoga",
+      "en": "to do yoga"
+    },
+    {
+      "id": "a2-14-courir",
+      "fr": "courir",
+      "en": "to run",
+      "note": "je cours, nous courons"
+    },
+    {
+      "id": "a2-14-sucre",
+      "fr": "le sucre",
+      "en": "sugar",
+      "gender": "m"
+    },
+    {
+      "id": "a2-14-ecran2",
+      "fr": "les écrans",
+      "en": "screens",
+      "gender": "m"
+    },
+    {
+      "id": "a2-14-dormir-mal",
+      "fr": "dormir mal / bien",
+      "en": "to sleep badly / well"
+    },
+    {
+      "id": "a2-14-fois",
+      "fr": "la fois",
+      "en": "time (occurrence)",
+      "gender": "f",
+      "note": "« trois fois par semaine »"
+    },
+    {
+      "id": "a2-14-sinon",
+      "fr": "sinon",
+      "en": "otherwise, or else"
+    },
+    {
+      "id": "a2-14-pourquoi-pas",
+      "fr": "Pourquoi pas !",
+      "en": "Why not!"
+    }
+  ],
+  "grammar": {
+    "title": "Verb + à / de + infinitive",
+    "intro": "When two verbs follow each other, some verbs need à or de before the second one. There's no logic: learn the verb with its little word, like a block.",
+    "table": [
+      [
+        "+ de",
+        "+ à",
+        "no preposition"
+      ],
+      [
+        "arrêter de",
+        "commencer à",
+        "aimer"
+      ],
+      [
+        "décider de",
+        "apprendre à",
+        "vouloir"
+      ],
+      [
+        "essayer de",
+        "arriver à",
+        "pouvoir"
+      ],
+      [
+        "oublier de",
+        "continuer à",
+        "devoir"
+      ],
+      [
+        "avoir besoin de",
+        "aider qqn à",
+        "aller"
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "J'ai arrêté de fumer.",
+        "en": "I've stopped smoking."
+      },
+      {
+        "fr": "Elle apprend à conduire.",
+        "en": "She's learning to drive."
+      },
+      {
+        "fr": "N'oublie pas d'appeler ta mère !",
+        "en": "Don't forget to call your mother!"
+      }
+    ],
+    "trap": "de becomes d' before a vowel: « essayer d'arrêter ». The second verb is always in the infinitive. aimer, vouloir, pouvoir, devoir, aller need nothing: « j'aime courir ». penser à = remember to: « pense à acheter du pain »."
+  },
+  "sounds": {
+    "title": "in or è?",
+    "explain": "Nasal « in » (fin, main, vin) vs. oral « è » (fait, mais, vais): the air goes through the nose for in.",
+    "pairs": [
+      [
+        "fin",
+        "fait"
+      ],
+      [
+        "main",
+        "mais"
+      ],
+      [
+        "vin",
+        "vais"
+      ],
+      [
+        "pain",
+        "paix"
+      ]
+    ],
+    "tip": "Pinch your nose: in changes, è doesn't."
+  },
+  "practice": [
+    {
+      "type": "fill",
+      "prompt": "Complete with à or de.",
+      "sentence": "J'ai arrêté ___ fumer.",
+      "answers": [
+        "de"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with à or de.",
+      "sentence": "Elle apprend ___ conduire.",
+      "answers": [
+        "à"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with à or de.",
+      "sentence": "J'essaie ___ dormir plus.",
+      "answers": [
+        "de"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with à or de.",
+      "sentence": "Il commence ___ courir.",
+      "answers": [
+        "à"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen and choose what you hear.",
+      "options": [
+        "main",
+        "mais"
+      ],
+      "answer": "main",
+      "listen": "main"
+    },
+    {
+      "type": "choice",
+      "prompt": "Which one needs no preposition?",
+      "options": [
+        "essayer",
+        "vouloir",
+        "commencer"
+      ],
+      "answer": "vouloir"
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "N'oublie",
+        "pas",
+        "d'appeler",
+        "ta",
+        "mère"
+      ],
+      "answer": "N'oublie pas d'appeler ta mère"
+    },
+    {
+      "type": "choice",
+      "prompt": "« Tu arrives à le faire ? » means…",
+      "options": [
+        "Are you arriving?",
+        "Do you manage to do it?",
+        "Are you doing it?"
+      ],
+      "answer": "Do you manage to do it?"
+    },
+    {
+      "type": "fill",
+      "prompt": "Translate: \"three times a week\"",
+      "sentence": "trois ___ par semaine",
+      "answers": [
+        "fois"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "« Pense à acheter du pain » means…",
+      "options": [
+        "Think about bread.",
+        "Remember to buy bread.",
+        "I think you buy bread."
+      ],
+      "answer": "Remember to buy bread."
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "J'ai",
+        "décidé",
+        "d'arrêter",
+        "le",
+        "sucre"
+      ],
+      "answer": "J'ai décidé d'arrêter le sucre"
+    },
+    {
+      "type": "choice",
+      "prompt": "In the dialogue, what has Léa started?",
+      "options": [
+        "running",
+        "yoga",
+        "a diet"
+      ],
+      "answer": "yoga"
+    }
+  ],
+  "task": {
+    "prompt": "Write your 5 resolutions for next year with at least 5 different verbs + à / de.",
+    "example": "J'ai décidé d'apprendre à nager. Je vais arrêter de regarder mon téléphone au lit. J'essaie de dormir huit heures. Je commence à courir le dimanche. Je ne veux pas oublier d'appeler ma famille !",
+    "checklist": [
+      "I know which verbs take à and which take de",
+      "I put the second verb in the infinitive",
+      "I can talk about resolutions and habits",
+      "I can say how often with « fois par »"
+    ]
+  }
+}

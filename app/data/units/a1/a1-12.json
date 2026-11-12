@@ -1,0 +1,356 @@
+{
+  "dialogue": [
+    {
+      "who": "Le médecin",
+      "fr": "Bonjour madame. Qu'est-ce qui ne va pas ?",
+      "en": "Hello madam. What's wrong?"
+    },
+    {
+      "who": "Sari",
+      "fr": "J'ai mal à la tête et à la gorge depuis deux jours.",
+      "en": "I have had a headache and a sore throat for two days."
+    },
+    {
+      "who": "Le médecin",
+      "fr": "Vous avez de la fièvre ?",
+      "en": "Do you have a temperature?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Oui, un peu. Et je suis très fatiguée.",
+      "en": "Yes, a little. And I'm very tired."
+    },
+    {
+      "who": "Le médecin",
+      "fr": "C'est une grippe. Il faut rester au lit et boire beaucoup d'eau.",
+      "en": "It's the flu. You need to stay in bed and drink a lot of water."
+    },
+    {
+      "who": "Sari",
+      "fr": "D'accord. Il faut prendre des médicaments ?",
+      "en": "OK. Do I need to take medicine?"
+    }
+  ],
+  "words": [
+    {
+      "id": "a1-12-medecin2",
+      "fr": "le médecin",
+      "en": "doctor",
+      "gender": "m"
+    },
+    {
+      "id": "a1-12-malade",
+      "fr": "malade",
+      "en": "ill, sick"
+    },
+    {
+      "id": "a1-12-tete",
+      "fr": "la tête",
+      "en": "head",
+      "gender": "f"
+    },
+    {
+      "id": "a1-12-gorge",
+      "fr": "la gorge",
+      "en": "throat",
+      "gender": "f"
+    },
+    {
+      "id": "a1-12-ventre",
+      "fr": "le ventre",
+      "en": "stomach, belly",
+      "gender": "m"
+    },
+    {
+      "id": "a1-12-dos",
+      "fr": "le dos",
+      "en": "back",
+      "gender": "m",
+      "note": "The s is silent."
+    },
+    {
+      "id": "a1-12-dents",
+      "fr": "les dents",
+      "en": "teeth",
+      "gender": "f"
+    },
+    {
+      "id": "a1-12-bras",
+      "fr": "le bras",
+      "en": "arm",
+      "gender": "m"
+    },
+    {
+      "id": "a1-12-jambe",
+      "fr": "la jambe",
+      "en": "leg",
+      "gender": "f"
+    },
+    {
+      "id": "a1-12-main",
+      "fr": "la main",
+      "en": "hand",
+      "gender": "f"
+    },
+    {
+      "id": "a1-12-pied",
+      "fr": "le pied",
+      "en": "foot",
+      "gender": "m"
+    },
+    {
+      "id": "a1-12-oreille",
+      "fr": "l'oreille",
+      "en": "ear",
+      "gender": "f"
+    },
+    {
+      "id": "a1-12-avoir-mal",
+      "fr": "avoir mal à",
+      "en": "to have a pain in, to hurt",
+      "note": "J'ai mal au dos, à la tête, aux dents."
+    },
+    {
+      "id": "a1-12-fievre",
+      "fr": "la fièvre",
+      "en": "fever, temperature",
+      "gender": "f"
+    },
+    {
+      "id": "a1-12-rhume",
+      "fr": "le rhume",
+      "en": "cold (illness)",
+      "gender": "m"
+    },
+    {
+      "id": "a1-12-grippe",
+      "fr": "la grippe",
+      "en": "flu",
+      "gender": "f"
+    },
+    {
+      "id": "a1-12-medicament",
+      "fr": "le médicament",
+      "en": "medicine",
+      "gender": "m"
+    },
+    {
+      "id": "a1-12-ordonnance",
+      "fr": "l'ordonnance",
+      "en": "prescription",
+      "gender": "f"
+    },
+    {
+      "id": "a1-12-se-reposer",
+      "fr": "se reposer",
+      "en": "to rest"
+    },
+    {
+      "id": "a1-12-aller-mieux",
+      "fr": "aller mieux",
+      "en": "to feel better",
+      "note": "« Ça va mieux ? »"
+    }
+  ],
+  "grammar": {
+    "title": "avoir mal à + il faut + infinitive",
+    "intro": "To say where it hurts, use avoir mal à + the body part (à + le = au, à + les = aux). To say what you must do, use il faut + infinitive: it never changes, whoever must do it.",
+    "table": [
+      [
+        "",
+        "Structure",
+        "Example"
+      ],
+      [
+        "pain (masc.)",
+        "avoir mal au + noun",
+        "J'ai mal au dos."
+      ],
+      [
+        "pain (fem.)",
+        "avoir mal à la + noun",
+        "J'ai mal à la tête."
+      ],
+      [
+        "pain (plural)",
+        "avoir mal aux + noun",
+        "J'ai mal aux dents."
+      ],
+      [
+        "you must",
+        "il faut + infinitive",
+        "Il faut se reposer."
+      ],
+      [
+        "you mustn't",
+        "il ne faut pas + infinitive",
+        "Il ne faut pas sortir."
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "J'ai mal au ventre.",
+        "en": "I have a stomach ache."
+      },
+      {
+        "fr": "Il faut boire beaucoup d'eau.",
+        "en": "You need to drink a lot of water."
+      },
+      {
+        "fr": "Il ne faut pas aller au travail.",
+        "en": "You mustn't go to work."
+      }
+    ],
+    "trap": "il faut is always « il »: « il faut partir » can mean I / you / we must leave. In the negative, ne… pas wraps faut: « il ne faut pas ». With a vowel: « à l'oreille »."
+  },
+  "sounds": {
+    "title": "peu or peur?",
+    "explain": "« eu » has two sounds: closed at the end of a word (peu, deux, bleu), open before a pronounced consonant (peur, sœur, fleur). Open = mouth a bit wider.",
+    "pairs": [
+      [
+        "peu",
+        "peur"
+      ],
+      [
+        "ceux",
+        "sœur"
+      ],
+      [
+        "bleu",
+        "fleur"
+      ],
+      [
+        "deux",
+        "neuf"
+      ]
+    ],
+    "tip": "Closed eu: lips tight and round. Open eu: drop your jaw a little."
+  },
+  "practice": [
+    {
+      "type": "fill",
+      "prompt": "Complete with au, à la or aux.",
+      "sentence": "J'ai mal ___ tête.",
+      "answers": [
+        "à la"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with au, à la or aux.",
+      "sentence": "J'ai mal ___ dos.",
+      "answers": [
+        "au"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with au, à la or aux.",
+      "sentence": "Il a mal ___ dents.",
+      "answers": [
+        "aux"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "\"You need to rest\" is…",
+      "options": [
+        "Il faut se reposer.",
+        "Il faut te reposes.",
+        "Tu faut reposer."
+      ],
+      "answer": "Il faut se reposer.",
+      "explain": "il faut + infinitive."
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen and choose what you hear.",
+      "options": [
+        "peu",
+        "peur"
+      ],
+      "answer": "peur",
+      "listen": "peur"
+    },
+    {
+      "type": "fill",
+      "prompt": "Make it negative.",
+      "sentence": "Il ___ faut pas sortir.",
+      "answers": [
+        "ne"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "J'ai",
+        "mal",
+        "à",
+        "la",
+        "gorge"
+      ],
+      "answer": "J'ai mal à la gorge"
+    },
+    {
+      "type": "choice",
+      "prompt": "« la fièvre » is…",
+      "options": [
+        "a cold",
+        "a temperature",
+        "a cough"
+      ],
+      "answer": "a temperature"
+    },
+    {
+      "type": "choice",
+      "prompt": "« Ça va mieux ? » means…",
+      "options": [
+        "Are you better?",
+        "Are you ill?",
+        "Does it hurt?"
+      ],
+      "answer": "Are you better?"
+    },
+    {
+      "type": "fill",
+      "prompt": "Translate: \"my leg\"",
+      "sentence": "ma ___",
+      "answers": [
+        "jambe"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Il",
+        "faut",
+        "prendre",
+        "ce",
+        "médicament"
+      ],
+      "answer": "Il faut prendre ce médicament"
+    },
+    {
+      "type": "choice",
+      "prompt": "In the dialogue, what does Sari have?",
+      "options": [
+        "a cold",
+        "the flu",
+        "a stomach ache"
+      ],
+      "answer": "the flu"
+    }
+  ],
+  "task": {
+    "prompt": "You are at the doctor's. Say where it hurts, since when, and write the doctor's advice with il faut / il ne faut pas.",
+    "example": "J'ai mal au ventre et à la tête depuis hier. Le médecin dit : il faut se reposer, il faut boire de l'eau et il ne faut pas manger de chocolat !",
+    "checklist": [
+      "I can name 10 parts of the body",
+      "I can say where it hurts with avoir mal au / à la / aux",
+      "I can give advice with il faut",
+      "I can understand a simple prescription"
+    ]
+  }
+}

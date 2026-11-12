@@ -1,0 +1,343 @@
+{
+  "dialogue": [
+    {
+      "who": "Léa",
+      "fr": "Regarde ! J'ai une grande nouvelle : je suis enceinte !",
+      "en": "Look! I have big news: I'm pregnant!"
+    },
+    {
+      "who": "Sari",
+      "fr": "Quelle bonne nouvelle ! Félicitations !",
+      "en": "What great news! Congratulations!"
+    },
+    {
+      "who": "Léa",
+      "fr": "Merci ! Le bébé arrive en juin.",
+      "en": "Thanks! The baby is due in June."
+    },
+    {
+      "who": "Sari",
+      "fr": "Comme je suis contente pour toi ! Tom va être fou !",
+      "en": "I'm so happy for you! Tom is going to be thrilled!"
+    },
+    {
+      "who": "Léa",
+      "fr": "Et regarde les premières photos…",
+      "en": "And look at the first pictures…"
+    },
+    {
+      "who": "Sari",
+      "fr": "Oh, qu'il est petit ! Quelle surprise, vraiment !",
+      "en": "Oh, he's so small! What a surprise, really!"
+    }
+  ],
+  "words": [
+    {
+      "id": "a2-12-nouvelle",
+      "fr": "la nouvelle",
+      "en": "news (one piece of news)",
+      "gender": "f",
+      "note": "« une bonne nouvelle »"
+    },
+    {
+      "id": "a2-12-surprise",
+      "fr": "la surprise",
+      "en": "surprise",
+      "gender": "f"
+    },
+    {
+      "id": "a2-12-felicitations2",
+      "fr": "Félicitations !",
+      "en": "Congratulations!"
+    },
+    {
+      "id": "a2-12-quelle-chance",
+      "fr": "Quelle chance !",
+      "en": "How lucky!"
+    },
+    {
+      "id": "a2-12-quel-dommage",
+      "fr": "Quel dommage !",
+      "en": "What a pity!"
+    },
+    {
+      "id": "a2-12-super",
+      "fr": "Super ! / Génial !",
+      "en": "Great!"
+    },
+    {
+      "id": "a2-12-incroyable",
+      "fr": "incroyable",
+      "en": "incredible"
+    },
+    {
+      "id": "a2-12-pas-vrai",
+      "fr": "C'est pas vrai !",
+      "en": "No way! (that can't be true)"
+    },
+    {
+      "id": "a2-12-enceinte",
+      "fr": "enceinte",
+      "en": "pregnant"
+    },
+    {
+      "id": "a2-12-bebe",
+      "fr": "le bébé",
+      "en": "baby",
+      "gender": "m",
+      "note": "Always masculine, even for a girl."
+    },
+    {
+      "id": "a2-12-naissance",
+      "fr": "la naissance",
+      "en": "birth",
+      "gender": "f"
+    },
+    {
+      "id": "a2-12-mariage",
+      "fr": "le mariage",
+      "en": "wedding; marriage",
+      "gender": "m"
+    },
+    {
+      "id": "a2-12-fiance",
+      "fr": "fiancé / fiancée",
+      "en": "engaged; fiancé(e)"
+    },
+    {
+      "id": "a2-12-etre-ravi",
+      "fr": "être ravi(e)",
+      "en": "to be delighted"
+    },
+    {
+      "id": "a2-12-etre-decu",
+      "fr": "être déçu(e)",
+      "en": "to be disappointed"
+    },
+    {
+      "id": "a2-12-etre-surpris",
+      "fr": "être surpris(e)",
+      "en": "to be surprised"
+    },
+    {
+      "id": "a2-12-feliciter2",
+      "fr": "féliciter",
+      "en": "to congratulate"
+    },
+    {
+      "id": "a2-12-annoncer",
+      "fr": "annoncer",
+      "en": "to announce"
+    },
+    {
+      "id": "a2-12-comme",
+      "fr": "comme…!",
+      "en": "how…! (exclamation)"
+    },
+    {
+      "id": "a2-12-vraiment",
+      "fr": "vraiment",
+      "en": "really"
+    }
+  ],
+  "grammar": {
+    "title": "Quel… ! Que… ! Comme… !: exclamations",
+    "intro": "To react with emotion — surprise, joy, pity — French uses quel + noun, or que / comme + a whole sentence.",
+    "table": [
+      [
+        "Structure",
+        "Use",
+        "Example"
+      ],
+      [
+        "Quel / Quelle + noun !",
+        "with a noun",
+        "Quelle surprise ! Quel beau temps !"
+      ],
+      [
+        "Quels / Quelles + noun !",
+        "plural",
+        "Quelles jolies photos !"
+      ],
+      [
+        "Que + sentence !",
+        "how… !",
+        "Qu'il est petit !"
+      ],
+      [
+        "Comme + sentence !",
+        "how… ! (very common)",
+        "Comme je suis contente !"
+      ],
+      [
+        "Ce que + sentence !",
+        "how… ! (spoken)",
+        "Ce qu'il fait chaud !"
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "Quelle bonne nouvelle !",
+        "en": "What great news!"
+      },
+      {
+        "fr": "Comme il est mignon !",
+        "en": "He's so cute!"
+      },
+      {
+        "fr": "Quel dommage !",
+        "en": "What a pity!"
+      }
+    ],
+    "trap": "quel agrees with the noun like in questions: quel, quelle, quels, quelles — all pronounced the same. Don't confuse « comme » (how…!) with « comment » (how? in a question). que becomes qu' before a vowel: « Qu'il est grand ! »."
+  },
+  "sounds": {
+    "title": "Question or exclamation?",
+    "explain": "The same words can be a question (voice up at the end) or an exclamation (voice up, then strongly down). And « comme » is not « comment ».",
+    "pairs": [
+      [
+        "comme",
+        "comment"
+      ],
+      [
+        "Quelle robe ?",
+        "Quelle belle robe !"
+      ],
+      [
+        "Que c'est beau !",
+        "Qu'est-ce que c'est ?"
+      ],
+      [
+        "Ah bon ?",
+        "Ah bon !"
+      ]
+    ],
+    "tip": "Exclamation: say it with a big smile and a falling voice."
+  },
+  "practice": [
+    {
+      "type": "fill",
+      "prompt": "Complete with quel, quelle, quels or quelles.",
+      "sentence": "___ surprise !",
+      "answers": [
+        "quelle"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with quel, quelle, quels or quelles.",
+      "sentence": "___ beau temps !",
+      "answers": [
+        "quel"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with quel, quelle, quels or quelles.",
+      "sentence": "___ jolies photos !",
+      "answers": [
+        "quelles"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "\"He's so cute!\" is…",
+      "options": [
+        "Comment il est mignon !",
+        "Comme il est mignon !",
+        "Quel il est mignon !"
+      ],
+      "answer": "Comme il est mignon !"
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen and choose what you hear.",
+      "options": [
+        "comme",
+        "comment"
+      ],
+      "answer": "comme",
+      "listen": "comme"
+    },
+    {
+      "type": "choice",
+      "prompt": "Someone failed an exam. You say…",
+      "options": [
+        "Quelle chance !",
+        "Quel dommage !",
+        "Félicitations !"
+      ],
+      "answer": "Quel dommage !"
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Quelle",
+        "bonne",
+        "nouvelle"
+      ],
+      "answer": "Quelle bonne nouvelle"
+    },
+    {
+      "type": "choice",
+      "prompt": "« être déçu » means…",
+      "options": [
+        "to be delighted",
+        "to be disappointed",
+        "to be surprised"
+      ],
+      "answer": "to be disappointed"
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete.",
+      "sentence": "___ il est grand ! (Qu' / Comme)",
+      "answers": [
+        "qu'",
+        "comme"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "« le bébé » is…",
+      "options": [
+        "always masculine",
+        "always feminine",
+        "it depends on the baby"
+      ],
+      "answer": "always masculine"
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Comme",
+        "je",
+        "suis",
+        "contente"
+      ],
+      "answer": "Comme je suis contente"
+    },
+    {
+      "type": "choice",
+      "prompt": "In the dialogue, what is Léa's news?",
+      "options": [
+        "she is getting married",
+        "she is pregnant",
+        "she has a new job"
+      ],
+      "answer": "she is pregnant"
+    }
+  ],
+  "task": {
+    "prompt": "React to 5 pieces of news with an exclamation each: a friend is getting married, your sister got a job, it is raining on your holiday, someone won the lottery, your cat is ill.",
+    "example": "Félicitations, quelle bonne nouvelle ! Comme je suis contente pour toi ! Quel dommage, il pleut ! Quelle chance ! Oh non, le pauvre, comme il est malade…",
+    "checklist": [
+      "I can use quel / quelle + noun",
+      "I can use comme and que + sentence",
+      "I can react to good and bad news",
+      "I hear the difference between comme and comment"
+    ]
+  }
+}

@@ -1,0 +1,366 @@
+{
+  "dialogue": [
+    {
+      "who": "Léa",
+      "fr": "Tu as vu le prix de cet appartement ? Trois cent cinquante mille euros !",
+      "en": "Have you seen the price of this flat? Three hundred and fifty thousand euros!"
+    },
+    {
+      "who": "Sari",
+      "fr": "C'est cher ! Il fait combien de mètres carrés ?",
+      "en": "That's expensive! How many square metres is it?"
+    },
+    {
+      "who": "Léa",
+      "fr": "Quarante-cinq. Il date de mille neuf cent trente.",
+      "en": "Forty-five. It dates from nineteen thirty."
+    },
+    {
+      "who": "Sari",
+      "fr": "À Jakarta, avec cet argent, on a une grande maison !",
+      "en": "In Jakarta, with that money, you get a big house!"
+    },
+    {
+      "who": "Léa",
+      "fr": "Ça fait combien en roupies ?",
+      "en": "How much is that in rupiahs?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Environ six milliards ! Mais bon, à Paris, tout est cher.",
+      "en": "About six billion! But well, in Paris everything is expensive."
+    }
+  ],
+  "words": [
+    {
+      "id": "a1-20-cent2",
+      "fr": "cent",
+      "en": "100"
+    },
+    {
+      "id": "a1-20-deux-cents",
+      "fr": "deux cents",
+      "en": "200",
+      "note": "-s when nothing follows: deux cents, but deux cent dix."
+    },
+    {
+      "id": "a1-20-mille",
+      "fr": "mille",
+      "en": "1,000",
+      "note": "Never takes -s: deux mille."
+    },
+    {
+      "id": "a1-20-million",
+      "fr": "un million",
+      "en": "1,000,000"
+    },
+    {
+      "id": "a1-20-milliard",
+      "fr": "un milliard",
+      "en": "1,000,000,000 (a billion)"
+    },
+    {
+      "id": "a1-20-prix",
+      "fr": "le prix",
+      "en": "price",
+      "gender": "m"
+    },
+    {
+      "id": "a1-20-combien-coute",
+      "fr": "Ça fait combien ?",
+      "en": "How much is it (in total)?"
+    },
+    {
+      "id": "a1-20-environ",
+      "fr": "environ",
+      "en": "about, approximately"
+    },
+    {
+      "id": "a1-20-moitie",
+      "fr": "la moitié",
+      "en": "half",
+      "gender": "f"
+    },
+    {
+      "id": "a1-20-pour-cent",
+      "fr": "pour cent",
+      "en": "per cent",
+      "note": "10 % = dix pour cent"
+    },
+    {
+      "id": "a1-20-metre",
+      "fr": "le mètre carré",
+      "en": "square metre",
+      "gender": "m"
+    },
+    {
+      "id": "a1-20-kilometre",
+      "fr": "le kilomètre",
+      "en": "kilometre",
+      "gender": "m"
+    },
+    {
+      "id": "a1-20-annee",
+      "fr": "l'année",
+      "en": "year",
+      "gender": "f"
+    },
+    {
+      "id": "a1-20-siecle",
+      "fr": "le siècle",
+      "en": "century",
+      "gender": "m"
+    },
+    {
+      "id": "a1-20-cher2",
+      "fr": "bon marché",
+      "en": "cheap",
+      "note": "Never changes: « des chaussures bon marché »."
+    },
+    {
+      "id": "a1-20-soldes",
+      "fr": "les soldes",
+      "en": "the sales",
+      "gender": "m"
+    },
+    {
+      "id": "a1-20-reduction",
+      "fr": "la réduction",
+      "en": "discount",
+      "gender": "f"
+    },
+    {
+      "id": "a1-20-compter",
+      "fr": "compter",
+      "en": "to count"
+    },
+    {
+      "id": "a1-20-nombre",
+      "fr": "le nombre",
+      "en": "number",
+      "gender": "m"
+    },
+    {
+      "id": "a1-20-premier-chiffre",
+      "fr": "le chiffre",
+      "en": "figure, digit",
+      "gender": "m"
+    }
+  ],
+  "grammar": {
+    "title": "Big numbers, prices and years",
+    "intro": "After 100, French numbers are logical: just stick the parts together. Years are said like normal numbers, not in pairs like in English.",
+    "table": [
+      [
+        "Number",
+        "French",
+        "Note"
+      ],
+      [
+        "100 / 101",
+        "cent / cent un",
+        "no « un » before cent"
+      ],
+      [
+        "200 / 250",
+        "deux cents / deux cent cinquante",
+        "-s only if nothing follows"
+      ],
+      [
+        "1 000 / 2 000",
+        "mille / deux mille",
+        "mille never takes -s"
+      ],
+      [
+        "1 500 000",
+        "un million cinq cent mille",
+        ""
+      ],
+      [
+        "1999",
+        "mille neuf cent quatre-vingt-dix-neuf",
+        "not « dix-neuf quatre-vingt-dix-neuf »"
+      ],
+      [
+        "2026",
+        "deux mille vingt-six",
+        ""
+      ],
+      [
+        "12,50 €",
+        "douze euros cinquante",
+        "comma for decimals"
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "Ça fait deux cent trente euros.",
+        "en": "That's 230 euros."
+      },
+      {
+        "fr": "Je suis née en deux mille.",
+        "en": "I was born in 2000."
+      },
+      {
+        "fr": "Il y a environ deux millions d'habitants.",
+        "en": "There are about two million inhabitants."
+      }
+    ],
+    "trap": "French writes 1 000 (with a space) and 12,50 (with a comma) — the opposite of English. un million de / un milliard de + noun: « un million d'euros ». For prices, the cents follow the euros: « 4,90 € » = quatre euros quatre-vingt-dix."
+  },
+  "sounds": {
+    "title": "Six, dix, huit: three ways to say them",
+    "explain": "six, dix and huit change before another word: you hear the final consonant alone, it disappears before a consonant, and it links with a z (or t) before a vowel.",
+    "pairs": [
+      [
+        "six",
+        "six livres"
+      ],
+      [
+        "dix",
+        "dix euros"
+      ],
+      [
+        "huit",
+        "huit jours"
+      ],
+      [
+        "cinq",
+        "cinq cents"
+      ]
+    ],
+    "tip": "Alone: « sis, dis ». Before a consonant: « si livres ». Before a vowel: « di_z_euros »."
+  },
+  "practice": [
+    {
+      "type": "fill",
+      "prompt": "Write in letters.",
+      "sentence": "200 = deux ___",
+      "answers": [
+        "cents"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Write in letters.",
+      "sentence": "1 000 = ___",
+      "answers": [
+        "mille"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "How do you say 1990?",
+      "options": [
+        "dix-neuf quatre-vingt-dix",
+        "mille neuf cent quatre-vingt-dix",
+        "mille neuf cents quatre-vingt-dix"
+      ],
+      "answer": "mille neuf cent quatre-vingt-dix"
+    },
+    {
+      "type": "choice",
+      "prompt": "Which one is correct?",
+      "options": [
+        "deux milles euros",
+        "deux mille euros"
+      ],
+      "answer": "deux mille euros",
+      "explain": "mille never takes -s."
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen and choose what you hear.",
+      "options": [
+        "six",
+        "six livres"
+      ],
+      "answer": "six livres",
+      "listen": "six livres"
+    },
+    {
+      "type": "choice",
+      "prompt": "« 4,50 € » is…",
+      "options": [
+        "quatre euros cinquante",
+        "quarante-cinq euros",
+        "quatre cent cinquante euros"
+      ],
+      "answer": "quatre euros cinquante"
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Ça",
+        "fait",
+        "deux",
+        "cent",
+        "dix",
+        "euros"
+      ],
+      "answer": "Ça fait deux cent dix euros"
+    },
+    {
+      "type": "choice",
+      "prompt": "« bon marché » means…",
+      "options": [
+        "expensive",
+        "cheap",
+        "on sale"
+      ],
+      "answer": "cheap"
+    },
+    {
+      "type": "fill",
+      "prompt": "Translate: \"about\"",
+      "sentence": "Il y a ___ cent personnes.",
+      "answers": [
+        "environ"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "« la moitié » is…",
+      "options": [
+        "a quarter",
+        "half",
+        "a third"
+      ],
+      "answer": "half"
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Je",
+        "suis",
+        "née",
+        "en",
+        "deux",
+        "mille"
+      ],
+      "answer": "Je suis née en deux mille"
+    },
+    {
+      "type": "choice",
+      "prompt": "In the dialogue, how big is the flat?",
+      "options": [
+        "35 m²",
+        "45 m²",
+        "350 m²"
+      ],
+      "answer": "45 m²"
+    }
+  ],
+  "task": {
+    "prompt": "Write 5 sentences with big numbers: the year you were born, the population of your city, the price of something expensive, your rent, the distance to your family.",
+    "example": "Je suis née en deux mille. Jakarta a environ dix millions d'habitants. Un iPhone coûte mille deux cents euros. Mon loyer est de neuf cent cinquante euros. Ma famille habite à onze mille kilomètres !",
+    "checklist": [
+      "I can count to a million",
+      "I can say a year",
+      "I can say a price with cents",
+      "I know when cent and mille take -s"
+    ]
+  }
+}

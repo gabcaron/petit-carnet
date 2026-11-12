@@ -1,0 +1,340 @@
+{
+  "dialogue": [
+    {
+      "who": "Léa",
+      "fr": "Alors, Tom et toi, vous vous êtes rencontrés comment ?",
+      "en": "So, how did you and Tom meet?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Sur une plage à Bali ! Il était en vacances, on s'est parlé au coucher du soleil.",
+      "en": "On a beach in Bali! He was on holiday, we talked at sunset."
+    },
+    {
+      "who": "Léa",
+      "fr": "Trop romantique ! Et après ?",
+      "en": "So romantic! And then?"
+    },
+    {
+      "who": "Sari",
+      "fr": "On s'est écrit tous les jours pendant six mois. Puis il est revenu.",
+      "en": "We wrote to each other every day for six months. Then he came back."
+    },
+    {
+      "who": "Léa",
+      "fr": "Vous vous disputez parfois ?",
+      "en": "Do you sometimes argue?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Bien sûr ! Mais on se réconcilie vite. On s'aime, c'est le plus important.",
+      "en": "Of course! But we make up quickly. We love each other, that's the most important thing."
+    }
+  ],
+  "words": [
+    {
+      "id": "a2-22-se-rencontrer",
+      "fr": "se rencontrer",
+      "en": "to meet (each other)"
+    },
+    {
+      "id": "a2-22-tomber-amoureux",
+      "fr": "tomber amoureux / amoureuse (de)",
+      "en": "to fall in love (with)"
+    },
+    {
+      "id": "a2-22-s-aimer",
+      "fr": "s'aimer",
+      "en": "to love each other"
+    },
+    {
+      "id": "a2-22-se-disputer",
+      "fr": "se disputer",
+      "en": "to argue"
+    },
+    {
+      "id": "a2-22-se-reconcilier",
+      "fr": "se réconcilier",
+      "en": "to make up"
+    },
+    {
+      "id": "a2-22-se-separer",
+      "fr": "se séparer",
+      "en": "to split up"
+    },
+    {
+      "id": "a2-22-se-quitter",
+      "fr": "se quitter",
+      "en": "to leave each other"
+    },
+    {
+      "id": "a2-22-se-revoir",
+      "fr": "se revoir",
+      "en": "to see each other again"
+    },
+    {
+      "id": "a2-22-se-fiancer",
+      "fr": "se fiancer",
+      "en": "to get engaged"
+    },
+    {
+      "id": "a2-22-couple",
+      "fr": "le couple",
+      "en": "couple",
+      "gender": "m"
+    },
+    {
+      "id": "a2-22-amour",
+      "fr": "l'amour",
+      "en": "love",
+      "gender": "m"
+    },
+    {
+      "id": "a2-22-mari2",
+      "fr": "le mari / la femme",
+      "en": "husband / wife"
+    },
+    {
+      "id": "a2-22-copain2",
+      "fr": "le petit ami / la petite amie",
+      "en": "boyfriend / girlfriend"
+    },
+    {
+      "id": "a2-22-celibataire",
+      "fr": "célibataire",
+      "en": "single"
+    },
+    {
+      "id": "a2-22-romantique",
+      "fr": "romantique",
+      "en": "romantic"
+    },
+    {
+      "id": "a2-22-jaloux",
+      "fr": "jaloux / jalouse",
+      "en": "jealous"
+    },
+    {
+      "id": "a2-22-coucher-soleil",
+      "fr": "le coucher du soleil",
+      "en": "sunset",
+      "gender": "m"
+    },
+    {
+      "id": "a2-22-revenir",
+      "fr": "revenir",
+      "en": "to come back",
+      "note": "Past with être: il est revenu."
+    },
+    {
+      "id": "a2-22-rendez-vous2",
+      "fr": "le premier rendez-vous",
+      "en": "first date",
+      "gender": "m"
+    },
+    {
+      "id": "a2-22-le-plus-important",
+      "fr": "le plus important",
+      "en": "the most important thing"
+    }
+  ],
+  "grammar": {
+    "title": "Reciprocal verbs: se rencontrer, s'aimer",
+    "intro": "Many verbs become « each other » verbs with se: ils se voient = they see each other. In the passé composé they use être, like all reflexive verbs.",
+    "table": [
+      [
+        "",
+        "Present",
+        "Passé composé"
+      ],
+      [
+        "nous",
+        "nous nous aimons",
+        "nous nous sommes rencontrés"
+      ],
+      [
+        "on (= nous)",
+        "on s'aime",
+        "on s'est rencontrés"
+      ],
+      [
+        "vous",
+        "vous vous disputez",
+        "vous vous êtes disputés"
+      ],
+      [
+        "ils / elles",
+        "ils se voient",
+        "ils se sont vus"
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "On s'est rencontrés à Bali.",
+        "en": "We met in Bali."
+      },
+      {
+        "fr": "Ils se disputent souvent.",
+        "en": "They argue often."
+      },
+      {
+        "fr": "Vous vous êtes revus quand ?",
+        "en": "When did you see each other again?"
+      }
+    ],
+    "trap": "With être, the participle usually agrees (rencontrés, vus). Exception: verbs with à, like se parler, s'écrire, se téléphoner — no agreement: « elles se sont parlé », « on s'est écrit ». Don't worry too much about it at A2 — focus on using être."
+  },
+  "sounds": {
+    "title": "Each other or not?",
+    "explain": "The extra se (or nous / vous) changes the meaning: « ils voient » (they see), « ils se voient » (they see each other).",
+    "pairs": [
+      [
+        "ils se voient",
+        "ils voient"
+      ],
+      [
+        "on s'aime",
+        "on aime"
+      ],
+      [
+        "ils se parlent",
+        "ils parlent"
+      ],
+      [
+        "nous nous écrivons",
+        "nous écrivons"
+      ]
+    ],
+    "tip": "Listen for the little se, s' or the double nous."
+  },
+  "practice": [
+    {
+      "type": "fill",
+      "prompt": "Complete with the pronoun.",
+      "sentence": "Ils ___ aiment.",
+      "answers": [
+        "s'"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with être.",
+      "sentence": "Nous nous ___ rencontrés à Bali.",
+      "answers": [
+        "sommes"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "\"They argue\" is…",
+      "options": [
+        "Ils disputent.",
+        "Ils se disputent.",
+        "Ils se sont disputer."
+      ],
+      "answer": "Ils se disputent."
+    },
+    {
+      "type": "choice",
+      "prompt": "Passé composé of « se rencontrer » (on):",
+      "options": [
+        "On a rencontré.",
+        "On s'est rencontrés.",
+        "On s'a rencontré."
+      ],
+      "answer": "On s'est rencontrés."
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen and choose what you hear.",
+      "options": [
+        "ils se voient",
+        "ils voient"
+      ],
+      "answer": "ils se voient",
+      "listen": "ils se voient"
+    },
+    {
+      "type": "choice",
+      "prompt": "« se réconcilier » means…",
+      "options": [
+        "to split up",
+        "to make up",
+        "to get engaged"
+      ],
+      "answer": "to make up"
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "On",
+        "s'est",
+        "rencontrés",
+        "sur",
+        "une",
+        "plage"
+      ],
+      "answer": "On s'est rencontrés sur une plage"
+    },
+    {
+      "type": "choice",
+      "prompt": "« célibataire » means…",
+      "options": [
+        "married",
+        "single",
+        "engaged"
+      ],
+      "answer": "single"
+    },
+    {
+      "type": "fill",
+      "prompt": "Make it feminine.",
+      "sentence": "Il est jaloux. Elle est ___.",
+      "answers": [
+        "jalouse"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "« tomber amoureux » means…",
+      "options": [
+        "to fall in love",
+        "to fall down",
+        "to break up"
+      ],
+      "answer": "to fall in love"
+    },
+    {
+      "type": "order",
+      "prompt": "Make the question.",
+      "words": [
+        "Vous",
+        "vous",
+        "disputez",
+        "parfois"
+      ],
+      "answer": "Vous vous disputez parfois"
+    },
+    {
+      "type": "choice",
+      "prompt": "In the dialogue, where did Sari and Tom meet?",
+      "options": [
+        "in Paris",
+        "on a beach in Bali",
+        "at work"
+      ],
+      "answer": "on a beach in Bali"
+    }
+  ],
+  "task": {
+    "prompt": "Tell a love story (yours, your parents', or a film's) in 6 sentences, with at least 4 reciprocal verbs in the passé composé.",
+    "example": "Mes parents se sont rencontrés à l'université. Ils se sont parlé pendant un cours. Ils sont tombés amoureux tout de suite. Ils se sont disputés une fois, mais ils se sont réconciliés. Ils se sont mariés en 1995. Ils s'aiment toujours !",
+    "checklist": [
+      "I can use reciprocal verbs (se rencontrer, s'aimer…)",
+      "I use être in the passé composé",
+      "I can tell a love story",
+      "I know relationship words"
+    ]
+  }
+}

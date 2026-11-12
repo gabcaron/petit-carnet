@@ -1,0 +1,352 @@
+{
+  "dialogue": [
+    {
+      "who": "Sari",
+      "fr": "Tom, tu attends quoi ? On doit partir !",
+      "en": "Tom, what are you waiting for? We have to leave!"
+    },
+    {
+      "who": "Tom",
+      "fr": "J'attends un message. Je vends mon vieux vélo en ligne.",
+      "en": "I'm waiting for a message. I'm selling my old bike online."
+    },
+    {
+      "who": "Sari",
+      "fr": "Et les gens répondent ?",
+      "en": "And are people answering?"
+    },
+    {
+      "who": "Tom",
+      "fr": "Oui, trois personnes ! Je réponds juste à la dernière.",
+      "en": "Yes, three people! I'm just replying to the last one."
+    },
+    {
+      "who": "Sari",
+      "fr": "Tu perds ton temps sur ce site… Moi, je descends, je t'attends en bas !",
+      "en": "You're wasting your time on that site… I'm going down, I'll wait for you downstairs!"
+    },
+    {
+      "who": "Tom",
+      "fr": "J'arrive ! J'entends déjà le taxi.",
+      "en": "I'm coming! I can already hear the taxi."
+    }
+  ],
+  "words": [
+    {
+      "id": "a1-23-internet",
+      "fr": "internet",
+      "en": "the internet",
+      "note": "No article: « sur internet »."
+    },
+    {
+      "id": "a1-23-en-ligne",
+      "fr": "en ligne",
+      "en": "online"
+    },
+    {
+      "id": "a1-23-site",
+      "fr": "le site",
+      "en": "website",
+      "gender": "m"
+    },
+    {
+      "id": "a1-23-appli",
+      "fr": "l'application",
+      "en": "app",
+      "gender": "f",
+      "note": "Short: une appli."
+    },
+    {
+      "id": "a1-23-mot-de-passe",
+      "fr": "le mot de passe",
+      "en": "password",
+      "gender": "m"
+    },
+    {
+      "id": "a1-23-email",
+      "fr": "l'e-mail",
+      "en": "email",
+      "gender": "m",
+      "note": "Also: le mail, le courriel (Québec)."
+    },
+    {
+      "id": "a1-23-telecharger",
+      "fr": "télécharger",
+      "en": "to download"
+    },
+    {
+      "id": "a1-23-cliquer",
+      "fr": "cliquer",
+      "en": "to click"
+    },
+    {
+      "id": "a1-23-reseaux",
+      "fr": "les réseaux sociaux",
+      "en": "social media",
+      "gender": "m"
+    },
+    {
+      "id": "a1-23-ecran",
+      "fr": "l'écran",
+      "en": "screen",
+      "gender": "m"
+    },
+    {
+      "id": "a1-23-attendre2",
+      "fr": "attendre",
+      "en": "to wait (for)",
+      "note": "No « for »: « j'attends le bus »."
+    },
+    {
+      "id": "a1-23-repondre2",
+      "fr": "répondre (à)",
+      "en": "to answer, to reply (to)"
+    },
+    {
+      "id": "a1-23-vendre2",
+      "fr": "vendre",
+      "en": "to sell"
+    },
+    {
+      "id": "a1-23-perdre",
+      "fr": "perdre",
+      "en": "to lose",
+      "note": "« perdre son temps » = to waste time"
+    },
+    {
+      "id": "a1-23-entendre",
+      "fr": "entendre",
+      "en": "to hear"
+    },
+    {
+      "id": "a1-23-descendre3",
+      "fr": "descendre",
+      "en": "to go down"
+    },
+    {
+      "id": "a1-23-rendre",
+      "fr": "rendre",
+      "en": "to give back"
+    },
+    {
+      "id": "a1-23-vieux",
+      "fr": "vieux / vieille",
+      "en": "old",
+      "note": "Before the noun: un vieux vélo."
+    },
+    {
+      "id": "a1-23-en-bas",
+      "fr": "en bas / en haut",
+      "en": "downstairs / upstairs"
+    },
+    {
+      "id": "a1-23-j-arrive",
+      "fr": "J'arrive !",
+      "en": "I'm coming!"
+    }
+  ],
+  "grammar": {
+    "title": "Verbs in -re like attendre",
+    "intro": "Many useful verbs end in -re: attendre, répondre, vendre, perdre, entendre, descendre, rendre. They follow one easy pattern: no ending at all with il / elle.",
+    "table": [
+      [
+        "",
+        "attendre",
+        "répondre"
+      ],
+      [
+        "je / j'",
+        "attends",
+        "réponds"
+      ],
+      [
+        "tu",
+        "attends",
+        "réponds"
+      ],
+      [
+        "il / elle",
+        "attend",
+        "répond"
+      ],
+      [
+        "nous",
+        "attendons",
+        "répondons"
+      ],
+      [
+        "vous",
+        "attendez",
+        "répondez"
+      ],
+      [
+        "ils / elles",
+        "attendent",
+        "répondent"
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "J'attends le bus.",
+        "en": "I'm waiting for the bus."
+      },
+      {
+        "fr": "Elle répond à mon message.",
+        "en": "She's replying to my message."
+      },
+      {
+        "fr": "Ils vendent leur voiture.",
+        "en": "They're selling their car."
+      }
+    ],
+    "trap": "The d is silent in attends, attend, but you hear it in the plural: « ils attendent ». attendre has no « for »: « j'attends Tom ». répondre takes à: « je réponds à Léa ». prendre is NOT like this one (nous prenons, ils prennent)."
+  },
+  "sounds": {
+    "title": "One or several?",
+    "explain": "With -re verbs, the plural is easy to hear: the d (or another consonant) is silent in the singular and pronounced in the plural.",
+    "pairs": [
+      [
+        "il attend",
+        "ils attendent"
+      ],
+      [
+        "il répond",
+        "ils répondent"
+      ],
+      [
+        "il vend",
+        "ils vendent"
+      ],
+      [
+        "il descend",
+        "ils descendent"
+      ]
+    ],
+    "tip": "Listen for the d at the end: plural."
+  },
+  "practice": [
+    {
+      "type": "fill",
+      "prompt": "Complete with attendre.",
+      "sentence": "J'___ le bus.",
+      "answers": [
+        "attends"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with répondre.",
+      "sentence": "Elle ___ à mon e-mail.",
+      "answers": [
+        "répond"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with vendre.",
+      "sentence": "Nous ___ notre voiture.",
+      "answers": [
+        "vendons"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "\"I'm waiting for Tom\" is…",
+      "options": [
+        "J'attends pour Tom.",
+        "J'attends Tom.",
+        "J'attends à Tom."
+      ],
+      "answer": "J'attends Tom.",
+      "explain": "No « for » after attendre."
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen and choose what you hear.",
+      "options": [
+        "il répond",
+        "ils répondent"
+      ],
+      "answer": "ils répondent",
+      "listen": "ils répondent"
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with perdre.",
+      "sentence": "Tu ___ ton temps !",
+      "answers": [
+        "perds"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Ils",
+        "attendent",
+        "un",
+        "message"
+      ],
+      "answer": "Ils attendent un message"
+    },
+    {
+      "type": "choice",
+      "prompt": "« télécharger » means…",
+      "options": [
+        "to click",
+        "to download",
+        "to delete"
+      ],
+      "answer": "to download"
+    },
+    {
+      "type": "choice",
+      "prompt": "« le mot de passe » is…",
+      "options": [
+        "the password",
+        "the website",
+        "the screen"
+      ],
+      "answer": "the password"
+    },
+    {
+      "type": "fill",
+      "prompt": "Make it feminine.",
+      "sentence": "un vieux vélo, une ___ voiture",
+      "answers": [
+        "vieille"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Je",
+        "réponds",
+        "à",
+        "Léa"
+      ],
+      "answer": "Je réponds à Léa"
+    },
+    {
+      "type": "choice",
+      "prompt": "In the dialogue, what is Tom selling?",
+      "options": [
+        "his car",
+        "his old bike",
+        "his phone"
+      ],
+      "answer": "his old bike"
+    }
+  ],
+  "task": {
+    "prompt": "Write 5 sentences about what you do online: which apps you use, who you answer, what you sell or buy, what you are waiting for.",
+    "example": "J'utilise WhatsApp tous les jours. Je réponds à ma famille le soir. Je vends mes vieux vêtements en ligne. J'attends un colis. Je perds beaucoup de temps sur les réseaux sociaux !",
+    "checklist": [
+      "I can conjugate attendre, répondre, vendre",
+      "I know 10 words about the internet",
+      "I can say « attendre quelqu'un » without « pour »",
+      "I can hear the difference between il attend and ils attendent"
+    ]
+  }
+}

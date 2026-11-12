@@ -1,0 +1,346 @@
+{
+  "dialogue": [
+    {
+      "who": "Léa",
+      "fr": "Tu as vu « L'Été bleu », le nouveau film français ? Il est sorti il y a une semaine.",
+      "en": "Have you seen « L'Été bleu », the new French film? It came out a week ago."
+    },
+    {
+      "who": "Sari",
+      "fr": "Pas encore ! Je n'ai pas le temps depuis un mois.",
+      "en": "Not yet! I haven't had time for a month."
+    },
+    {
+      "who": "Léa",
+      "fr": "Il dure deux heures, mais on ne s'ennuie pas une seconde.",
+      "en": "It lasts two hours, but you're not bored for a second."
+    },
+    {
+      "who": "Sari",
+      "fr": "Ça parle de quoi ?",
+      "en": "What's it about?"
+    },
+    {
+      "who": "Léa",
+      "fr": "D'une jeune fille qui cherche sa mère pendant tout un été.",
+      "en": "A young girl who looks for her mother for a whole summer."
+    },
+    {
+      "who": "Sari",
+      "fr": "Ça a l'air beau. On y va dans deux jours, samedi ?",
+      "en": "It sounds beautiful. Shall we go in two days, on Saturday?"
+    }
+  ],
+  "words": [
+    {
+      "id": "a2-17-film",
+      "fr": "le film",
+      "en": "film, movie",
+      "gender": "m"
+    },
+    {
+      "id": "a2-17-serie",
+      "fr": "la série",
+      "en": "series",
+      "gender": "f"
+    },
+    {
+      "id": "a2-17-seance",
+      "fr": "la séance",
+      "en": "showing, screening",
+      "gender": "f"
+    },
+    {
+      "id": "a2-17-acteur",
+      "fr": "acteur / actrice",
+      "en": "actor / actress"
+    },
+    {
+      "id": "a2-17-realisateur",
+      "fr": "réalisateur / réalisatrice",
+      "en": "director (film)"
+    },
+    {
+      "id": "a2-17-histoire2",
+      "fr": "l'histoire",
+      "en": "story; history",
+      "gender": "f"
+    },
+    {
+      "id": "a2-17-personnage",
+      "fr": "le personnage",
+      "en": "character",
+      "gender": "m"
+    },
+    {
+      "id": "a2-17-sous-titres",
+      "fr": "les sous-titres",
+      "en": "subtitles",
+      "gender": "m",
+      "note": "« en VO » = original version with subtitles"
+    },
+    {
+      "id": "a2-17-sortir2",
+      "fr": "sortir (au cinéma)",
+      "en": "to come out (film)"
+    },
+    {
+      "id": "a2-17-durer",
+      "fr": "durer",
+      "en": "to last"
+    },
+    {
+      "id": "a2-17-ca-parle-de",
+      "fr": "ça parle de…",
+      "en": "it's about…"
+    },
+    {
+      "id": "a2-17-ca-a-l-air",
+      "fr": "ça a l'air…",
+      "en": "it looks / sounds…"
+    },
+    {
+      "id": "a2-17-drole2",
+      "fr": "émouvant / émouvante",
+      "en": "moving, touching"
+    },
+    {
+      "id": "a2-17-ennuyeux",
+      "fr": "ennuyeux / ennuyeuse",
+      "en": "boring"
+    },
+    {
+      "id": "a2-17-depuis3",
+      "fr": "depuis",
+      "en": "since / for (still going on)"
+    },
+    {
+      "id": "a2-17-il-y-a2",
+      "fr": "il y a",
+      "en": "ago"
+    },
+    {
+      "id": "a2-17-pendant2",
+      "fr": "pendant",
+      "en": "for, during (finished)"
+    },
+    {
+      "id": "a2-17-dans2",
+      "fr": "dans",
+      "en": "in (future)"
+    },
+    {
+      "id": "a2-17-en-temps",
+      "fr": "en (+ time)",
+      "en": "in (how long it takes)",
+      "note": "« J'ai lu le livre en deux jours. »"
+    },
+    {
+      "id": "a2-17-seconde",
+      "fr": "la seconde",
+      "en": "second",
+      "gender": "f"
+    }
+  ],
+  "grammar": {
+    "title": "Time words: depuis, il y a, pendant, dans",
+    "intro": "English uses « for » and « in » for very different things. French has a precise word for each case.",
+    "table": [
+      [
+        "Word",
+        "Meaning",
+        "Example"
+      ],
+      [
+        "depuis + present",
+        "since / for (still true now)",
+        "J'habite ici depuis un an."
+      ],
+      [
+        "il y a + past",
+        "ago",
+        "Le film est sorti il y a une semaine."
+      ],
+      [
+        "pendant + past",
+        "for (finished period)",
+        "J'ai vécu à Bali pendant trois ans."
+      ],
+      [
+        "dans + future",
+        "in (from now)",
+        "On y va dans deux jours."
+      ],
+      [
+        "en",
+        "in (time needed)",
+        "J'ai vu la série en un week-end."
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "Je n'ai pas vu de film depuis un mois.",
+        "en": "I haven't seen a film for a month."
+      },
+      {
+        "fr": "Je suis arrivée il y a un an.",
+        "en": "I arrived a year ago."
+      },
+      {
+        "fr": "Le film commence dans dix minutes.",
+        "en": "The film starts in ten minutes."
+      }
+    ],
+    "trap": "depuis = it is still going on, so the verb is in the present: « je travaille ici depuis mars ». pendant = finished, so passé composé: « j'ai travaillé là-bas pendant deux ans ». « dans deux jours » (in two days' time) ≠ « en deux jours » (it takes two days)."
+  },
+  "sounds": {
+    "title": "-ille: j or l?",
+    "explain": "« -ille » is usually pronounced « y » (fille, famille, gentille). But a few words keep the l: ville, mille, tranquille, Lille.",
+    "pairs": [
+      [
+        "fille",
+        "ville"
+      ],
+      [
+        "famille",
+        "mille"
+      ],
+      [
+        "gentille",
+        "tranquille"
+      ],
+      [
+        "habille",
+        "Lille"
+      ]
+    ],
+    "tip": "Learn the 4 exceptions: ville, mille, tranquille, Lille."
+  },
+  "practice": [
+    {
+      "type": "fill",
+      "prompt": "Complete with depuis, il y a, pendant or dans.",
+      "sentence": "J'habite à Paris ___ un an.",
+      "answers": [
+        "depuis"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with depuis, il y a, pendant or dans.",
+      "sentence": "Je suis arrivée ___ un an.",
+      "answers": [
+        "il y a"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with depuis, il y a, pendant or dans.",
+      "sentence": "J'ai vécu à Bali ___ trois ans.",
+      "answers": [
+        "pendant"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with depuis, il y a, pendant or dans.",
+      "sentence": "Le film commence ___ dix minutes.",
+      "answers": [
+        "dans"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen and choose what you hear.",
+      "options": [
+        "fille",
+        "ville"
+      ],
+      "answer": "ville",
+      "listen": "ville"
+    },
+    {
+      "type": "choice",
+      "prompt": "« J'ai lu le livre en deux jours » means…",
+      "options": [
+        "I read the book two days ago.",
+        "It took me two days to read the book.",
+        "I'll read the book in two days."
+      ],
+      "answer": "It took me two days to read the book."
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Le",
+        "film",
+        "dure",
+        "deux",
+        "heures"
+      ],
+      "answer": "Le film dure deux heures"
+    },
+    {
+      "type": "choice",
+      "prompt": "« Ça parle de quoi ? » means…",
+      "options": [
+        "What's it about?",
+        "What did they say?",
+        "Who is talking?"
+      ],
+      "answer": "What's it about?"
+    },
+    {
+      "type": "choice",
+      "prompt": "« en VO » means…",
+      "options": [
+        "dubbed in French",
+        "in the original language",
+        "in 3D"
+      ],
+      "answer": "in the original language"
+    },
+    {
+      "type": "fill",
+      "prompt": "Make it feminine.",
+      "sentence": "un film ennuyeux, une série ___",
+      "answers": [
+        "ennuyeuse"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "On",
+        "y",
+        "va",
+        "dans",
+        "deux",
+        "jours"
+      ],
+      "answer": "On y va dans deux jours"
+    },
+    {
+      "type": "choice",
+      "prompt": "In the dialogue, when did the film come out?",
+      "options": [
+        "yesterday",
+        "a week ago",
+        "a month ago"
+      ],
+      "answer": "a week ago"
+    }
+  ],
+  "task": {
+    "prompt": "Recommend a film or series (6 sentences): what it is about, how long it lasts, when it came out, how long you have been watching it, and your opinion. Use depuis, il y a, pendant and dans.",
+    "example": "Je regarde une série coréenne depuis deux semaines. Elle est sortie il y a un an. Ça parle d'une infirmière à Séoul. Hier, j'ai regardé pendant trois heures ! C'est très émouvant. La saison 2 sort dans un mois.",
+    "checklist": [
+      "I can use depuis, il y a, pendant, dans",
+      "I can talk about a film or a series",
+      "I can say what it's about and give my opinion",
+      "I know the « -ille » exceptions"
+    ]
+  }
+}

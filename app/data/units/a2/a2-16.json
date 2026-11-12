@@ -1,0 +1,356 @@
+{
+  "dialogue": [
+    {
+      "who": "Tom",
+      "fr": "Tu as vu ? Il est interdit de jeter les déchets alimentaires dans la poubelle normale maintenant.",
+      "en": "Did you see? It's forbidden to throw food waste in the normal bin now."
+    },
+    {
+      "who": "Sari",
+      "fr": "Oui, on doit les mettre dans la poubelle marron. C'est mieux pour la planète.",
+      "en": "Yes, we have to put them in the brown bin. It's better for the planet."
+    },
+    {
+      "who": "Tom",
+      "fr": "Il faudrait aussi utiliser moins la voiture.",
+      "en": "We should also use the car less."
+    },
+    {
+      "who": "Sari",
+      "fr": "Tout à fait. Il ne faut pas prendre l'avion pour rien non plus.",
+      "en": "Absolutely. We mustn't take the plane for nothing either."
+    },
+    {
+      "who": "Tom",
+      "fr": "Mais pour aller voir ta famille, on est obligés !",
+      "en": "But to go and see your family, we have to!"
+    },
+    {
+      "who": "Sari",
+      "fr": "C'est vrai. Alors je compense : je ne gaspille jamais l'eau !",
+      "en": "That's true. So I make up for it: I never waste water!"
+    }
+  ],
+  "words": [
+    {
+      "id": "a2-16-planete",
+      "fr": "la planète",
+      "en": "planet",
+      "gender": "f"
+    },
+    {
+      "id": "a2-16-environnement",
+      "fr": "l'environnement",
+      "en": "environment",
+      "gender": "m"
+    },
+    {
+      "id": "a2-16-dechets",
+      "fr": "les déchets",
+      "en": "waste, rubbish",
+      "gender": "m"
+    },
+    {
+      "id": "a2-16-poubelle",
+      "fr": "la poubelle",
+      "en": "bin",
+      "gender": "f"
+    },
+    {
+      "id": "a2-16-recycler",
+      "fr": "recycler",
+      "en": "to recycle"
+    },
+    {
+      "id": "a2-16-trier",
+      "fr": "trier",
+      "en": "to sort (waste)"
+    },
+    {
+      "id": "a2-16-jeter",
+      "fr": "jeter",
+      "en": "to throw (away)",
+      "note": "je jette (double t)"
+    },
+    {
+      "id": "a2-16-gaspiller",
+      "fr": "gaspiller",
+      "en": "to waste"
+    },
+    {
+      "id": "a2-16-economiser",
+      "fr": "économiser",
+      "en": "to save (energy, money)"
+    },
+    {
+      "id": "a2-16-pollution2",
+      "fr": "la pollution",
+      "en": "pollution",
+      "gender": "f"
+    },
+    {
+      "id": "a2-16-plastique",
+      "fr": "le plastique",
+      "en": "plastic",
+      "gender": "m"
+    },
+    {
+      "id": "a2-16-energie",
+      "fr": "l'énergie",
+      "en": "energy",
+      "gender": "f"
+    },
+    {
+      "id": "a2-16-climat",
+      "fr": "le climat",
+      "en": "climate",
+      "gender": "m"
+    },
+    {
+      "id": "a2-16-interdit",
+      "fr": "il est interdit de",
+      "en": "it is forbidden to"
+    },
+    {
+      "id": "a2-16-obligatoire",
+      "fr": "obligatoire",
+      "en": "compulsory"
+    },
+    {
+      "id": "a2-16-etre-oblige",
+      "fr": "être obligé(e) de",
+      "en": "to have to, to be forced to"
+    },
+    {
+      "id": "a2-16-il-faudrait",
+      "fr": "il faudrait",
+      "en": "we should, it would be necessary"
+    },
+    {
+      "id": "a2-16-eteindre",
+      "fr": "éteindre",
+      "en": "to switch off",
+      "note": "j'éteins la lumière"
+    },
+    {
+      "id": "a2-16-lumiere",
+      "fr": "la lumière",
+      "en": "light",
+      "gender": "f"
+    },
+    {
+      "id": "a2-16-proteger",
+      "fr": "protéger",
+      "en": "to protect"
+    }
+  ],
+  "grammar": {
+    "title": "Obligation and prohibition",
+    "intro": "To say what you must or mustn't do, French has several structures, from strong to soft.",
+    "table": [
+      [
+        "Meaning",
+        "Structure",
+        "Example"
+      ],
+      [
+        "must (general)",
+        "il faut + infinitive",
+        "Il faut trier les déchets."
+      ],
+      [
+        "must (person)",
+        "devoir + infinitive",
+        "On doit recycler."
+      ],
+      [
+        "have to (no choice)",
+        "être obligé(e) de + inf.",
+        "Je suis obligée de prendre l'avion."
+      ],
+      [
+        "should (advice)",
+        "il faudrait / tu devrais + inf.",
+        "Tu devrais éteindre la lumière."
+      ],
+      [
+        "mustn't",
+        "il ne faut pas + infinitive",
+        "Il ne faut pas gaspiller."
+      ],
+      [
+        "forbidden",
+        "il est interdit de + infinitive",
+        "Il est interdit de fumer."
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "Il faut économiser l'énergie.",
+        "en": "We need to save energy."
+      },
+      {
+        "fr": "Il est interdit de jeter du plastique ici.",
+        "en": "It's forbidden to throw plastic here."
+      },
+      {
+        "fr": "Tu devrais prendre le vélo.",
+        "en": "You should take the bike."
+      }
+    ],
+    "trap": "« il ne faut pas » means you mustn't (forbidden), not « you don't have to ». For « you don't have to », say « ce n'est pas obligatoire » or « tu n'es pas obligé de ». il faudrait and tu devrais are softer: polite advice."
+  },
+  "sounds": {
+    "title": "-tion or -sion?",
+    "explain": "« -tion » is usually pronounced « sion » with an s (station). « -sion » after a vowel sounds « zion » with a z (télévision).",
+    "pairs": [
+      [
+        "station",
+        "décision"
+      ],
+      [
+        "attention",
+        "occasion"
+      ],
+      [
+        "solution",
+        "vision"
+      ],
+      [
+        "pollution",
+        "télévision"
+      ]
+    ],
+    "tip": "One s between two vowels = z."
+  },
+  "practice": [
+    {
+      "type": "fill",
+      "prompt": "Complete: it is forbidden to.",
+      "sentence": "Il est ___ de fumer.",
+      "answers": [
+        "interdit"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "\"You mustn't waste water\" is…",
+      "options": [
+        "Il ne faut pas gaspiller l'eau.",
+        "Il faut ne gaspiller l'eau.",
+        "Tu n'es pas obligé de gaspiller."
+      ],
+      "answer": "Il ne faut pas gaspiller l'eau."
+    },
+    {
+      "type": "choice",
+      "prompt": "« Tu n'es pas obligé de venir » means…",
+      "options": [
+        "You mustn't come.",
+        "You don't have to come.",
+        "You can't come."
+      ],
+      "answer": "You don't have to come."
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with devoir.",
+      "sentence": "On ___ trier les déchets.",
+      "answers": [
+        "doit"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen and choose what you hear.",
+      "options": [
+        "station",
+        "décision"
+      ],
+      "answer": "décision",
+      "listen": "décision"
+    },
+    {
+      "type": "choice",
+      "prompt": "The softest advice:",
+      "options": [
+        "Il faut éteindre la lumière.",
+        "Tu devrais éteindre la lumière.",
+        "Éteins la lumière !"
+      ],
+      "answer": "Tu devrais éteindre la lumière."
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Il",
+        "faut",
+        "recycler",
+        "le",
+        "plastique"
+      ],
+      "answer": "Il faut recycler le plastique"
+    },
+    {
+      "type": "choice",
+      "prompt": "« gaspiller » means…",
+      "options": [
+        "to save",
+        "to waste",
+        "to sort"
+      ],
+      "answer": "to waste"
+    },
+    {
+      "type": "fill",
+      "prompt": "Translate: \"the bin\"",
+      "sentence": "la ___",
+      "answers": [
+        "poubelle"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "« obligatoire » means…",
+      "options": [
+        "forbidden",
+        "compulsory",
+        "free"
+      ],
+      "answer": "compulsory"
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Je",
+        "suis",
+        "obligée",
+        "de",
+        "partir"
+      ],
+      "answer": "Je suis obligée de partir"
+    },
+    {
+      "type": "choice",
+      "prompt": "In the dialogue, which bin is for food waste?",
+      "options": [
+        "the yellow bin",
+        "the brown bin",
+        "the normal bin"
+      ],
+      "answer": "the brown bin"
+    }
+  ],
+  "task": {
+    "prompt": "Write 6 rules or pieces of advice to protect the planet at home, using at least 4 different structures (il faut, on doit, il ne faut pas, il est interdit de, tu devrais…).",
+    "example": "Il faut trier les déchets. On doit éteindre la lumière en partant. Il ne faut pas gaspiller l'eau. Il est interdit de jeter les piles à la poubelle. Tu devrais prendre ton vélo. On n'est pas obligés d'acheter du plastique !",
+    "checklist": [
+      "I can express obligation with il faut and devoir",
+      "I can express prohibition with il ne faut pas and il est interdit de",
+      "I can give soft advice with tu devrais",
+      "I know 10 words about the environment"
+    ]
+  }
+}

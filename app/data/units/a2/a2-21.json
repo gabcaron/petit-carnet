@@ -1,0 +1,351 @@
+{
+  "dialogue": [
+    {
+      "who": "La recruteuse",
+      "fr": "Bonjour madame Wulandari. Parlez-moi de vous.",
+      "en": "Hello Ms Wulandari. Tell me about yourself."
+    },
+    {
+      "who": "Sari",
+      "fr": "Je suis infirmière. J'ai travaillé cinq ans à Jakarta, dans un grand hôpital.",
+      "en": "I am a nurse. I worked for five years in Jakarta, in a big hospital."
+    },
+    {
+      "who": "La recruteuse",
+      "fr": "Et pourquoi voulez-vous travailler dans notre clinique ?",
+      "en": "And why do you want to work in our clinic?"
+    },
+    {
+      "who": "Sari",
+      "fr": "C'est une clinique connue pour son équipe. Et je cherche un poste de nuit.",
+      "en": "It's a clinic known for its team. And I'm looking for a night position."
+    },
+    {
+      "who": "La recruteuse",
+      "fr": "Votre chef précédent, il est content de votre travail ?",
+      "en": "Your previous boss, is he happy with your work?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Oui, c'est un homme très exigeant, mais il a écrit une lettre de recommandation.",
+      "en": "Yes, he's a very demanding man, but he wrote a recommendation letter."
+    }
+  ],
+  "words": [
+    {
+      "id": "a2-21-emploi",
+      "fr": "l'emploi",
+      "en": "job, employment",
+      "gender": "m",
+      "note": "« chercher un emploi »"
+    },
+    {
+      "id": "a2-21-poste",
+      "fr": "le poste",
+      "en": "position, post",
+      "gender": "m"
+    },
+    {
+      "id": "a2-21-offre",
+      "fr": "l'offre d'emploi",
+      "en": "job offer",
+      "gender": "f"
+    },
+    {
+      "id": "a2-21-cv",
+      "fr": "le CV",
+      "en": "CV, résumé",
+      "gender": "m"
+    },
+    {
+      "id": "a2-21-lettre-motivation",
+      "fr": "la lettre de motivation",
+      "en": "cover letter",
+      "gender": "f"
+    },
+    {
+      "id": "a2-21-entretien",
+      "fr": "l'entretien",
+      "en": "job interview",
+      "gender": "m"
+    },
+    {
+      "id": "a2-21-candidat",
+      "fr": "candidat / candidate",
+      "en": "candidate, applicant"
+    },
+    {
+      "id": "a2-21-postuler",
+      "fr": "postuler",
+      "en": "to apply (for a job)"
+    },
+    {
+      "id": "a2-21-embaucher",
+      "fr": "embaucher",
+      "en": "to hire"
+    },
+    {
+      "id": "a2-21-experience",
+      "fr": "l'expérience",
+      "en": "experience",
+      "gender": "f"
+    },
+    {
+      "id": "a2-21-diplome",
+      "fr": "le diplôme",
+      "en": "diploma, degree",
+      "gender": "m"
+    },
+    {
+      "id": "a2-21-competence",
+      "fr": "la compétence",
+      "en": "skill",
+      "gender": "f"
+    },
+    {
+      "id": "a2-21-contrat",
+      "fr": "le contrat",
+      "en": "contract",
+      "gender": "m",
+      "note": "CDI = permanent, CDD = fixed-term"
+    },
+    {
+      "id": "a2-21-exigeant",
+      "fr": "exigeant / exigeante",
+      "en": "demanding"
+    },
+    {
+      "id": "a2-21-motive",
+      "fr": "motivé / motivée",
+      "en": "motivated"
+    },
+    {
+      "id": "a2-21-connu",
+      "fr": "connu / connue",
+      "en": "well-known"
+    },
+    {
+      "id": "a2-21-precedent",
+      "fr": "précédent / précédente",
+      "en": "previous"
+    },
+    {
+      "id": "a2-21-clinique",
+      "fr": "la clinique",
+      "en": "clinic, private hospital",
+      "gender": "f"
+    },
+    {
+      "id": "a2-21-de-nuit",
+      "fr": "de nuit / de jour",
+      "en": "night / day (shift)"
+    },
+    {
+      "id": "a2-21-parlez-moi",
+      "fr": "Parlez-moi de vous.",
+      "en": "Tell me about yourself."
+    }
+  ],
+  "grammar": {
+    "title": "c'est or il / elle est?",
+    "intro": "Both mean « he / she / it is ». The rule depends on what follows: a determiner (un, le, mon…) needs c'est; an adjective alone or a job alone takes il / elle est.",
+    "table": [
+      [
+        "Followed by",
+        "Use",
+        "Example"
+      ],
+      [
+        "un / une / le / mon… + noun",
+        "c'est / ce sont",
+        "C'est un homme exigeant."
+      ],
+      [
+        "a name or stressed pronoun",
+        "c'est",
+        "C'est Léa. C'est moi."
+      ],
+      [
+        "a job alone (no article)",
+        "il / elle est",
+        "Elle est infirmière."
+      ],
+      [
+        "an adjective about a person",
+        "il / elle est",
+        "Il est exigeant."
+      ],
+      [
+        "an adjective about a situation",
+        "c'est",
+        "C'est difficile !"
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "Elle est infirmière. C'est une bonne infirmière.",
+        "en": "She's a nurse. She's a good nurse."
+      },
+      {
+        "fr": "C'est une clinique connue.",
+        "en": "It's a well-known clinic."
+      },
+      {
+        "fr": "Le travail de nuit ? C'est fatigant !",
+        "en": "Night work? It's tiring!"
+      }
+    ],
+    "trap": "Never « il est un homme »: with un / une, always c'est. Never « c'est infirmière »: a job alone takes il / elle est. For something general or a whole situation: « c'est beau, c'est cher, c'est génial »."
+  },
+  "sounds": {
+    "title": "c'est or il est?",
+    "explain": "Train your ear: « c'est » starts with an s sound, « il est » with an il, and « ce sont » with an s too.",
+    "pairs": [
+      [
+        "c'est",
+        "il est"
+      ],
+      [
+        "c'est un prof",
+        "il est prof"
+      ],
+      [
+        "elle est",
+        "c'est elle"
+      ],
+      [
+        "ils sont",
+        "ce sont"
+      ]
+    ],
+    "tip": "Listen to the first sound: s = c'est, i = il est."
+  },
+  "practice": [
+    {
+      "type": "fill",
+      "prompt": "Complete with c'est or il est.",
+      "sentence": "___ infirmier.",
+      "answers": [
+        "il est"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with c'est or il est.",
+      "sentence": "___ un bon infirmier.",
+      "answers": [
+        "c'est"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Which one is correct?",
+      "options": [
+        "Il est un homme sympa.",
+        "C'est un homme sympa."
+      ],
+      "answer": "C'est un homme sympa."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which one is correct?",
+      "options": [
+        "C'est médecin.",
+        "Elle est médecin."
+      ],
+      "answer": "Elle est médecin."
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen and choose what you hear.",
+      "options": [
+        "c'est un prof",
+        "il est prof"
+      ],
+      "answer": "il est prof",
+      "listen": "il est prof"
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with c'est or il est.",
+      "sentence": "Le travail de nuit ? ___ fatigant !",
+      "answers": [
+        "c'est"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "J'ai",
+        "travaillé",
+        "cinq",
+        "ans",
+        "à",
+        "Jakarta"
+      ],
+      "answer": "J'ai travaillé cinq ans à Jakarta"
+    },
+    {
+      "type": "choice",
+      "prompt": "« postuler » means…",
+      "options": [
+        "to hire",
+        "to apply",
+        "to fire"
+      ],
+      "answer": "to apply"
+    },
+    {
+      "type": "choice",
+      "prompt": "« un entretien » is…",
+      "options": [
+        "a job interview",
+        "a contract",
+        "a CV"
+      ],
+      "answer": "a job interview"
+    },
+    {
+      "type": "fill",
+      "prompt": "Translate: \"experience\"",
+      "sentence": "l'___",
+      "answers": [
+        "expérience"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Je",
+        "cherche",
+        "un",
+        "poste",
+        "de",
+        "nuit"
+      ],
+      "answer": "Je cherche un poste de nuit"
+    },
+    {
+      "type": "choice",
+      "prompt": "In the dialogue, how long did Sari work in Jakarta?",
+      "options": [
+        "three years",
+        "five years",
+        "ten years"
+      ],
+      "answer": "five years"
+    }
+  ],
+  "task": {
+    "prompt": "Prepare a job interview: present yourself (job, experience, skills), explain why you want this job, and describe a former boss or colleague using c'est and il / elle est.",
+    "example": "Je suis infirmière. J'ai cinq ans d'expérience. Je suis motivée et patiente. Je veux travailler dans votre clinique parce que c'est une clinique connue. Mon ancienne chef, c'est une femme très exigeante. Elle est sévère mais juste.",
+    "checklist": [
+      "I can choose between c'est and il / elle est",
+      "I can present my experience",
+      "I know job-hunting words",
+      "I can answer « Parlez-moi de vous »"
+    ]
+  }
+}

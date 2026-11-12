@@ -1,0 +1,353 @@
+{
+  "dialogue": [
+    {
+      "who": "Léa",
+      "fr": "Allô Sari ? Qu'est-ce que tu fais ?",
+      "en": "Hello Sari? What are you doing?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Je suis en train de cuisiner. Je prépare un rendang pour ce soir !",
+      "en": "I'm cooking right now. I'm making a rendang for tonight!"
+    },
+    {
+      "who": "Léa",
+      "fr": "Miam ! Et Tom, il est là ?",
+      "en": "Yum! And Tom, is he there?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Oui, il est en train de ranger le salon. Pourquoi ?",
+      "en": "Yes, he's tidying the living room. Why?"
+    },
+    {
+      "who": "Léa",
+      "fr": "Je suis en train d'écrire les invitations pour samedi. Vous venez ?",
+      "en": "I'm writing the invitations for Saturday. Are you coming?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Bien sûr ! Je te rappelle plus tard, ça brûle !",
+      "en": "Of course! I'll call you back later, it's burning!"
+    }
+  ],
+  "words": [
+    {
+      "id": "a1-15-allo",
+      "fr": "allô ?",
+      "en": "hello? (on the phone)"
+    },
+    {
+      "id": "a1-15-portable",
+      "fr": "le portable",
+      "en": "mobile phone",
+      "gender": "m"
+    },
+    {
+      "id": "a1-15-appel",
+      "fr": "l'appel",
+      "en": "call",
+      "gender": "m"
+    },
+    {
+      "id": "a1-15-rappeler",
+      "fr": "rappeler",
+      "en": "to call back"
+    },
+    {
+      "id": "a1-15-sms",
+      "fr": "le texto",
+      "en": "text message",
+      "gender": "m",
+      "note": "Also: un SMS, un message."
+    },
+    {
+      "id": "a1-15-repondeur",
+      "fr": "le répondeur",
+      "en": "voicemail",
+      "gender": "m"
+    },
+    {
+      "id": "a1-15-en-ce-moment",
+      "fr": "en ce moment",
+      "en": "at the moment, currently"
+    },
+    {
+      "id": "a1-15-maintenant",
+      "fr": "maintenant",
+      "en": "now"
+    },
+    {
+      "id": "a1-15-en-train-de",
+      "fr": "être en train de + infinitive",
+      "en": "to be doing (right now)"
+    },
+    {
+      "id": "a1-15-ecrire2",
+      "fr": "écrire",
+      "en": "to write",
+      "note": "j'écris, tu écris, il écrit"
+    },
+    {
+      "id": "a1-15-lire2",
+      "fr": "lire un livre",
+      "en": "to read a book"
+    },
+    {
+      "id": "a1-15-dormir2",
+      "fr": "dormir",
+      "en": "to sleep",
+      "note": "je dors, tu dors, il dort"
+    },
+    {
+      "id": "a1-15-ranger2",
+      "fr": "ranger le salon",
+      "en": "to tidy the living room"
+    },
+    {
+      "id": "a1-15-travailler2",
+      "fr": "travailler sur l'ordinateur",
+      "en": "to work on the computer"
+    },
+    {
+      "id": "a1-15-se-maquiller",
+      "fr": "se maquiller",
+      "en": "to put on make-up"
+    },
+    {
+      "id": "a1-15-occupe",
+      "fr": "occupé / occupée",
+      "en": "busy"
+    },
+    {
+      "id": "a1-15-libre",
+      "fr": "libre",
+      "en": "free, available"
+    },
+    {
+      "id": "a1-15-deranger",
+      "fr": "déranger",
+      "en": "to disturb",
+      "note": "« Je te dérange ? » = Am I disturbing you?"
+    },
+    {
+      "id": "a1-15-plus-tard2",
+      "fr": "à plus tard",
+      "en": "see you later"
+    },
+    {
+      "id": "a1-15-bruler",
+      "fr": "brûler",
+      "en": "to burn"
+    }
+  ],
+  "grammar": {
+    "title": "être en train de: happening right now",
+    "intro": "English has « I cook » and « I am cooking ». French usually says « je cuisine » for both. To insist that it is happening right now, use être + en train de + infinitive.",
+    "table": [
+      [
+        "",
+        "être",
+        "+ en train de + infinitive"
+      ],
+      [
+        "je",
+        "suis",
+        "en train de cuisiner"
+      ],
+      [
+        "tu",
+        "es",
+        "en train de dormir"
+      ],
+      [
+        "il / elle",
+        "est",
+        "en train de ranger"
+      ],
+      [
+        "nous",
+        "sommes",
+        "en train de manger"
+      ],
+      [
+        "vous",
+        "êtes",
+        "en train d'écrire"
+      ],
+      [
+        "ils / elles",
+        "sont",
+        "en train de travailler"
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "Je suis en train de cuisiner.",
+        "en": "I'm cooking (right now)."
+      },
+      {
+        "fr": "Il est en train de dormir, ne fais pas de bruit !",
+        "en": "He's sleeping, don't make any noise!"
+      },
+      {
+        "fr": "Tu es occupée ? — Oui, je suis en train d'écrire.",
+        "en": "Are you busy? — Yes, I'm writing."
+      }
+    ],
+    "trap": "Only être changes; « en train de » never does. de becomes d' before a vowel: « en train d'écrire ». Don't overuse it: « Je parle français » (I speak French in general) — not « je suis en train de parler français »."
+  },
+  "sounds": {
+    "title": "p or b?",
+    "explain": "In Indonesian, final p and b sound alike. In French, p is crisp with a little puff of air; b vibrates.",
+    "pairs": [
+      [
+        "pain",
+        "bain"
+      ],
+      [
+        "poisson",
+        "boisson"
+      ],
+      [
+        "pas",
+        "bas"
+      ],
+      [
+        "pont",
+        "bon"
+      ]
+    ],
+    "tip": "Put your hand on your throat: b buzzes, p does not."
+  },
+  "practice": [
+    {
+      "type": "fill",
+      "prompt": "Complete with être.",
+      "sentence": "Je ___ en train de cuisiner.",
+      "answers": [
+        "suis"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete.",
+      "sentence": "Il est en ___ de dormir.",
+      "answers": [
+        "train"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete.",
+      "sentence": "Nous sommes en train ___ écrire.",
+      "answers": [
+        "d'"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "\"She is working right now\" is…",
+      "options": [
+        "Elle est en train de travailler.",
+        "Elle est en train travailler.",
+        "Elle a en train de travailler."
+      ],
+      "answer": "Elle est en train de travailler."
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen and choose what you hear.",
+      "options": [
+        "poisson",
+        "boisson"
+      ],
+      "answer": "boisson",
+      "listen": "boisson"
+    },
+    {
+      "type": "choice",
+      "prompt": "« Je te dérange ? » means…",
+      "options": [
+        "Are you busy?",
+        "Am I disturbing you?",
+        "Can you call me back?"
+      ],
+      "answer": "Am I disturbing you?"
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Tu",
+        "es",
+        "en",
+        "train",
+        "de",
+        "lire"
+      ],
+      "answer": "Tu es en train de lire"
+    },
+    {
+      "type": "choice",
+      "prompt": "On the phone, French people say…",
+      "options": [
+        "Allô ?",
+        "Bonjour ?",
+        "Oui ?"
+      ],
+      "answer": "Allô ?"
+    },
+    {
+      "type": "fill",
+      "prompt": "Translate: \"I'll call you back.\"",
+      "sentence": "Je te ___.",
+      "answers": [
+        "rappelle"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "« Je suis occupée » means…",
+      "options": [
+        "I'm free.",
+        "I'm busy.",
+        "I'm tired."
+      ],
+      "answer": "I'm busy."
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Ils",
+        "sont",
+        "en",
+        "train",
+        "de",
+        "manger"
+      ],
+      "answer": "Ils sont en train de manger"
+    },
+    {
+      "type": "choice",
+      "prompt": "In the dialogue, what is Tom doing?",
+      "options": [
+        "cooking",
+        "tidying the living room",
+        "writing invitations"
+      ],
+      "answer": "tidying the living room"
+    }
+  ],
+  "task": {
+    "prompt": "A friend calls you. Write the phone conversation: say what you and the people at home are doing right now, and arrange to call back.",
+    "example": "Allô ? Oui, c'est Sari. Je suis en train de travailler. Tom est en train de dormir. Je te rappelle ce soir, d'accord ? À plus tard !",
+    "checklist": [
+      "I can answer the phone in French",
+      "I can say what is happening right now with être en train de",
+      "I can say I am busy or free",
+      "I can arrange to call back"
+    ]
+  }
+}

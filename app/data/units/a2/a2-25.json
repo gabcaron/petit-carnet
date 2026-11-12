@@ -1,0 +1,350 @@
+{
+  "dialogue": [
+    {
+      "who": "Léa",
+      "fr": "Ça fait deux ans que tu es en France. Tu te souviens de ton arrivée ?",
+      "en": "You've been in France for two years. Do you remember when you arrived?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Oh oui ! Il faisait froid, je ne parlais pas un mot de français et je ne connaissais personne.",
+      "en": "Oh yes! It was cold, I didn't speak a word of French and I didn't know anybody."
+    },
+    {
+      "who": "Léa",
+      "fr": "Et maintenant ?",
+      "en": "And now?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Maintenant, je travaille dans une clinique, j'ai des amis et je viens de réussir le DELF A2 !",
+      "en": "Now I work in a clinic, I have friends and I've just passed the DELF A2!"
+    },
+    {
+      "who": "Léa",
+      "fr": "Bravo ! Et dans cinq ans, tu seras où ?",
+      "en": "Well done! And in five years, where will you be?"
+    },
+    {
+      "who": "Sari",
+      "fr": "J'espère que je serai à Lyon, avec Tom. Et je vais commencer le niveau B1 la semaine prochaine !",
+      "en": "I hope I'll be in Lyon, with Tom. And I'm going to start level B1 next week!"
+    }
+  ],
+  "words": [
+    {
+      "id": "a2-25-se-souvenir",
+      "fr": "se souvenir de",
+      "en": "to remember"
+    },
+    {
+      "id": "a2-25-arrivee",
+      "fr": "l'arrivée",
+      "en": "arrival",
+      "gender": "f"
+    },
+    {
+      "id": "a2-25-depart",
+      "fr": "le départ",
+      "en": "departure",
+      "gender": "m"
+    },
+    {
+      "id": "a2-25-au-debut",
+      "fr": "au début",
+      "en": "at the beginning"
+    },
+    {
+      "id": "a2-25-a-la-fin",
+      "fr": "à la fin",
+      "en": "in the end, at the end"
+    },
+    {
+      "id": "a2-25-petit-a-petit",
+      "fr": "petit à petit",
+      "en": "little by little"
+    },
+    {
+      "id": "a2-25-aujourd-hui",
+      "fr": "aujourd'hui",
+      "en": "today; nowadays"
+    },
+    {
+      "id": "a2-25-a-l-avenir",
+      "fr": "à l'avenir",
+      "en": "in the future"
+    },
+    {
+      "id": "a2-25-esperer2",
+      "fr": "espérer que",
+      "en": "to hope that"
+    },
+    {
+      "id": "a2-25-reussir3",
+      "fr": "réussir à + infinitive",
+      "en": "to manage to"
+    },
+    {
+      "id": "a2-25-courage",
+      "fr": "le courage",
+      "en": "courage",
+      "gender": "m"
+    },
+    {
+      "id": "a2-25-fier",
+      "fr": "fier / fière",
+      "en": "proud"
+    },
+    {
+      "id": "a2-25-reconnaissant",
+      "fr": "reconnaissant / reconnaissante",
+      "en": "grateful"
+    },
+    {
+      "id": "a2-25-mal-du-pays",
+      "fr": "avoir le mal du pays",
+      "en": "to be homesick"
+    },
+    {
+      "id": "a2-25-s-integrer",
+      "fr": "s'intégrer",
+      "en": "to fit in, to integrate"
+    },
+    {
+      "id": "a2-25-etape",
+      "fr": "l'étape",
+      "en": "stage, step",
+      "gender": "f"
+    },
+    {
+      "id": "a2-25-objectif",
+      "fr": "l'objectif",
+      "en": "goal",
+      "gender": "m"
+    },
+    {
+      "id": "a2-25-atteindre",
+      "fr": "atteindre",
+      "en": "to reach",
+      "note": "j'atteins, j'ai atteint"
+    },
+    {
+      "id": "a2-25-changer-vie",
+      "fr": "changer de vie",
+      "en": "to change your life"
+    },
+    {
+      "id": "a2-25-un-mot",
+      "fr": "ne pas parler un mot de",
+      "en": "not to speak a word of"
+    }
+  ],
+  "grammar": {
+    "title": "Telling your story: all the A2 tenses",
+    "intro": "At the end of A2, you can tell a whole story across time. Each tense has its job — the time words help you choose.",
+    "table": [
+      [
+        "Job",
+        "Tense",
+        "Example"
+      ],
+      [
+        "description, habit in the past",
+        "imparfait",
+        "Il faisait froid, je ne connaissais personne."
+      ],
+      [
+        "event in the past",
+        "passé composé",
+        "Je suis arrivée en novembre."
+      ],
+      [
+        "just happened",
+        "venir de + infinitive",
+        "Je viens de réussir le DELF."
+      ],
+      [
+        "now, since",
+        "présent (+ depuis)",
+        "Je travaille ici depuis un an."
+      ],
+      [
+        "soon, planned",
+        "aller + infinitive",
+        "Je vais commencer le B1."
+      ],
+      [
+        "later, hopes",
+        "futur simple",
+        "J'espère que je serai à Lyon."
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "Quand je suis arrivée, il neigeait.",
+        "en": "When I arrived, it was snowing."
+      },
+      {
+        "fr": "J'habite à Paris depuis deux ans.",
+        "en": "I've been living in Paris for two years."
+      },
+      {
+        "fr": "Dans cinq ans, nous aurons une maison.",
+        "en": "In five years, we will have a house."
+      }
+    ],
+    "trap": "The classic mix-up: imparfait for the scene (« il faisait froid »), passé composé for the action (« je suis arrivée »). After espérer que, use the future for a future hope: « j'espère que tu viendras ». Bravo for finishing A2!"
+  },
+  "sounds": {
+    "title": "Which tense?",
+    "explain": "The same verb in four tenses: listen to the beginning and the end of the verb to find the time.",
+    "pairs": [
+      [
+        "je finis",
+        "j'ai fini"
+      ],
+      [
+        "je finissais",
+        "je finirai"
+      ],
+      [
+        "je partais",
+        "je partirai"
+      ],
+      [
+        "il venait",
+        "il viendra"
+      ]
+    ],
+    "tip": "Imparfait ends in « è », futur has an « r » before the ending."
+  },
+  "practice": [
+    {
+      "type": "fill",
+      "prompt": "Imparfait of « faire ».",
+      "sentence": "Quand je suis arrivée, il ___ froid.",
+      "answers": [
+        "faisait"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Passé composé of « arriver » (Sari).",
+      "sentence": "Je suis ___ en novembre.",
+      "answers": [
+        "arrivée"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Futur simple of « être ».",
+      "sentence": "J'espère que je ___ à Lyon.",
+      "answers": [
+        "serai"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Which tense for a description in the past?",
+      "options": [
+        "passé composé",
+        "imparfait",
+        "futur simple"
+      ],
+      "answer": "imparfait"
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen and choose what you hear.",
+      "options": [
+        "je finissais",
+        "je finirai"
+      ],
+      "answer": "je finirai",
+      "listen": "je finirai"
+    },
+    {
+      "type": "choice",
+      "prompt": "\"I've been working here for a year\" is…",
+      "options": [
+        "J'ai travaillé ici depuis un an.",
+        "Je travaille ici depuis un an."
+      ],
+      "answer": "Je travaille ici depuis un an."
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Je",
+        "viens",
+        "de",
+        "réussir",
+        "le",
+        "DELF"
+      ],
+      "answer": "Je viens de réussir le DELF"
+    },
+    {
+      "type": "choice",
+      "prompt": "« avoir le mal du pays » means…",
+      "options": [
+        "to be homesick",
+        "to be ill",
+        "to hate the country"
+      ],
+      "answer": "to be homesick"
+    },
+    {
+      "type": "choice",
+      "prompt": "« petit à petit » means…",
+      "options": [
+        "very small",
+        "little by little",
+        "a little"
+      ],
+      "answer": "little by little"
+    },
+    {
+      "type": "fill",
+      "prompt": "Translate: \"proud\" (woman)",
+      "sentence": "Je suis ___.",
+      "answers": [
+        "fière"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Je",
+        "me",
+        "souviens",
+        "de",
+        "mon",
+        "arrivée"
+      ],
+      "answer": "Je me souviens de mon arrivée"
+    },
+    {
+      "type": "choice",
+      "prompt": "In the dialogue, what has Sari just done?",
+      "options": [
+        "found a job",
+        "passed the DELF A2",
+        "moved to Lyon"
+      ],
+      "answer": "passed the DELF A2"
+    }
+  ],
+  "task": {
+    "prompt": "Write your own story in 10 sentences: your life before, your arrival, what has changed, your life now, and your hopes for the future. Use every tense of A2.",
+    "example": "Avant, j'habitais à Jakarta et je travaillais dans un grand hôpital. Je suis arrivée en France il y a deux ans. Au début, c'était difficile : il faisait froid et je ne parlais pas français. Petit à petit, je me suis intégrée. Aujourd'hui, je travaille dans une clinique depuis un an. J'ai beaucoup d'amis. Je viens de réussir le DELF A2 ! Je vais commencer le B1. Dans cinq ans, j'espère que nous habiterons à Lyon. Je suis fière de moi !",
+    "checklist": [
+      "I can tell my story using all the A2 tenses",
+      "I can choose between imparfait and passé composé",
+      "I can talk about my hopes with the futur simple",
+      "I am ready for B1!"
+    ]
+  }
+}

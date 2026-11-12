@@ -1,0 +1,351 @@
+{
+  "dialogue": [
+    {
+      "who": "Léa",
+      "fr": "Ça fait combien de temps que tu habites en France ?",
+      "en": "How long have you been living in France?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Un an. Je suis arrivée en novembre, je travaille à l'hôpital depuis mars.",
+      "en": "A year. I arrived in November, I've been working at the hospital since March."
+    },
+    {
+      "who": "Léa",
+      "fr": "Et maintenant, tu parles bien français !",
+      "en": "And now you speak French well!"
+    },
+    {
+      "who": "Sari",
+      "fr": "Pas encore, mais je fais des progrès. Hier, j'ai parlé une heure avec ma voisine !",
+      "en": "Not yet, but I'm making progress. Yesterday I talked for an hour with my neighbour!"
+    },
+    {
+      "who": "Léa",
+      "fr": "Bravo ! Et l'année prochaine ?",
+      "en": "Well done! And next year?"
+    },
+    {
+      "who": "Sari",
+      "fr": "Je vais passer le DELF A2. Et je vais faire un grand voyage en France avec Tom.",
+      "en": "I'm going to take the DELF A2. And I'm going to do a big trip around France with Tom."
+    }
+  ],
+  "words": [
+    {
+      "id": "a1-24-progres",
+      "fr": "faire des progrès",
+      "en": "to make progress"
+    },
+    {
+      "id": "a1-24-niveau",
+      "fr": "le niveau",
+      "en": "level",
+      "gender": "m"
+    },
+    {
+      "id": "a1-24-examen",
+      "fr": "l'examen",
+      "en": "exam",
+      "gender": "m",
+      "note": "« passer un examen » = to take an exam"
+    },
+    {
+      "id": "a1-24-reussir2",
+      "fr": "réussir un examen",
+      "en": "to pass an exam"
+    },
+    {
+      "id": "a1-24-apprendre2",
+      "fr": "apprendre",
+      "en": "to learn",
+      "note": "Like prendre: j'apprends, nous apprenons."
+    },
+    {
+      "id": "a1-24-comprendre2",
+      "fr": "comprendre",
+      "en": "to understand"
+    },
+    {
+      "id": "a1-24-expliquer",
+      "fr": "expliquer",
+      "en": "to explain"
+    },
+    {
+      "id": "a1-24-pratiquer",
+      "fr": "pratiquer",
+      "en": "to practise"
+    },
+    {
+      "id": "a1-24-se-tromper",
+      "fr": "se tromper",
+      "en": "to make a mistake",
+      "note": "« Je me trompe souvent. »"
+    },
+    {
+      "id": "a1-24-erreur",
+      "fr": "l'erreur",
+      "en": "mistake",
+      "gender": "f"
+    },
+    {
+      "id": "a1-24-difficile",
+      "fr": "difficile",
+      "en": "difficult"
+    },
+    {
+      "id": "a1-24-facile",
+      "fr": "facile",
+      "en": "easy"
+    },
+    {
+      "id": "a1-24-pas-encore",
+      "fr": "pas encore",
+      "en": "not yet"
+    },
+    {
+      "id": "a1-24-deja2",
+      "fr": "déjà",
+      "en": "already"
+    },
+    {
+      "id": "a1-24-depuis2",
+      "fr": "depuis",
+      "en": "since, for (still true now)",
+      "note": "« depuis mars », « depuis un an »"
+    },
+    {
+      "id": "a1-24-ca-fait",
+      "fr": "ça fait… que",
+      "en": "it's been… since",
+      "note": "« Ça fait un an que j'habite ici. »"
+    },
+    {
+      "id": "a1-24-etranger2",
+      "fr": "étranger / étrangère",
+      "en": "foreign; foreigner"
+    },
+    {
+      "id": "a1-24-s-habituer",
+      "fr": "s'habituer à",
+      "en": "to get used to"
+    },
+    {
+      "id": "a1-24-manquer",
+      "fr": "tu me manques",
+      "en": "I miss you",
+      "note": "Literally: you are missing to me."
+    },
+    {
+      "id": "a1-24-bravo",
+      "fr": "Bravo !",
+      "en": "Well done!"
+    }
+  ],
+  "grammar": {
+    "title": "Past, present, future: the A1 toolbox",
+    "intro": "At the end of A1, you can already talk about your past, your present and your future with three tools. The time words tell which one to use.",
+    "table": [
+      [
+        "Time",
+        "Tense",
+        "Example"
+      ],
+      [
+        "hier, la semaine dernière, en 2025",
+        "passé composé",
+        "Hier, j'ai parlé avec ma voisine."
+      ],
+      [
+        "just now",
+        "venir de + infinitive",
+        "Je viens de finir."
+      ],
+      [
+        "maintenant, depuis",
+        "présent",
+        "J'habite en France depuis un an."
+      ],
+      [
+        "right now",
+        "être en train de",
+        "Je suis en train de lire."
+      ],
+      [
+        "demain, l'année prochaine",
+        "aller + infinitive",
+        "Je vais passer le DELF."
+      ]
+    ],
+    "examples": [
+      {
+        "fr": "Je suis arrivée en France l'année dernière.",
+        "en": "I arrived in France last year."
+      },
+      {
+        "fr": "Je travaille ici depuis mars.",
+        "en": "I've been working here since March."
+      },
+      {
+        "fr": "Demain, je vais voir ma famille.",
+        "en": "Tomorrow I'm going to see my family."
+      }
+    ],
+    "trap": "depuis + present: English uses « I have been living », French uses the present: « j'habite ici depuis un an » (never « j'ai habité depuis »). « Ça fait un an que… » means the same. « Tu me manques » = I miss you: the person you miss is the subject!"
+  },
+  "sounds": {
+    "title": "Past, present or future?",
+    "explain": "Listen to the beginning: « j'ai / je suis » = past, « je vais » = future, nothing = present.",
+    "pairs": [
+      [
+        "je fais",
+        "j'ai fait"
+      ],
+      [
+        "je fais",
+        "je vais faire"
+      ],
+      [
+        "je sors",
+        "je suis sortie"
+      ],
+      [
+        "je pars",
+        "je vais partir"
+      ]
+    ],
+    "tip": "Catch the first word: it gives the time."
+  },
+  "practice": [
+    {
+      "type": "fill",
+      "prompt": "Complete with depuis.",
+      "sentence": "J'habite en France ___ un an.",
+      "answers": [
+        "depuis"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "\"I've been living here for a year\" is…",
+      "options": [
+        "J'ai habité ici depuis un an.",
+        "J'habite ici depuis un an.",
+        "Je vais habiter ici un an."
+      ],
+      "answer": "J'habite ici depuis un an.",
+      "explain": "depuis + present."
+    },
+    {
+      "type": "choice",
+      "prompt": "Which tense for « demain »?",
+      "options": [
+        "passé composé",
+        "aller + infinitive",
+        "venir de"
+      ],
+      "answer": "aller + infinitive"
+    },
+    {
+      "type": "fill",
+      "prompt": "Passé composé of « parler ».",
+      "sentence": "Hier, j'ai ___ avec ma voisine.",
+      "answers": [
+        "parlé"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Listen and choose what you hear.",
+      "options": [
+        "je fais",
+        "je vais faire"
+      ],
+      "answer": "je vais faire",
+      "listen": "je vais faire"
+    },
+    {
+      "type": "fill",
+      "prompt": "Complete with aller.",
+      "sentence": "Je ___ passer le DELF.",
+      "answers": [
+        "vais"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Je",
+        "viens",
+        "de",
+        "finir",
+        "mon",
+        "travail"
+      ],
+      "answer": "Je viens de finir mon travail"
+    },
+    {
+      "type": "choice",
+      "prompt": "« Tu me manques » means…",
+      "options": [
+        "You miss me.",
+        "I miss you.",
+        "You are missing."
+      ],
+      "answer": "I miss you."
+    },
+    {
+      "type": "choice",
+      "prompt": "« pas encore » means…",
+      "options": [
+        "already",
+        "not yet",
+        "never"
+      ],
+      "answer": "not yet"
+    },
+    {
+      "type": "fill",
+      "prompt": "Translate: \"a mistake\"",
+      "sentence": "une ___",
+      "answers": [
+        "erreur"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt": "Make the sentence.",
+      "words": [
+        "Ça",
+        "fait",
+        "un",
+        "an",
+        "que",
+        "j'habite",
+        "ici"
+      ],
+      "answer": "Ça fait un an que j'habite ici"
+    },
+    {
+      "type": "choice",
+      "prompt": "In the dialogue, what is Sari going to do next year?",
+      "options": [
+        "go back to Indonesia",
+        "take the DELF A2",
+        "change jobs"
+      ],
+      "answer": "take the DELF A2"
+    }
+  ],
+  "task": {
+    "prompt": "Tell your story in France (8 sentences): when you arrived, what you have done, what you do now and since when, and what you are going to do next.",
+    "example": "Je suis arrivée en France en novembre dernier. Au début, j'ai eu beaucoup de problèmes. J'ai trouvé un travail à l'hôpital. Maintenant, j'habite à Paris depuis un an. Je fais des progrès. Ma famille me manque. L'année prochaine, je vais passer le DELF A2. Et je vais voyager en France !",
+    "checklist": [
+      "I can talk about my past, present and future",
+      "I can use depuis + present",
+      "I can use venir de and être en train de",
+      "I am ready for A2!"
+    ]
+  }
+}
